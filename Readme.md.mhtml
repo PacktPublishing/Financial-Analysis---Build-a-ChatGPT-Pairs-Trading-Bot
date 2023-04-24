@@ -1,0 +1,3756 @@
+From: <Saved by Blink>
+Snapshot-Content-Location: https://stackedit.io/app#
+Subject: StackEdit
+Date: Mon, 24 Apr 2023 13:41:14 -0000
+MIME-Version: 1.0
+Content-Type: multipart/related;
+	type="text/html";
+	boundary="----MultipartBoundary--rQdIyDWawgRmvd4wMjfemfhIfm7TXVfVZjqXWJUoxT----"
+
+
+------MultipartBoundary--rQdIyDWawgRmvd4wMjfemfhIfm7TXVfVZjqXWJUoxT----
+Content-Type: text/html
+Content-ID: <frame-239AD94AFF711400AB29E5245D1C0FA5@mhtml.blink>
+Content-Transfer-Encoding: quoted-printable
+Content-Location: https://stackedit.io/app#
+
+<!DOCTYPE html><html><head><meta http-equiv=3D"Content-Type" content=3D"tex=
+t/html; charset=3DUTF-8"><link rel=3D"stylesheet" type=3D"text/css" href=3D=
+"cid:css-582a44ad-467f-4a77-bc74-1d9d83486413@mhtml.blink" /><title>StackEd=
+it</title><link rel=3D"canonical" href=3D"https://stackedit.io/app"><meta n=
+ame=3D"description" content=3D"Free, open-source, full-featured Markdown ed=
+itor."><meta name=3D"viewport" content=3D"user-scalable=3Dno,width=3Ddevice=
+-width,initial-scale=3D1,maximum-scale=3D1"><meta name=3D"mobile-web-app-ca=
+pable" content=3D"yes"><meta name=3D"apple-mobile-web-app-capable" content=
+=3D"yes"><meta name=3D"apple-mobile-web-app-status-bar-style" content=3D"bl=
+ack"><meta name=3D"mobile-web-app-capable" content=3D"yes"><meta name=3D"th=
+eme-color" content=3D"#fff"><meta name=3D"application-name" content=3D"Stac=
+kEdit"><link rel=3D"apple-touch-icon" sizes=3D"57x57" href=3D"https://stack=
+edit.io/icons-c75a9472175cc17394ba6428d867fbcf/apple-touch-icon-57x57.png">=
+<link rel=3D"apple-touch-icon" sizes=3D"60x60" href=3D"https://stackedit.io=
+/icons-c75a9472175cc17394ba6428d867fbcf/apple-touch-icon-60x60.png"><link r=
+el=3D"apple-touch-icon" sizes=3D"72x72" href=3D"https://stackedit.io/icons-=
+c75a9472175cc17394ba6428d867fbcf/apple-touch-icon-72x72.png"><link rel=3D"a=
+pple-touch-icon" sizes=3D"76x76" href=3D"https://stackedit.io/icons-c75a947=
+2175cc17394ba6428d867fbcf/apple-touch-icon-76x76.png"><link rel=3D"apple-to=
+uch-icon" sizes=3D"114x114" href=3D"https://stackedit.io/icons-c75a9472175c=
+c17394ba6428d867fbcf/apple-touch-icon-114x114.png"><link rel=3D"apple-touch=
+-icon" sizes=3D"120x120" href=3D"https://stackedit.io/icons-c75a9472175cc17=
+394ba6428d867fbcf/apple-touch-icon-120x120.png"><link rel=3D"apple-touch-ic=
+on" sizes=3D"144x144" href=3D"https://stackedit.io/icons-c75a9472175cc17394=
+ba6428d867fbcf/apple-touch-icon-144x144.png"><link rel=3D"apple-touch-icon"=
+ sizes=3D"152x152" href=3D"https://stackedit.io/icons-c75a9472175cc17394ba6=
+428d867fbcf/apple-touch-icon-152x152.png"><link rel=3D"apple-touch-icon" si=
+zes=3D"180x180" href=3D"https://stackedit.io/icons-c75a9472175cc17394ba6428=
+d867fbcf/apple-touch-icon-180x180.png"><meta name=3D"apple-mobile-web-app-c=
+apable" content=3D"yes"><meta name=3D"apple-mobile-web-app-status-bar-style=
+" content=3D"black-translucent"><meta name=3D"apple-mobile-web-app-title" c=
+ontent=3D"StackEdit"><link rel=3D"icon" type=3D"image/png" sizes=3D"32x32" =
+href=3D"https://stackedit.io/icons-c75a9472175cc17394ba6428d867fbcf/favicon=
+-32x32.png"><link rel=3D"icon" type=3D"image/png" sizes=3D"16x16" href=3D"h=
+ttps://stackedit.io/icons-c75a9472175cc17394ba6428d867fbcf/favicon-16x16.pn=
+g"><link rel=3D"shortcut icon" href=3D"https://stackedit.io/icons-c75a94721=
+75cc17394ba6428d867fbcf/favicon.ico"><link rel=3D"apple-touch-startup-image=
+" media=3D"(device-width: 320px) and (device-height: 480px) and (-webkit-de=
+vice-pixel-ratio: 1)" href=3D"https://stackedit.io/icons-c75a9472175cc17394=
+ba6428d867fbcf/apple-touch-startup-image-320x460.png"><link rel=3D"apple-to=
+uch-startup-image" media=3D"(device-width: 320px) and (device-height: 480px=
+) and (-webkit-device-pixel-ratio: 2)" href=3D"https://stackedit.io/icons-c=
+75a9472175cc17394ba6428d867fbcf/apple-touch-startup-image-640x920.png"><lin=
+k rel=3D"apple-touch-startup-image" media=3D"(device-width: 320px) and (dev=
+ice-height: 568px) and (-webkit-device-pixel-ratio: 2)" href=3D"https://sta=
+ckedit.io/icons-c75a9472175cc17394ba6428d867fbcf/apple-touch-startup-image-=
+640x1096.png"><link rel=3D"apple-touch-startup-image" media=3D"(device-widt=
+h: 375px) and (device-height: 667px) and (-webkit-device-pixel-ratio: 2)" h=
+ref=3D"https://stackedit.io/icons-c75a9472175cc17394ba6428d867fbcf/apple-to=
+uch-startup-image-750x1294.png"><link rel=3D"apple-touch-startup-image" med=
+ia=3D"(device-width: 414px) and (device-height: 736px) and (orientation: la=
+ndscape) and (-webkit-device-pixel-ratio: 3)" href=3D"https://stackedit.io/=
+icons-c75a9472175cc17394ba6428d867fbcf/apple-touch-startup-image-1182x2208.=
+png"><link rel=3D"apple-touch-startup-image" media=3D"(device-width: 414px)=
+ and (device-height: 736px) and (orientation: portrait) and (-webkit-device=
+-pixel-ratio: 3)" href=3D"https://stackedit.io/icons-c75a9472175cc17394ba64=
+28d867fbcf/apple-touch-startup-image-1242x2148.png"><link rel=3D"apple-touc=
+h-startup-image" media=3D"(device-width: 768px) and (device-height: 1024px)=
+ and (orientation: landscape) and (-webkit-device-pixel-ratio: 1)" href=3D"=
+https://stackedit.io/icons-c75a9472175cc17394ba6428d867fbcf/apple-touch-sta=
+rtup-image-748x1024.png"><link rel=3D"apple-touch-startup-image" media=3D"(=
+device-width: 768px) and (device-height: 1024px) and (orientation: portrait=
+) and (-webkit-device-pixel-ratio: 1)" href=3D"https://stackedit.io/icons-c=
+75a9472175cc17394ba6428d867fbcf/apple-touch-startup-image-768x1004.png"><li=
+nk rel=3D"apple-touch-startup-image" media=3D"(device-width: 768px) and (de=
+vice-height: 1024px) and (orientation: landscape) and (-webkit-device-pixel=
+-ratio: 2)" href=3D"https://stackedit.io/icons-c75a9472175cc17394ba6428d867=
+fbcf/apple-touch-startup-image-1496x2048.png"><link rel=3D"apple-touch-star=
+tup-image" media=3D"(device-width: 768px) and (device-height: 1024px) and (=
+orientation: portrait) and (-webkit-device-pixel-ratio: 2)" href=3D"https:/=
+/stackedit.io/icons-c75a9472175cc17394ba6428d867fbcf/apple-touch-startup-im=
+age-1536x2008.png"><link rel=3D"manifest" href=3D"https://stackedit.io/mani=
+fest.c9128ce574e7548a3b0d3bcd8bfa212c.json" crossorigin=3D"use-credentials"=
+><link href=3D"https://stackedit.io/static/css/app.3ff5d2b80a5f2cc852e01b00=
+c29b9eb6.css" rel=3D"stylesheet"></head><body data-new-gr-c-s-check-loaded=
+=3D"14.1106.0" data-gr-ext-installed=3D"" data-new-gr-c-s-loaded=3D"14.1106=
+.0"><div class=3D"app app--light"><div class=3D"layout"><div class=3D"layou=
+t__panel flex flex--row"><div class=3D"layout__panel layout__panel--explore=
+r" style=3D"width: 260px;"><div class=3D"explorer flex flex--column"><div c=
+lass=3D"side-title flex flex--row flex--space-between"><div class=3D"flex f=
+lex--row"><button class=3D"side-title__button side-title__button--new-file =
+button" title=3D"New file" aria-label=3D"New file"><svg xmlns=3D"http://www=
+.w3.org/2000/svg" viewBox=3D"0 0 24 24" class=3D"icon"><path d=3D"M13,9H18.=
+5L13,3.5V9M6,2H14L20,8V20C20,21.1 19.1,22 18,22H6C4.89,22 4,21.1 4,20V4C4,2=
+.89 4.89,2 6,2M11,15V12H9V15H6V17H9V20H11V17H14V15H11Z"></path></svg></butt=
+on> <button class=3D"side-title__button side-title__button--new-folder butt=
+on" title=3D"New folder" aria-label=3D"New folder"><svg xmlns=3D"http://www=
+.w3.org/2000/svg" viewBox=3D"0 0 24 24" class=3D"icon"><path d=3D"M10,4L12,=
+6H20C21.1,6 22,6.9 22,8V18C22,19.1 21.1,20 20,20H4C2.89,20 2,19.1 2,18V6C2,=
+4.89 2.89,4 4,4H10M15,9V12H12V14H15V17H17V14H20V12H17V9H15Z"></path></svg><=
+/button> <button class=3D"side-title__button side-title__button--delete but=
+ton" title=3D"Delete" aria-label=3D"Delete"><svg xmlns=3D"http://www.w3.org=
+/2000/svg" viewBox=3D"0 0 24 24" class=3D"icon"><path d=3D"M19,4H15.5L14.5,=
+3H9.5L8.5,4H5V6H19M6,19C6,20.1 6.9,21 8,21H16C17.1,21 18,20.1 18,19V7H6V19Z=
+"></path></svg></button> <button class=3D"side-title__button side-title__bu=
+tton--rename button" title=3D"Rename" aria-label=3D"Rename"><svg xmlns=3D"h=
+ttp://www.w3.org/2000/svg" viewBox=3D"0 0 24 24" class=3D"icon"><path d=3D"=
+M 16.8363,2.73375C 16.45,2.73375 16.0688,2.88125 15.7712,3.17375L 13.6525,5=
+.2925L 18.955,10.5962L 21.0737,8.47625C 21.665,7.89 21.665,6.94375 21.0737,=
+6.3575L 17.895,3.17375C 17.6025,2.88125 17.2163,2.73375 16.8363,2.73375 Z M=
+ 12.9437,6.00125L 4.84375,14.1062L 7.4025,14.39L 7.57875,16.675L 9.85875,16=
+.85L 10.1462,19.4088L 18.2475,11.3038M 4.2475,15.0437L 2.515,21.7337L 9.198=
+75,19.9412L 8.955,17.7838L 6.645,17.6075L 6.465,15.2925"></path></svg></but=
+ton></div> <button class=3D"side-title__button side-title__button--close bu=
+tton" title=3D"Close explorer" aria-label=3D"Close explorer"><svg xmlns=3D"=
+http://www.w3.org/2000/svg" viewBox=3D"0 0 24 24" class=3D"icon"><path d=3D=
+"M19,6.41L17.59,5L12,10.59L6.41,5L5,6.41L10.59,12L5,17.59L6.41,19L12,13.41L=
+17.59,19L19,17.59L13.41,12L19,6.41Z"></path></svg></button></div> <div tabi=
+ndex=3D"0" class=3D"explorer__tree"><div class=3D"explorer-node explorer-no=
+de--folder explorer-node--open"><div draggable=3D"true" class=3D"explorer-n=
+ode__item" style=3D"padding-left: 0px;">
+   =20
+    </div> <div class=3D"explorer-node__children"><div class=3D"explorer-no=
+de explorer-node--folder explorer-node--trash"><div draggable=3D"true" clas=
+s=3D"explorer-node__item" style=3D"padding-left: 15px;">
+    Trash
+    </div> <!----></div><div class=3D"explorer-node explorer-node--folder e=
+xplorer-node--temp"><div draggable=3D"true" class=3D"explorer-node__item" s=
+tyle=3D"padding-left: 15px;">
+    Temp
+    </div> <!----></div> <!----> <div class=3D"explorer-node explorer-node-=
+-selected"><div draggable=3D"true" class=3D"explorer-node__item" style=3D"p=
+adding-left: 15px;">
+    Financial Analysis: Build a ChatGPT Pairs Trading Bot
+    </div> <!----></div><div class=3D"explorer-node"><div draggable=3D"true=
+" class=3D"explorer-node__item" style=3D"padding-left: 15px;">
+   =20
+    </div> <!----></div></div></div></div></div></div> <div tour-step-ancho=
+r=3D"welcome,end" class=3D"layout__panel flex flex--column" style=3D"width:=
+ 1607px;"><div class=3D"layout__panel layout__panel--navigation-bar" style=
+=3D"height: 44px;"><nav class=3D"navigation-bar"><div class=3D"navigation-b=
+ar__inner navigation-bar__inner--left navigation-bar__inner--button"><butto=
+n tour-step-anchor=3D"explorer" class=3D"navigation-bar__button navigation-=
+bar__button--explorer-toggler button" title=3D"Toggle explorer" aria-label=
+=3D"Toggle explorer"><svg xmlns=3D"http://www.w3.org/2000/svg" viewBox=3D"0=
+ 0 24 24" class=3D"icon"><path d=3D"M10,4H4C2.89,4 2,4.89 2,6V18C2,19.1 2.9=
+,20 4,20H20C21.1,20 22,19.1 22,18V8C22,6.89 21.1,6 20,6H12L10,4Z"></path></=
+svg></button></div> <div class=3D"navigation-bar__inner navigation-bar__inn=
+er--right navigation-bar__inner--button"><button tour-step-anchor=3D"menu" =
+class=3D"navigation-bar__button navigation-bar__button--stackedit button" t=
+itle=3D"Toggle side bar" aria-label=3D"Toggle side bar"><div class=3D"icon-=
+provider icon-provider--stackedit"><!----></div></button></div> <div class=
+=3D"navigation-bar__inner navigation-bar__inner--right navigation-bar__inne=
+r--title flex flex--row"><div class=3D"navigation-bar__spinner"><!----> <!-=
+---></div> <div class=3D"navigation-bar__title navigation-bar__title--fake =
+text-input">Financial Analysis: Build a ChatGPT Pairs Trading Bot</div> <di=
+v class=3D"navigation-bar__title navigation-bar__title--text text-input" st=
+yle=3D"width: 509.17px;">Financial Analysis: Build a ChatGPT Pairs Trading =
+Bot</div> <input class=3D"navigation-bar__title navigation-bar__title--inpu=
+t text-input" style=3D"width: 509.17px;"> <div class=3D"flex flex--row"> <b=
+utton disabled=3D"disabled" class=3D"navigation-bar__button navigation-bar_=
+_button--sync button" title=3D"Synchronize now" aria-label=3D"Synchronize n=
+ow"><svg xmlns=3D"http://www.w3.org/2000/svg" viewBox=3D"0 0 24 24" class=
+=3D"icon"><path d=3D"M12,18C8.69,18 6,15.31 6,12C6,11 6.25,10.03 6.7,9.2L5.=
+24,7.74C4.46,8.97 4,10.43 4,12C4,16.42 7.58,20 12,20V23L16,19L12,15M12,4V1L=
+8,5L12,9V6C15.31,6 18,8.69 18,12C18,13 17.75,13.97 17.3,14.8L18.76,16.26C19=
+.54,15.03 20,13.57 20,12C20,7.58 16.42,4 12,4Z"></path></svg></button>  <bu=
+tton disabled=3D"disabled" class=3D"navigation-bar__button navigation-bar__=
+button--publish button" title=3D"Publish now" aria-label=3D"Publish now"><s=
+vg xmlns=3D"http://www.w3.org/2000/svg" viewBox=3D"0 0 24 24" class=3D"icon=
+"><path d=3D"M 8.99939,15.998L 8.99939,9.99805L 4.99939,9.99805L 11.9994,2.=
+99805L 18.9994,9.99805L 14.9994,9.99805L 14.9994,15.998L 8.99939,15.998 Z M=
+ 4.99937,19.9981L 4.99937,17.9981L 18.9994,17.9981L 18.9994,19.9981L 4.9993=
+7,19.9981 Z "></path></svg></button></div> <!----></div> <div class=3D"navi=
+gation-bar__inner navigation-bar__inner--edit-pagedownButtons"><button clas=
+s=3D"navigation-bar__button button" title=3D"Undo" aria-label=3D"Undo"><svg=
+ xmlns=3D"http://www.w3.org/2000/svg" viewBox=3D"0 0 24 24" class=3D"icon">=
+<path d=3D"M12.5,8C9.85,8 7.45,9 5.6,10.6L2,7V16H11L7.38,12.38C8.77,11.22 1=
+0.54,10.5 12.5,10.5C16.04,10.5 19.05,12.81 20.1,16L22.47,15.22C21.08,11.03 =
+17.15,8 12.5,8Z"></path></svg></button> <button disabled=3D"disabled" class=
+=3D"navigation-bar__button button" title=3D"Redo" aria-label=3D"Redo"><svg =
+xmlns=3D"http://www.w3.org/2000/svg" viewBox=3D"0 0 24 24" class=3D"icon"><=
+path d=3D"M18.4,10.6C16.55,9 14.15,8 11.5,8C6.85,8 2.92,11.03 1.54,15.22L3.=
+9,16C4.95,12.81 7.95,10.5 11.5,10.5C13.45,10.5 15.23,11.22 16.62,12.38L13,1=
+6H22V7L18.4,10.6Z"></path></svg></button> <div><div class=3D"navigation-bar=
+__spacer"></div></div><div><button class=3D"navigation-bar__button button" =
+title=3D"Bold =E2=80=93 Ctrl+Shift+B" aria-label=3D"Bold =E2=80=93 Ctrl+Shi=
+ft+B"><svg xmlns=3D"http://www.w3.org/2000/svg" viewBox=3D"0 0 24 24" class=
+=3D"icon"><path d=3D"M13.35,17.401l-4.201,0l0,-3.601l4.201,0c0.997,0 1.801,=
+0.805 1.801,1.801c0,0.996 -0.804,1.8 -1.801,1.8m-4.201,-10.802l3.601,0c0.99=
+6,0 1.801,0.804 1.801,1.8c0,0.996 -0.805,1.801 -1.801,1.801l-3.601,0m6.722,=
+1.548c1.164,-0.816 1.98,-2.149 1.98,-3.349c0,-2.712 -2.1,-4.801 -4.801,-4.8=
+01l-7.502,0l0,16.804l8.45,0c2.521,0 4.454,-2.04 4.454,-4.549c0,-1.825 -1.03=
+3,-3.385 -2.581,-4.105Z" style=3D"fill-rule: nonzero;"></path></svg></butto=
+n></div><div><button class=3D"navigation-bar__button button" title=3D"Itali=
+c =E2=80=93 Ctrl+Shift+I" aria-label=3D"Italic =E2=80=93 Ctrl+Shift+I"><svg=
+ xmlns=3D"http://www.w3.org/2000/svg" viewBox=3D"0 0 24 24" class=3D"icon">=
+<path d=3D"M8.617,3.658l0,3.575l2.633,0l-2.075,9.534l-3.325,0l0,3.575l9.533=
+,0l0,-3.575l-2.633,0l2.075,-9.534l3.325,0l0,-3.575l-9.533,0Z" style=3D"fill=
+-rule: nonzero;"></path></svg></button></div><div><button class=3D"navigati=
+on-bar__button button" title=3D"Heading =E2=80=93 Ctrl+Shift+H" aria-label=
+=3D"Heading =E2=80=93 Ctrl+Shift+H"><svg xmlns=3D"http://www.w3.org/2000/sv=
+g" viewBox=3D"0 0 24 24" class=3D"icon"><path d=3D"M2.007,12.526l3.156,0l0,=
+7.363l3.155,0l0,-7.363l3.156,0l0,-3.156l-9.467,0m6.311,-5.259l0,3.155l5.26,=
+0l0,12.623l3.156,0l0,-12.623l5.259,0l0,-3.155l-13.675,0Z" style=3D"fill-rul=
+e: nonzero;"></path></svg></button></div><div><button class=3D"navigation-b=
+ar__button button" title=3D"Strikethrough =E2=80=93 Ctrl+Shift+S" aria-labe=
+l=3D"Strikethrough =E2=80=93 Ctrl+Shift+S"><svg xmlns=3D"http://www.w3.org/=
+2000/svg" viewBox=3D"0 0 24 24" class=3D"icon"><path d=3D"M20.874,12.059l0,=
+1.729l-3.541,0c0.806,1.851 0.766,6.918 -5.026,6.918c-6.721,0.043 -6.463,-5.=
+621 -6.463,-5.621l3.203,0.044c0.024,2.914 2.55,2.914 3.05,2.879c0.516,-0.04=
+3 2.444,-0.034 2.598,-2.058c0.064,-0.942 -0.823,-1.66 -1.791,-2.162l-9.778,=
+0l0,-1.729l17.748,0m-2.896,-3.554l-3.211,-0.026c0,0 0.137,-2.395 -2.646,-2.=
+404c-2.783,-0.017 -2.541,1.902 -2.541,2.144c0.032,0.243 0.274,1.436 2.42,2.=
+007l-5.074,0c0,0 -2.816,-5.82 4.057,-6.814c7.027,-1.038 7.011,5.11 6.995,5.=
+093Z" style=3D"fill-rule: nonzero;"></path></svg></button></div><div><div c=
+lass=3D"navigation-bar__spacer"></div></div><div><button class=3D"navigatio=
+n-bar__button button" title=3D"Unordered list =E2=80=93 Ctrl+Shift+U" aria-=
+label=3D"Unordered list =E2=80=93 Ctrl+Shift+U"><svg xmlns=3D"http://www.w3=
+.org/2000/svg" viewBox=3D"0 0 24 24" class=3D"icon"><path d=3D"M7.043,4.695=
+l14.61,0l0,2.087l-14.61,0l0,-2.087m0,8.349l0,-2.088l14.61,0l0,2.088l-14.61,=
+0m-3.131,-8.871c0.866,0 1.566,0.699 1.566,1.565c0,0.867 -0.7,1.566 -1.566,1=
+.566c-0.866,0 -1.565,-0.699 -1.565,-1.566c0,-0.866 0.699,-1.565 1.565,-1.56=
+5m0,6.262c0.866,0 1.566,0.699 1.566,1.565c0,0.866 -0.7,1.565 -1.566,1.565c-=
+0.866,0 -1.565,-0.699 -1.565,-1.565c0,-0.866 0.699,-1.565 1.565,-1.565m3.13=
+1,8.87l0,-2.087l14.61,0l0,2.087l-14.61,0m-3.131,-2.609c0.866,0 1.566,0.699 =
+1.566,1.566c0,0.866 -0.7,1.565 -1.566,1.565c-0.866,0 -1.565,-0.699 -1.565,-=
+1.565c0,-0.867 0.699,-1.566 1.565,-1.566Z" style=3D"fill-rule: nonzero;"></=
+path></svg></button></div><div><button class=3D"navigation-bar__button butt=
+on" title=3D"Ordered list =E2=80=93 Ctrl+Shift+O" aria-label=3D"Ordered lis=
+t =E2=80=93 Ctrl+Shift+O"><svg xmlns=3D"http://www.w3.org/2000/svg" viewBox=
+=3D"0 0 24 24" class=3D"icon"><path d=3D"M7.235,13.059l14.825,0l0,-2.118l-1=
+4.825,0m0,8.471l14.825,0l0,-2.117l-14.825,0m0,-10.59l14.825,0l0,-2.117l-14.=
+825,0m-5.295,6.353l1.906,0l-1.906,2.224l0,0.953l3.177,0l0,-1.059l-1.906,0l1=
+.906,-2.224l0,-0.953l-3.177,0m1.059,-2.118l1.059,0l0,-4.235l-2.118,0l0,1.05=
+9l1.059,0m-1.059,12.707l2.118,0l0,0.529l-1.059,0l0,1.059l1.059,0l0,0.529l-2=
+.118,0l0,1.059l3.177,0l0,-4.235l-3.177,0l0,1.059Z" style=3D"fill-rule: nonz=
+ero;"></path></svg></button></div><div><button class=3D"navigation-bar__but=
+ton button" title=3D"Check list =E2=80=93 Ctrl+Shift+C" aria-label=3D"Check=
+ list =E2=80=93 Ctrl+Shift+C"><svg xmlns=3D"http://www.w3.org/2000/svg" vie=
+wBox=3D"0 0 24 24" class=3D"icon"><path d=3D"M3,5H9V11H3V5M5,7V9H7V7H5M11,7=
+H21V9H11V7M11,15H21V17H11V15M5,20L1.5,16.5L2.91,15.09L5,17.17L9.59,12.59L11=
+,14L5,20Z"></path></svg></button></div><div><div class=3D"navigation-bar__s=
+pacer"></div></div><div><button class=3D"navigation-bar__button button" tit=
+le=3D"Blockquote =E2=80=93 Ctrl+Shift+Q" aria-label=3D"Blockquote =E2=80=93=
+ Ctrl+Shift+Q"><svg xmlns=3D"http://www.w3.org/2000/svg" viewBox=3D"0 0 24 =
+24" class=3D"icon"><path d=3D"M14.446,18.235l2.92,0l1.946,-4.988l0,-7.482l-=
+5.839,0l0,7.482l2.92,0m-10.732,4.988l2.919,0l1.947,-4.988l0,-7.482l-5.839,0=
+l0,7.482l2.919,0l-1.946,4.988Z" style=3D"fill-rule: nonzero;"></path></svg>=
+</button></div><div><button class=3D"navigation-bar__button button" title=
+=3D"Code =E2=80=93 Ctrl+Shift+K" aria-label=3D"Code =E2=80=93 Ctrl+Shift+K"=
+><svg xmlns=3D"http://www.w3.org/2000/svg" viewBox=3D"2 2 20 20" class=3D"i=
+con"><path d=3D"M 14.6,16.6L 19.2,12L 14.6,7.4L 16,6L 22,12L 16,18L 14.6,16=
+.6 Z M 9.4,16.6L 4.8,12L 9.4,7.4L 8,6L 2,12L 8,18L 9.4,16.6 Z "></path></sv=
+g></button></div><div><button class=3D"navigation-bar__button button" title=
+=3D"Table =E2=80=93 Ctrl+Shift+T" aria-label=3D"Table =E2=80=93 Ctrl+Shift+=
+T"><svg xmlns=3D"http://www.w3.org/2000/svg" viewBox=3D"0 0 24 24" class=3D=
+"icon"><path d=3D"M 5,4L 19,4C 20.1046,4 21,4.89543 21,6L 21,18C 21,19.1046=
+ 20.1046,20 19,20L 5,20C 3.89543,20 3,19.1046 3,18L 3,6C 3,4.89543 3.89543,=
+4 5,4 Z M 5,8L 5,12L 11,12L 11,8L 5,8 Z M 13,8L 13,12L 19,12L 19,8L 13,8 Z =
+M 5,14L 5,18L 11,18L 11,14L 5,14 Z M 13,14L 13,18L 19,18L 19,14L 13,14 Z ">=
+</path></svg></button></div><div><button class=3D"navigation-bar__button bu=
+tton" title=3D"Link =E2=80=93 Ctrl+Shift+L" aria-label=3D"Link =E2=80=93 Ct=
+rl+Shift+L"><svg xmlns=3D"http://www.w3.org/2000/svg" viewBox=3D"0 0 24 24"=
+ class=3D"icon"><path d=3D"M 10.5858,13.4142C 10.9763,13.8047 10.9763,14.43=
+79 10.5858,14.8284C 10.1952,15.2189 9.56207,15.2189 9.17154,14.8284C 7.2189=
+2,12.8758 7.21892,9.70995 9.17154,7.75733L 9.17157,7.75736L 12.707,4.2219C =
+14.6596,2.26928 17.8255,2.26929 19.7781,4.2219C 21.7307,6.17452 21.7307,9.3=
+4034 19.7781,11.293L 18.2925,12.7785C 18.3008,11.9583 18.1659,11.1368 17.88=
+76,10.355L 18.3639,9.87865C 19.5355,8.70708 19.5355,6.80759 18.3639,5.63602=
+C 17.1923,4.46445 15.2929,4.46445 14.1213,5.63602L 10.5858,9.17155C 9.41419=
+,10.3431 9.41419,12.2426 10.5858,13.4142 Z M 13.4142,9.17155C 13.8047,8.781=
+03 14.4379,8.78103 14.8284,9.17155C 16.781,11.1242 16.781,14.29 14.8284,16.=
+2426L 14.8284,16.2426L 11.2929,19.7782C 9.34026,21.7308 6.17444,21.7308 4.2=
+2182,19.7782C 2.26921,17.8255 2.2692,14.6597 4.22182,12.7071L 5.70744,11.22=
+15C 5.69913,12.0417 5.8341,12.8631 6.11234,13.645L 5.63601,14.1213C 4.46444=
+,15.2929 4.46444,17.1924 5.63601,18.3639C 6.80758,19.5355 8.70708,19.5355 9=
+.87865,18.3639L 13.4142,14.8284C 14.5858,13.6568 14.5858,11.7573 13.4142,10=
+.5858C 13.0237,10.1952 13.0237,9.56207 13.4142,9.17155 Z "></path></svg></b=
+utton></div><div><button class=3D"navigation-bar__button button" title=3D"I=
+mage =E2=80=93 Ctrl+Shift+G" aria-label=3D"Image =E2=80=93 Ctrl+Shift+G"><s=
+vg xmlns=3D"http://www.w3.org/2000/svg" viewBox=3D"0 0 24 24" class=3D"icon=
+"><path d=3D"M 12.9994,8.99807L 18.4994,8.99807L 12.9994,3.49807L 12.9994,8=
+.99807 Z M 5.99938,1.99809L 13.9994,1.99809L 19.9994,7.99808L 19.9994,19.99=
+81C 19.9994,21.1021 19.1034,21.9981 17.9994,21.9981L 5.98937,21.9981C 4.885=
+37,21.9981 3.99939,21.1021 3.99939,19.9981L 4.0094,3.99808C 4.0094,2.89407 =
+4.89437,1.99809 5.99938,1.99809 Z M 6,20L 15,20L 18,20L 18,12L 14,16L 12,14=
+L 6,20 Z M 8,9C 6.89543,9 6,9.89543 6,11C 6,12.1046 6.89543,13 8,13C 9.1045=
+7,13 10,12.1046 10,11C 10,9.89543 9.10457,9 8,9 Z "></path></svg></button><=
+/div></div></nav></div> <div class=3D"layout__panel flex flex--row" style=
+=3D"height: 975px;"><div class=3D"layout__panel layout__panel--editor" styl=
+e=3D"width: 1581px; font-size: 18px; display: none;" aria-hidden=3D"true"><=
+div class=3D"gutter" style=3D"left: 270px;"><!----></div> <div class=3D"edi=
+tor"><pre class=3D"editor__inner markdown-highlighting" tabindex=3D"0" cont=
+enteditable=3D"false" style=3D"padding: 10px 295px 487px;"><div class=3D"cl=
+edit-section"><span class=3D"token h1"><span class=3D"token cl cl-hash">#</=
+span><span class=3D"token p"> Financial Analysis: Build a ChatGPT Pairs Tra=
+ding Bot</span></span><span class=3D"lf"><br><span class=3D"hd-lf" style=3D=
+"display: none">
+</span></span><span class=3D"lf"><br><span class=3D"hd-lf" style=3D"display=
+: none">
+</span></span></div><div class=3D"cledit-section"><span class=3D"token h3">=
+<span class=3D"token cl cl-hash">###</span><span class=3D"token p"> Learn t=
+o use ChatGPT for algo-trading, crypto, forex, stock investing, and making =
+money online using Python</span></span><span class=3D"lf"><br><span class=
+=3D"hd-lf" style=3D"display: none">
+</span></span><span class=3D"lf"><br><span class=3D"hd-lf" style=3D"display=
+: none">
+</span></span></div><div class=3D"cledit-section"><span class=3D"token p">T=
+his is the code repository for "Financial Analysis: Build a ChatGPT Pairs T=
+rading Bot", published by </span><span class=3D"token link">[<span class=3D=
+"token cl cl-underlined-text">Packt</span>](https://www.packtpub.com/?utm_s=
+ource=3Dgithub)</span><span class=3D"token p">. It contains all the support=
+ing project files necessary to work through the book from start to finish.<=
+/span><span class=3D"lf"><br><span class=3D"hd-lf" style=3D"display: none">
+</span></span><span class=3D"lf"><br><span class=3D"hd-lf" style=3D"display=
+: none">
+</span></span></div><div class=3D"cledit-section"><span class=3D"token h2">=
+<span class=3D"token cl cl-hash">##</span><span class=3D"token p"> Course C=
+ode Bundle</span></span><span class=3D"lf"><br><span class=3D"hd-lf" style=
+=3D"display: none">
+</span></span><span class=3D"lf"><br><span class=3D"hd-lf" style=3D"display=
+: none">
+</span></span></div><div class=3D"cledit-section"><span class=3D"token p">E=
+nrolled Students can find all the course resources and notebooks by registe=
+ring at this **</span><span class=3D"token link">[<span class=3D"token cl c=
+l-underlined-text">link</span>](https://bit.ly/3A2C1HZ)</span><span class=
+=3D"token p">**.</span><span class=3D"lf"><br><span class=3D"hd-lf" style=
+=3D"display: none">
+</span></span><span class=3D"lf"><br><span class=3D"hd-lf" style=3D"display=
+: none">
+</span></span></div><div class=3D"cledit-section"><span class=3D"token stro=
+ng"><span class=3D"token cl cl-strong cl-start">**</span>Follow these steps=
+ to access the course code bundle<span class=3D"token cl cl-strong cl-close=
+">**</span></span><span class=3D"lf"><br><span class=3D"hd-lf" style=3D"dis=
+play: none">
+</span></span><span class=3D"lf"><br><span class=3D"hd-lf" style=3D"display=
+: none">
+</span></span></div><div class=3D"cledit-section"><span class=3D"token cl c=
+l-li">1. </span><span class=3D"token p">Click on the link provided above</s=
+pan><span class=3D"lf"><br><span class=3D"hd-lf" style=3D"display: none">
+</span></span><span class=3D"token cl cl-li">2. </span><span class=3D"token=
+ p">If you're logging in for the first time, create an account by adding yo=
+ur username, email id, and setting a password</span><span class=3D"lf"><br>=
+<span class=3D"hd-lf" style=3D"display: none">
+</span></span><span class=3D"token cl cl-li">3. </span><span class=3D"token=
+ p">Once you've registered, click on the link again and the course code bun=
+dle will start downloading</span><span class=3D"lf"><br><span class=3D"hd-l=
+f" style=3D"display: none">
+</span></span><span class=3D"token cl cl-li">4. </span><span class=3D"token=
+ p">Once downloaded, unzip the folder to access the course files</span><spa=
+n class=3D"lf"><br><span class=3D"hd-lf" style=3D"display: none">
+</span></span><span class=3D"lf"><br><span class=3D"hd-lf" style=3D"display=
+: none">
+</span></span></div><div class=3D"cledit-section"><span class=3D"token h2">=
+<span class=3D"token cl cl-hash">##</span><span class=3D"token p"> About Co=
+urse</span></span><span class=3D"lf"><br><span class=3D"hd-lf" style=3D"dis=
+play: none">
+</span></span><span class=3D"lf"><br><span class=3D"hd-lf" style=3D"display=
+: none">
+</span></span><span class=3D"lf"><br><span class=3D"hd-lf" style=3D"display=
+: none">
+</span></span><span class=3D"lf"><br><span class=3D"hd-lf" style=3D"display=
+: none">
+</span></span></div><div class=3D"cledit-section"><span class=3D"token p">F=
+inancial analysis with ChatGPT using pairs is a cutting-edge approach that =
+combines the power of artificial intelligence (AI) with the expertise of fi=
+nancial analysts to provide insights into financial data. ChatGPT and human=
+ analysts synergistically foster a collaborative environment that facilitat=
+es and generates valuable investment decisions, risk assessments, and finan=
+cial planning recommendations. Financial analysis with ChatGPT using pairs =
+offers a unique approach to insights from complex financial data.</span><sp=
+an class=3D"lf"><br><span class=3D"hd-lf" style=3D"display: none">
+</span></span><span class=3D"lf"><br><span class=3D"hd-lf" style=3D"display=
+: none">
+</span></span></div><div class=3D"cledit-section"><span class=3D"token p">T=
+hrough this course, we will use ChatGPT to build a trading bot (using pairs=
+ trading) and learn about the capabilities of ChatGPT. The course begins wi=
+th an introduction to ChatGPT, the project scope, and the course tools requ=
+ired for this course. You will then learn to use the course efficiently and=
+ where to get the codes. We will then advance to Pairs trading with ChatGPT=
+. You will learn about pairs trading intuition, the initial prompt, correct=
+ing the trading signal, and z-score computation. We will explore returns, l=
+og returns, and cumulative returns and test the strategy. You will learn ab=
+out the long-only strategy and return computation.</span><span class=3D"lf"=
+><br><span class=3D"hd-lf" style=3D"display: none">
+</span></span><span class=3D"lf"><br><span class=3D"hd-lf" style=3D"display=
+: none">
+</span></span></div><div class=3D"cledit-section"><span class=3D"token p">U=
+pon completing this course, you will learn the best ways to use ChatGPT to =
+be more efficient and productive with financial decision-making, investment=
+s, and trading using pairs trading.</span><span class=3D"lf"><br><span clas=
+s=3D"hd-lf" style=3D"display: none">
+</span></span></div><div class=3D"cledit-section"><span class=3D"token h2">=
+<span class=3D"token cl cl-hash">##</span><span class=3D"token p"> Target A=
+udience</span></span><span class=3D"lf"><br><span class=3D"hd-lf" style=3D"=
+display: none">
+</span></span></div><div class=3D"cledit-section"><span class=3D"token p">T=
+his course is designed for individuals who want to learn to use ChatGPT to =
+build a pairs trading bot or students and professionals in data science and=
+ machine learning interested in financial analysis. The prerequisites for t=
+he course include a decent understanding of Python and data science librari=
+es (NumPy, Matplotlib, and Pandas), basic knowledge of finance (stock price=
+s, logs, and cumulative returns), and foundational knowledge in Python, fin=
+ance, and statistics. Please note that the section on Python coding for beg=
+inners is not a comprehensive Python coding tutorial per se.</span><span cl=
+ass=3D"lf"><br><span class=3D"hd-lf" style=3D"display: none">
+</span></span><span class=3D"lf"><br><span class=3D"hd-lf" style=3D"display=
+: none">
+</span></span></div><div class=3D"cledit-section"><span class=3D"token h2">=
+<span class=3D"token cl cl-hash">##</span><span class=3D"token p"> Course K=
+ey Features</span></span><span class=3D"lf"><br><span class=3D"hd-lf" style=
+=3D"display: none">
+</span></span><span class=3D"lf"><br><span class=3D"hd-lf" style=3D"display=
+: none">
+</span></span></div><div class=3D"cledit-section"><span class=3D"token tag"=
+><span class=3D"token tag"><span class=3D"token punctuation">&lt;</span>li<=
+/span><span class=3D"token punctuation">&gt;</span></span><span class=3D"to=
+ken p">Build a pairs trading bot with ChatGPT and acquire pairs, algorithmi=
+c, and stock trading strategies</span><span class=3D"lf"><br><span class=3D=
+"hd-lf" style=3D"display: none">
+</span></span><span class=3D"token tag"><span class=3D"token tag"><span cla=
+ss=3D"token punctuation">&lt;</span>li</span><span class=3D"token punctuati=
+on">&gt;</span></span><span class=3D"token p">Perform financial analysis us=
+ing z-scores, log, cumulative, and portfolio returns computed from the data=
+</span><span class=3D"lf"><br><span class=3D"hd-lf" style=3D"display: none"=
+>
+</span></span><span class=3D"token tag"><span class=3D"token tag"><span cla=
+ss=3D"token punctuation">&lt;</span>li</span><span class=3D"token punctuati=
+on">&gt;</span></span><span class=3D"token p">Develop trading strategies us=
+ing pairs for stocks, forex, cryptos, Bitcoin, Ethereum, and altcoins</span=
+><span class=3D"token tag"><span class=3D"token tag"><span class=3D"token p=
+unctuation">&lt;/</span>li</span><span class=3D"token punctuation">&gt;</sp=
+an></span><span class=3D"lf"><br><span class=3D"hd-lf" style=3D"display: no=
+ne">
+</span></span><span class=3D"lf"><br><span class=3D"hd-lf" style=3D"display=
+: none">
+</span></span></div><div class=3D"cledit-section"><span class=3D"token h2">=
+<span class=3D"token cl cl-hash">##</span><span class=3D"token p"> What You=
+ Will Learn</span></span><span class=3D"lf"><br><span class=3D"hd-lf" style=
+=3D"display: none">
+</span></span><span class=3D"lf"><br><span class=3D"hd-lf" style=3D"display=
+: none">
+</span></span></div><div class=3D"cledit-section"><span class=3D"token tag"=
+><span class=3D"token tag"><span class=3D"token punctuation">&lt;</span>li<=
+/span><span class=3D"token punctuation">&gt;</span></span><span class=3D"to=
+ken p">Learn to use ChatGPT to build a pairs trading bot in Python</span><s=
+pan class=3D"lf"><br><span class=3D"hd-lf" style=3D"display: none">
+</span></span><span class=3D"token tag"><span class=3D"token tag"><span cla=
+ss=3D"token punctuation">&lt;</span>li</span><span class=3D"token punctuati=
+on">&gt;</span></span><span class=3D"token p">Learn the common mistakes whe=
+n using ChatGPT for coding</span><span class=3D"lf"><br><span class=3D"hd-l=
+f" style=3D"display: none">
+</span></span><span class=3D"token tag"><span class=3D"token tag"><span cla=
+ss=3D"token punctuation">&lt;</span>li</span><span class=3D"token punctuati=
+on">&gt;</span></span><span class=3D"token p">Develop Pairs, algorithmic, a=
+lgo-trading, and stock trading strategies</span><span class=3D"lf"><br><spa=
+n class=3D"hd-lf" style=3D"display: none">
+</span></span><span class=3D"token tag"><span class=3D"token tag"><span cla=
+ss=3D"token punctuation">&lt;</span>li</span><span class=3D"token punctuati=
+on">&gt;</span></span><span class=3D"token p">Compute z-scores, log, cumula=
+tive returns, and portfolio returns</span><span class=3D"lf"><br><span clas=
+s=3D"hd-lf" style=3D"display: none">
+</span></span><span class=3D"token tag"><span class=3D"token tag"><span cla=
+ss=3D"token punctuation">&lt;</span>li</span><span class=3D"token punctuati=
+on">&gt;</span></span><span class=3D"token p">Understand how to apply data =
+science strategies to financial analysis</span><span class=3D"lf"><br><span=
+ class=3D"hd-lf" style=3D"display: none">
+</span></span><span class=3D"token tag"><span class=3D"token tag"><span cla=
+ss=3D"token punctuation">&lt;</span>li</span><span class=3D"token punctuati=
+on">&gt;</span></span><span class=3D"token p">Learn trading strategies for =
+stocks, forex, cryptos, Bitcoin, Ethereum</span><span class=3D"token tag"><=
+span class=3D"token tag"><span class=3D"token punctuation">&lt;/</span>li</=
+span><span class=3D"token punctuation">&gt;</span></span><span class=3D"lf"=
+><br><span class=3D"hd-lf" style=3D"display: none">
+</span></span><span class=3D"lf"><br><span class=3D"hd-lf" style=3D"display=
+: none">
+</span></span></div><div class=3D"cledit-section"><span class=3D"token h2">=
+<span class=3D"token cl cl-hash">##</span><span class=3D"token p"> Author B=
+io</span></span><span class=3D"lf"><br><span class=3D"hd-lf" style=3D"displ=
+ay: none">
+</span></span></div><div class=3D"cledit-section"><span class=3D"token p">T=
+he </span><span class=3D"token strong"><span class=3D"token cl cl-strong cl=
+-start">**</span>Lazy Programmer<span class=3D"token cl cl-strong cl-close"=
+>**</span></span><span class=3D"token p"> is an AI and machine learning eng=
+ineer with a focus on deep learning, who also has experience in data scienc=
+e, big data engineering, and full-stack software engineering. With a backgr=
+ound in computer engineering and specialization in machine learning, he hol=
+ds two master=E2=80=99s degrees in computer engineering and statistics with=
+ applications to financial engineering. His expertise in online advertising=
+ and digital media includes work as both a data scientist and big data engi=
+neer.  </span><span class=3D"lf"><br><span class=3D"hd-lf" style=3D"display=
+: none">
+</span></span><span class=3D"token p">  </span><span class=3D"lf"><br><span=
+ class=3D"hd-lf" style=3D"display: none">
+</span></span></div><div class=3D"cledit-section"><span class=3D"token p">H=
+e has created deep learning models for prediction and has experience in rec=
+ommendation systems using reinforcement learning and collaborative filterin=
+g. He is a skilled instructor who has taught at universities including Colu=
+mbia, NYU, Hunter College, and The New School. He has web programming exper=
+tise, with experience in technologies such as Python, Ruby/Rails, PHP, and =
+Angular, and has provided his services to multiple businesses.</span><span =
+class=3D"lf"><br><span class=3D"hd-lf" style=3D"display: none">
+</span></span></div><div></div></pre> <div class=3D"gutter" style=3D"left: =
+270px;"><!----> <!----></div></div> <div class=3D"gutter" style=3D"left: 27=
+0px;"><!----> <!----></div></div> <div class=3D"layout__panel layout__panel=
+--button-bar" style=3D"width: 26px; display: none;" aria-hidden=3D"true"><d=
+iv class=3D"button-bar"><div class=3D"button-bar__inner button-bar__inner--=
+top"><button class=3D"button-bar__button button-bar__button--navigation-bar=
+-toggler button button-bar__button--on" title=3D"Toggle navigation bar" ari=
+a-label=3D"Toggle navigation bar"><svg xmlns=3D"http://www.w3.org/2000/svg"=
+ viewBox=3D"0 0 24 24" class=3D"icon"><path d=3D"M19,8.977l-14,0l0,10l14,0m=
+0,2l-14,0c-1.104,0 -2,-0.896 -2,-2l0,-10c0,-1.105 0.896,-2 2,-2l14,0c1.105,=
+0 2,0.895 2,2l0,10c0,1.104 -0.895,2 -2,2Z"></path> <rect x=3D"3" y=3D"3.023=
+" width=3D"18" height=3D"2"></rect></svg></button> <button tour-step-anchor=
+=3D"editor" class=3D"button-bar__button button-bar__button--side-preview-to=
+ggler button button-bar__button--on" title=3D"Toggle side preview" aria-lab=
+el=3D"Toggle side preview"><svg xmlns=3D"http://www.w3.org/2000/svg" viewBo=
+x=3D"0 0 24 24" class=3D"icon"><path d=3D"M11,20.977l-6,0c-1.104,0 -2,-0.89=
+6 -2,-2l0,-14c0,-1.105 0.896,-2 2,-2l14,0c1.105,0 2,0.895 2,2l0,14c0,1.104 =
+-0.895,2 -2,2l-6,0l0,0.023l-2,0l0,-0.023Zm0,-2l0,-14l-6,0l0,14l6,0Zm8,-14l-=
+6,0l0,14l6,0l0,-14Z"></path></svg></button> <button class=3D"button-bar__bu=
+tton button-bar__button--editor-toggler button" title=3D"Reader mode" aria-=
+label=3D"Reader mode"><svg xmlns=3D"http://www.w3.org/2000/svg" viewBox=3D"=
+0 0 24 24" class=3D"icon"><path d=3D"M 11.9994,8.99813C 10.3424,8.99813 8.9=
+9941,10.3411 8.99941,11.9981C 8.99941,13.6551 10.3424,14.9981 11.9994,14.99=
+81C 13.6564,14.9981 14.9994,13.6551 14.9994,11.9981C 14.9994,10.3411 13.656=
+4,8.99813 11.9994,8.99813 Z M 11.9994,16.9981C 9.23841,16.9981 6.99941,14.7=
+591 6.99941,11.9981C 6.99941,9.23714 9.23841,6.99813 11.9994,6.99813C 14.76=
+04,6.99813 16.9994,9.23714 16.9994,11.9981C 16.9994,14.7591 14.7604,16.9981=
+ 11.9994,16.9981 Z M 11.9994,4.49813C 6.99741,4.49813 2.72741,7.60915 0.999=
+41,11.9981C 2.72741,16.3871 6.99741,19.4981 11.9994,19.4981C 17.0024,19.498=
+1 21.2714,16.3871 22.9994,11.9981C 21.2714,7.60915 17.0024,4.49813 11.9994,=
+4.49813 Z "></path></svg></button></div> <div class=3D"button-bar__inner bu=
+tton-bar__inner--bottom"><button class=3D"button-bar__button button-bar__bu=
+tton--focus-mode-toggler button" title=3D"Toggle focus mode" aria-label=3D"=
+Toggle focus mode"><svg xmlns=3D"http://www.w3.org/2000/svg" viewBox=3D"0 0=
+ 24 24" class=3D"icon"><path d=3D"M 11.0013,2.0025L 11.0013,4.0725C 7.3825,=
+4.53125 4.53125,7.3825 4.0725,11.0012L 2.0025,11.0012L 2.0025,12.9975L 4.07=
+25,12.9975C 4.53125,16.6213 7.3825,19.4675 11.0013,19.9262L 11.0013,22.0025=
+L 12.9975,22.0025L 12.9975,19.9313C 16.6212,19.4675 19.4675,16.6213 19.9263=
+,12.9975L 22.0025,12.9975L 22.0025,11.0012L 19.9312,11.0012C 19.4675,7.3825=
+ 16.6212,4.53125 12.9975,4.0725L 12.9975,2.0025M 11.0013,6.08375L 11.0013,7=
+.9975L 12.9975,7.9975L 12.9975,6.08875C 15.5175,6.51375 17.485,8.48625 17.9=
+15,11.0012L 16.0012,11.0012L 16.0012,12.9975L 17.91,12.9975C 17.485,15.5175=
+ 15.5125,17.485 12.9975,17.915L 12.9975,16.0012L 11.0013,16.0012L 11.0013,1=
+7.91C 8.48625,17.485 6.51375,15.5125 6.08375,12.9975L 7.9975,12.9975L 7.997=
+5,11.0012L 6.08875,11.0012C 6.51375,8.48625 8.48625,6.51375 11.0013,6.08375=
+ Z M 12.0025,11.0012C 11.445,11.0012 11.0013,11.445 11.0013,12.0025C 11.001=
+3,12.5538 11.445,12.9975 12.0025,12.9975C 12.5537,12.9975 12.9975,12.5538 1=
+2.9975,12.0025C 12.9975,11.445 12.5537,11.0012 12.0025,11.0012 Z "></path><=
+/svg></button> <button class=3D"button-bar__button button-bar__button--scro=
+ll-sync-toggler button button-bar__button--on" title=3D"Toggle scroll sync"=
+ aria-label=3D"Toggle scroll sync"><svg xmlns=3D"http://www.w3.org/2000/svg=
+" viewBox=3D"0 0 24 24" class=3D"icon"><path d=3D"M9,18l3,0l-4,4l-4,-4l3,0l=
+0,-3l2,0l0,3Zm8,0l3,0l-4,4l-4,-4l3,0l0,-3l2,0l0,3Zm0.055,-5l-10.11,0l0,-2l1=
+0.11,0l0,2Zm-8.055,-4l-2,0l0,-3l-3,0l4,-4l4,4l4,-4l4,4l-3,0l0,3l-2,0l0,-3l-=
+6,0l0,3Z"></path></svg></button> <button class=3D"button-bar__button button=
+-bar__button--status-bar-toggler button" title=3D"Toggle status bar" aria-l=
+abel=3D"Toggle status bar"><svg xmlns=3D"http://www.w3.org/2000/svg" viewBo=
+x=3D"0 0 24 24" class=3D"icon"><path d=3D"M19,15.023l-14,0l0,-10l14,0m0,-2l=
+-14,0c-1.104,0 -2,0.896 -2,2l0,10c0,1.105 0.896,2 2,2l14,0c1.105,0 2,-0.895=
+ 2,-2l0,-10c0,-1.104 -0.895,-2 -2,-2Z"></path> <rect x=3D"3" y=3D"18.977" w=
+idth=3D"18" height=3D"2"></rect></svg></button></div></div></div> <div clas=
+s=3D"layout__panel layout__panel--preview" style=3D"width: 1607px; font-siz=
+e: 18px;"><div class=3D"gutter" style=3D"left: 270px;"><!----></div> <div c=
+lass=3D"preview"><div class=3D"preview__inner-1"><div class=3D"preview__inn=
+er-2" style=3D"padding: 10px 295px 487px;"><div class=3D"cl-preview-section=
+"><h1 id=3D"financial-analysis-build-a-chatgpt-pairs-trading-bot">Financial=
+ Analysis: Build a ChatGPT Pairs Trading Bot</h1>
+</div><div class=3D"cl-preview-section"><h3 id=3D"learn-to-use-chatgpt-for-=
+algo-trading-crypto-forex-stock-investing-and-making-money-online-using-pyt=
+hon">Learn to use ChatGPT for algo-trading, crypto, forex, stock investing,=
+ and making money online using Python</h3>
+</div><div class=3D"cl-preview-section"><p>This is the code repository for =
+=E2=80=9CFinancial Analysis: Build a ChatGPT Pairs Trading Bot=E2=80=9D, pu=
+blished by <a href=3D"https://www.packtpub.com/?utm_source=3Dgithub">Packt<=
+/a>. It contains all the supporting project files necessary to work through=
+ the book from start to finish.</p>
+</div><div class=3D"cl-preview-section"><h2 id=3D"course-code-bundle">Cours=
+e Code Bundle</h2>
+</div><div class=3D"cl-preview-section"><p>Enrolled Students can find all t=
+he course resources and notebooks by registering at this <strong><a href=3D=
+"https://bit.ly/3A2C1HZ">link</a></strong>.</p>
+</div><div class=3D"cl-preview-section"><p><strong>Follow these steps to ac=
+cess the course code bundle</strong></p>
+</div><div class=3D"cl-preview-section"><ol>
+<li>Click on the link provided above</li>
+<li>If you=E2=80=99re logging in for the first time, create an account by a=
+dding your username, email id, and setting a password</li>
+<li>Once you=E2=80=99ve registered, click on the link again and the course =
+code bundle will start downloading</li>
+<li>Once downloaded, unzip the folder to access the course files</li>
+</ol>
+</div><div class=3D"cl-preview-section"><h2 id=3D"about-course">About Cours=
+e</h2>
+</div><div class=3D"cl-preview-section"><p>Financial analysis with ChatGPT =
+using pairs is a cutting-edge approach that combines the power of artificia=
+l intelligence (AI) with the expertise of financial analysts to provide ins=
+ights into financial data. ChatGPT and human analysts synergistically foste=
+r a collaborative environment that facilitates and generates valuable inves=
+tment decisions, risk assessments, and financial planning recommendations. =
+Financial analysis with ChatGPT using pairs offers a unique approach to ins=
+ights from complex financial data.</p>
+</div><div class=3D"cl-preview-section"><p>Through this course, we will use=
+ ChatGPT to build a trading bot (using pairs trading) and learn about the c=
+apabilities of ChatGPT. The course begins with an introduction to ChatGPT, =
+the project scope, and the course tools required for this course. You will =
+then learn to use the course efficiently and where to get the codes. We wil=
+l then advance to Pairs trading with ChatGPT. You will learn about pairs tr=
+ading intuition, the initial prompt, correcting the trading signal, and z-s=
+core computation. We will explore returns, log returns, and cumulative retu=
+rns and test the strategy. You will learn about the long-only strategy and =
+return computation.</p>
+</div><div class=3D"cl-preview-section"><p>Upon completing this course, you=
+ will learn the best ways to use ChatGPT to be more efficient and productiv=
+e with financial decision-making, investments, and trading using pairs trad=
+ing.</p>
+</div><div class=3D"cl-preview-section"><h2 id=3D"target-audience">Target A=
+udience</h2>
+</div><div class=3D"cl-preview-section"><p>This course is designed for indi=
+viduals who want to learn to use ChatGPT to build a pairs trading bot or st=
+udents and professionals in data science and machine learning interested in=
+ financial analysis. The prerequisites for the course include a decent unde=
+rstanding of Python and data science libraries (NumPy, Matplotlib, and Pand=
+as), basic knowledge of finance (stock prices, logs, and cumulative returns=
+), and foundational knowledge in Python, finance, and statistics. Please no=
+te that the section on Python coding for beginners is not a comprehensive P=
+ython coding tutorial per se.</p>
+</div><div class=3D"cl-preview-section"><h2 id=3D"course-key-features">Cour=
+se Key Features</h2>
+</div><div class=3D"cl-preview-section"><li>Build a pairs trading bot with =
+ChatGPT and acquire pairs, algorithmic, and stock trading strategies
+</li><li>Perform financial analysis using z-scores, log, cumulative, and po=
+rtfolio returns computed from the data
+</li><li>Develop trading strategies using pairs for stocks, forex, cryptos,=
+ Bitcoin, Ethereum, and altcoins</li>
+</div><div class=3D"cl-preview-section"><h2 id=3D"what-you-will-learn">What=
+ You Will Learn</h2>
+</div><div class=3D"cl-preview-section"><li>Learn to use ChatGPT to build a=
+ pairs trading bot in Python
+</li><li>Learn the common mistakes when using ChatGPT for coding
+</li><li>Develop Pairs, algorithmic, algo-trading, and stock trading strate=
+gies
+</li><li>Compute z-scores, log, cumulative returns, and portfolio returns
+</li><li>Understand how to apply data science strategies to financial analy=
+sis
+</li><li>Learn trading strategies for stocks, forex, cryptos, Bitcoin, Ethe=
+reum</li>
+</div><div class=3D"cl-preview-section"><h2 id=3D"author-bio">Author Bio</h=
+2>
+</div><div class=3D"cl-preview-section"><p>The <strong>Lazy Programmer</str=
+ong> is an AI and machine learning engineer with a focus on deep learning, =
+who also has experience in data science, big data engineering, and full-sta=
+ck software engineering. With a background in computer engineering and spec=
+ialization in machine learning, he holds two master=E2=80=99s degrees in co=
+mputer engineering and statistics with applications to financial engineerin=
+g. His expertise in online advertising and digital media includes work as b=
+oth a data scientist and big data engineer.</p>
+</div><div class=3D"cl-preview-section"><p>He has created deep learning mod=
+els for prediction and has experience in recommendation systems using reinf=
+orcement learning and collaborative filtering. He is a skilled instructor w=
+ho has taught at universities including Columbia, NYU, Hunter College, and =
+The New School. He has web programming expertise, with experience in techno=
+logies such as Python, Ruby/Rails, PHP, and Angular, and has provided his s=
+ervices to multiple businesses.</p>
+</div></div> <div class=3D"gutter" style=3D"left: 270px;"><!----> <!----></=
+div></div> <div class=3D"preview__corner"><button class=3D"preview__button =
+button" title=3D"Edit file" aria-label=3D"Edit file"><svg xmlns=3D"http://w=
+ww.w3.org/2000/svg" viewBox=3D"0 0 24 24" class=3D"icon"><path d=3D"M 16.83=
+63,2.73375C 16.45,2.73375 16.0688,2.88125 15.7712,3.17375L 13.6525,5.2925L =
+18.955,10.5962L 21.0737,8.47625C 21.665,7.89 21.665,6.94375 21.0737,6.3575L=
+ 17.895,3.17375C 17.6025,2.88125 17.2163,2.73375 16.8363,2.73375 Z M 12.943=
+7,6.00125L 4.84375,14.1062L 7.4025,14.39L 7.57875,16.675L 9.85875,16.85L 10=
+.1462,19.4088L 18.2475,11.3038M 4.2475,15.0437L 2.515,21.7337L 9.19875,19.9=
+412L 8.955,17.7838L 6.645,17.6075L 6.465,15.2925"></path></svg></button></d=
+iv></div> <div class=3D"gutter" style=3D"left: 270px;"><!----> <!----></div=
+></div> <!----></div> <div class=3D"layout__panel layout__panel--status-bar=
+" style=3D"height: 20px; display: none;" aria-hidden=3D"true"><div class=3D=
+"stat-panel panel no-overflow"><!----> <div class=3D"stat-panel__block stat=
+-panel__block--right"><span class=3D"stat-panel__block-name">
+      HTML
+      <!----></span> <span><span class=3D"stat-panel__value">3831</span> ch=
+aracters
+    </span><span><span class=3D"stat-panel__value">677</span> words
+    </span><span><span class=3D"stat-panel__value">30</span> paragraphs
+    </span></div></div></div></div> <div class=3D"layout__panel layout__pan=
+el--side-bar" aria-hidden=3D"true" style=3D"width: 280px; display: none;"><=
+div class=3D"side-bar flex flex--column"><div class=3D"side-title flex flex=
+--row"><!----> <div class=3D"side-title__title">
+      Menu
+    </div> <button class=3D"side-title__button button" title=3D"Close side =
+bar" aria-label=3D"Close side bar"><svg xmlns=3D"http://www.w3.org/2000/svg=
+" viewBox=3D"0 0 24 24" class=3D"icon"><path d=3D"M19,6.41L17.59,5L12,10.59=
+L6.41,5L5,6.41L10.59,12L5,17.59L6.41,19L12,13.41L17.59,19L19,17.59L13.41,12=
+L19,6.41Z"></path></svg></button></div> <div class=3D"side-bar__inner"><div=
+ class=3D"side-bar__panel side-bar__panel--menu"><div class=3D"side-bar__in=
+fo"><!----> <div class=3D"menu-entry menu-entry--info flex flex--row flex--=
+align-center"><div class=3D"menu-entry__icon menu-entry__icon--disabled"><s=
+vg xmlns=3D"http://www.w3.org/2000/svg" viewBox=3D"0 0 24 24" class=3D"icon=
+"><path d=3D"M20,4H14V10L16.24,7.76C17.32,8.85 18,10.34 18,12C18,13 17.75,1=
+3.94 17.32,14.77L18.78,16.23C19.55,15 20,13.56 20,12C20,9.79 19.09,7.8 17.6=
+4,6.36L20,4M2.86,5.41L5.22,7.77C4.45,9 4,10.44 4,12C4,14.21 4.91,16.2 6.36,=
+17.64L4,20H10V14L7.76,16.24C6.68,15.15 6,13.66 6,12C6,11 6.25,10.06 6.68,9.=
+23L14.76,17.31C14.5,17.44 14.26,17.56 14,17.65V19.74C14.79,19.53 15.54,19.2=
+ 16.22,18.78L18.58,21.14L19.85,19.87L4.14,4.14L2.86,5.41M10,6.35V4.26C9.2,4=
+.47 8.45,4.8 7.77,5.22L9.23,6.68C9.5,6.56 9.73,6.44 10,6.35Z"></path></svg>=
+</div> <span><b>Main workspace</b> not synced.</span></div></div> <a class=
+=3D"menu-entry button flex flex--row flex--align-center"><div class=3D"menu=
+-entry__icon flex flex--column flex--center"><svg xmlns=3D"http://www.w3.or=
+g/2000/svg" viewBox=3D"0 0 24 24" class=3D"icon"><path fill=3D"#000000" fil=
+l-opacity=3D"1" stroke-width=3D"0.2" stroke-linejoin=3D"round" d=3D"M 10,17=
+.25L 10,14L 3.00002,14L 3.00002,10L 10,10L 10,6.75L 15.25,12L 10,17.25 Z M =
+7.99999,2.00003L 17,2.00005C 18.1045,2.00005 19,2.89546 19,4.00003L 19,20C =
+19,21.1046 18.1045,22 17,22L 7.99999,22C 6.89542,22 5.99999,21.1046 5.99999=
+,20L 6,16L 7.99999,16L 7.99999,20L 17,20L 17,4.00003L 7.99999,4.00002L 7.99=
+999,8.00001L 6,8.00001L 5.99999,4.00002C 5.99999,2.89545 6.89542,2.00003 7.=
+99999,2.00003 Z "></path></svg></div> <div class=3D"menu-entry__text flex f=
+lex--column"> <div>Sign in with Google</div> <span>Sync your main workspace=
+ and unlock functionalities.</span></div></a> <a class=3D"menu-entry button=
+ flex flex--row flex--align-center"><div class=3D"menu-entry__icon flex fle=
+x--column flex--center"><svg xmlns=3D"http://www.w3.org/2000/svg" viewBox=
+=3D"0 0 24 24" class=3D"icon"><path d=3D"M12,3C7.58,3 4,4.79 4,7C4,9.21 7.5=
+8,11 12,11C16.42,11 20,9.21 20,7C20,4.79 16.42,3 12,3M4,9V12C4,14.21 7.58,1=
+6 12,16C16.42,16 20,14.21 20,12V9C20,11.21 16.42,13 12,13C7.58,13 4,11.21 4=
+,9M4,14V17C4,19.21 7.58,21 12,21C16.42,21 20,19.21 20,17V14C20,16.21 16.42,=
+18 12,18C7.58,18 4,16.21 4,14Z"></path></svg></div> <div class=3D"menu-entr=
+y__text flex flex--column"> <div><div class=3D"menu-entry__label menu-entry=
+__label--count">1</div> Workspaces</div> <span>Switch to another workspace.=
+</span></div></a> <hr> <a class=3D"menu-entry button flex flex--row flex--a=
+lign-center"><div class=3D"menu-entry__icon flex flex--column flex--center"=
+><svg xmlns=3D"http://www.w3.org/2000/svg" viewBox=3D"0 0 24 24" class=3D"i=
+con"><path d=3D"M12,18C8.69,18 6,15.31 6,12C6,11 6.25,10.03 6.7,9.2L5.24,7.=
+74C4.46,8.97 4,10.43 4,12C4,16.42 7.58,20 12,20V23L16,19L12,15M12,4V1L8,5L1=
+2,9V6C15.31,6 18,8.69 18,12C18,13 17.75,13.97 17.3,14.8L18.76,16.26C19.54,1=
+5.03 20,13.57 20,12C20,7.58 16.42,4 12,4Z"></path></svg></div> <div class=
+=3D"menu-entry__text flex flex--column"> <div><!----> Synchronize</div> <sp=
+an>Sync your files in the Cloud.</span></div></a> <a class=3D"menu-entry bu=
+tton flex flex--row flex--align-center"><div class=3D"menu-entry__icon flex=
+ flex--column flex--center"><svg xmlns=3D"http://www.w3.org/2000/svg" viewB=
+ox=3D"0 0 24 24" class=3D"icon"><path d=3D"M 8.99939,15.998L 8.99939,9.9980=
+5L 4.99939,9.99805L 11.9994,2.99805L 18.9994,9.99805L 14.9994,9.99805L 14.9=
+994,15.998L 8.99939,15.998 Z M 4.99937,19.9981L 4.99937,17.9981L 18.9994,17=
+.9981L 18.9994,19.9981L 4.99937,19.9981 Z "></path></svg></div> <div class=
+=3D"menu-entry__text flex flex--column"> <div><!---->Publish</div> <span>Ex=
+port your files to the web.</span></div></a> <a class=3D"menu-entry button =
+flex flex--row flex--align-center"><div class=3D"menu-entry__icon flex flex=
+--column flex--center"><svg xmlns=3D"http://www.w3.org/2000/svg" viewBox=3D=
+"0 0 24 24" class=3D"icon"><path d=3D"M11,7V12.11L15.71,14.9L16.5,13.62L12.=
+5,11.25V7M12.5,2C8.97,2 5.91,3.92 4.27,6.77L2,4.5V11H8.5L5.75,8.25C6.96,5.7=
+3 9.5,4 12.5,4C16.64,4 20,7.36 20,11.5C20,15.64 16.64,19 12.5,19C9.23,19 6.=
+47,16.91 5.44,14H3.34C4.44,18.03 8.11,21 12.5,21C17.74,21 22,16.75 22,11.5C=
+22,6.25 17.75,2 12.5,2Z"></path></svg></div> <div class=3D"menu-entry__text=
+ flex flex--column"> <div>History</div> <span>Track and restore file revisi=
+ons.</span></div></a> <a class=3D"menu-entry button flex flex--row flex--al=
+ign-center"><div class=3D"menu-entry__icon flex flex--column flex--center">=
+<svg xmlns=3D"http://www.w3.org/2000/svg" viewBox=3D"0 0 24 24" class=3D"ic=
+on"><path d=3D"M 9,5L 9,9L 21,9L 21,5M 9,19L 21,19L 21,15L 9,15M 9,14L 21,1=
+4L 21,10L 9,10M 4,9L 8,9L 8,5L 4,5M 4,19L 8,19L 8,15L 4,15M 4,14L 8,14L 8,1=
+0L 4,10L 4,14 Z "></path></svg></div> <div class=3D"menu-entry__text flex f=
+lex--column"> <div>File properties</div> <span>Add metadata and configure e=
+xtensions.</span></div></a> <hr> <a class=3D"menu-entry button flex flex--r=
+ow flex--align-center"><div class=3D"menu-entry__icon flex flex--column fle=
+x--center"><svg xmlns=3D"http://www.w3.org/2000/svg" viewBox=3D"0 0 24 24" =
+class=3D"icon"><path d=3D"M3 9h14V7H3v2zm0 4h14v-2H3v2zm0 4h14v-2H3v2zm16 0=
+h2v-2h-2v2zm0-10v2h2V7h-2zm0 6h2v-2h-2v2z"></path></svg></div> <div class=
+=3D"menu-entry__text flex flex--column">
+    Table of contents
+  </div></a> <a class=3D"menu-entry button flex flex--row flex--align-cente=
+r"><div class=3D"menu-entry__icon flex flex--column flex--center"><svg xmln=
+s=3D"http://www.w3.org/2000/svg" viewBox=3D"0 0 24 24" class=3D"icon"><path=
+ d=3D"M 15.0661,11.2518L 14.1711,12.1697C 13.4471,12.8937 12.9991,13.4977 1=
+2.9991,14.9977L 10.9991,14.9977L 10.9991,14.4977C 10.9991,13.3937 11.4471,1=
+2.3937 12.1711,11.6697L 13.4141,10.4117C 13.7751,10.0497 13.9991,9.54974 13=
+.9991,8.99774C 13.9991,7.89374 13.1041,6.99774 11.9991,6.99774C 10.8951,6.9=
+9774 9.99908,7.89374 9.99908,8.99774L 7.99908,8.99774C 7.99908,6.78876 9.79=
+01,4.99774 11.9991,4.99774C 14.2091,4.99774 15.9991,6.78876 15.9991,8.99774=
+C 15.9991,9.87775 15.6431,10.6747 15.0661,11.2518 Z M 12.9991,18.9977L 10.9=
+991,18.9977L 10.9991,16.9977L 12.9991,16.9977M 11.9991,1.99774C 6.4761,1.99=
+774 1.99908,6.47473 1.99908,11.9977C 1.99908,17.5217 6.4761,21.9977 11.9991=
+,21.9977C 17.5231,21.9977 21.9991,17.5217 21.9991,11.9977C 21.9991,6.47473 =
+17.5231,1.99774 11.9991,1.99774 Z "></path></svg></div> <div class=3D"menu-=
+entry__text flex flex--column">
+    Markdown cheat sheet
+  </div></a> <hr> <a class=3D"menu-entry button flex flex--row flex--align-=
+center"><div class=3D"menu-entry__icon flex flex--column flex--center"><svg=
+ xmlns=3D"http://www.w3.org/2000/svg" viewBox=3D"0 0 24 24" class=3D"icon">=
+<path d=3D"M15,9H5V5H15M12,19C10.34,19 9,17.66 9,16C9,14.34 10.34,13 12,13C=
+13.66,13 15,14.34 15,16C15,17.66 13.66,19 12,19M17,3H5C3.89,3 3,3.9 3,5V19C=
+3,20.1 3.9,21 5,21H19C20.1,21 21,20.1 21,19V7L17,3Z"></path></svg></div> <d=
+iv class=3D"menu-entry__text flex flex--column">
+    Import/export
+  </div></a> <a class=3D"menu-entry button flex flex--row flex--align-cente=
+r"><div class=3D"menu-entry__icon flex flex--column flex--center"><svg xmln=
+s=3D"http://www.w3.org/2000/svg" viewBox=3D"0 0 24 24" class=3D"icon"><path=
+ d=3D"M18,3H6V7H18M19,12C18.45,12 18,11.55 18,11C18,10.45 18.45,10 19,10C19=
+.55,10 20,10.45 20,11C20,11.55 19.55,12 19,12M16,19H8V14H16M19,8H5C3.34,8 2=
+,9.34 2,11V17H6V21H18V17H22V11C22,9.34 20.66,8 19,8Z"></path></svg></div> <=
+div class=3D"menu-entry__text flex flex--column">
+    Print
+  </div></a> <hr> <a class=3D"menu-entry button flex flex--row flex--align-=
+center"><div class=3D"menu-entry__icon flex flex--column flex--center"><svg=
+ xmlns=3D"http://www.w3.org/2000/svg" viewBox=3D"1 1 23 23" class=3D"icon">=
+<path d=3D"M 20.3943,19.3706L 16.3828,17.9893L 15.0016,22.0008L 11.9248,15.=
+9996L 8.99895,21.9986L 7.61768,17.9871L 3.60619,19.3683L 6.53159,13.3704C 5=
+.57315,12.1727 5,10.6533 5,9C 5,5.13401 8.13401,2 12,2C 15.866,2 19,5.13401=
+ 19,9C 19,10.6535 18.4267,12.1731 17.468,13.3708L 20.3943,19.3706 Z M 7,9.0=
+0001L 9.68578,10.3429L 9.50615,13.3356L 12.012,11.6811L 14.514,13.333L 14.3=
+34,10.3356L 17.0156,8.9948L 14.323,7.64851L 14.5017,4.6727L 12.0162,6.31371=
+L 9.49384,4.64828L 9.67477,7.66262L 7,9.00001 Z "></path></svg></div> <div =
+class=3D"menu-entry__text flex flex--column"> <div><div class=3D"menu-entry=
+__label menu-entry__label--count">4/93</div> Badges</div> <span>List applic=
+ation features and earned badges.</span></div></a> <a class=3D"menu-entry b=
+utton flex flex--row flex--align-center"><div class=3D"menu-entry__icon fle=
+x flex--column flex--center"><svg xmlns=3D"http://www.w3.org/2000/svg" view=
+Box=3D"0 0 24 24" class=3D"icon"><path d=3D"M 7,14C 5.9,14 5,13.1 5,12C 5,1=
+0.9 5.9,10 7,10C 8.1,10 9,10.9 9,12C 9,13.1 8.1,14 7,14 Z M 12.65,10C 11.83=
+,7.67 9.61,6 7,6C 3.69,6 1,8.69 1,12C 1,15.31 3.69,18 7,18C 9.61,18 11.83,1=
+6.33 12.65,14L 17,14L 17,18L 21,18L 21,14L 23,14L 23,10L 12.65,10 Z "></pat=
+h></svg></div> <div class=3D"menu-entry__text flex flex--column"> <div><div=
+ class=3D"menu-entry__label menu-entry__label--count">0</div> Accounts</div=
+> <span>Manage access to your external accounts.</span></div></a> <a class=
+=3D"menu-entry button flex flex--row flex--align-center"><div class=3D"menu=
+-entry__icon flex flex--column flex--center"><svg xmlns=3D"http://www.w3.or=
+g/2000/svg" viewBox=3D"0 0 24 24" class=3D"icon"><path d=3D"M 8,3C 6.89543,=
+3 6,3.89539 6,5L 6,9C 6,10.1046 5.10457,11 4,11L 3,11L 3,13L 4,13C 5.10457,=
+13 6,13.8954 6,15L 6,19C 6,20.1046 6.92841,20.7321 8,21L 10,21L 10,19L 8,19=
+L 8,14C 8,12.8954 7.10457,12 6,12C 7.10457,12 8,11.1046 8,10L 8,5L 10,5L 10=
+,3M 16,3C 17.1046,3 18,3.89539 18,5L 18,9C 18,10.1046 18.8954,11 20,11L 21,=
+11L 21,13L 20,13C 18.8954,13 18,13.8954 18,15L 18,19C 18,20.1046 17.0716,20=
+.7321 16,21L 14,21L 14,19L 16,19L 16,14C 16,12.8954 16.8954,12 18,12C 16.89=
+54,12 16,11.1046 16,10L 16,5L 14,5L 14,3L 16,3 Z "></path></svg></div> <div=
+ class=3D"menu-entry__text flex flex--column"> <div><div class=3D"menu-entr=
+y__label menu-entry__label--count">5</div> Templates</div> <span>Configure =
+Handlebars templates for your exports.</span></div></a> <a class=3D"menu-en=
+try button flex flex--row flex--align-center"><div class=3D"menu-entry__ico=
+n flex flex--column flex--center"><svg xmlns=3D"http://www.w3.org/2000/svg"=
+ viewBox=3D"0 0 24 24" class=3D"icon"><path d=3D"M 11.9994,15.498C 10.0664,=
+15.498 8.49939,13.931 8.49939,11.998C 8.49939,10.0651 10.0664,8.49805 11.99=
+94,8.49805C 13.9324,8.49805 15.4994,10.0651 15.4994,11.998C 15.4994,13.931 =
+13.9324,15.498 11.9994,15.498 Z M 19.4284,12.9741C 19.4704,12.6531 19.4984,=
+12.329 19.4984,11.998C 19.4984,11.6671 19.4704,11.343 19.4284,11.022L 21.54=
+14,9.36804C 21.7294,9.21606 21.7844,8.94604 21.6594,8.73004L 19.6594,5.2660=
+5C 19.5354,5.05005 19.2734,4.96204 19.0474,5.04907L 16.5584,6.05206C 16.042=
+4,5.65607 15.4774,5.32104 14.8684,5.06903L 14.4934,2.41907C 14.4554,2.18103=
+ 14.2484,1.99805 13.9994,1.99805L 9.99939,1.99805C 9.74939,1.99805 9.5434,2=
+.18103 9.5054,2.41907L 9.1304,5.06805C 8.52039,5.32104 7.95538,5.65607 7.43=
+939,6.05206L 4.95139,5.04907C 4.7254,4.96204 4.46338,5.05005 4.33939,5.2660=
+5L 2.33939,8.73004C 2.21439,8.94604 2.26938,9.21606 2.4574,9.36804L 4.5694,=
+11.022C 4.5274,11.342 4.49939,11.6671 4.49939,11.998C 4.49939,12.329 4.5274=
+,12.6541 4.5694,12.9741L 2.4574,14.6271C 2.26938,14.78 2.21439,15.05 2.3393=
+9,15.2661L 4.33939,18.73C 4.46338,18.946 4.7254,19.0341 4.95139,18.947L 7.4=
+404,17.944C 7.95639,18.34 8.52139,18.675 9.1304,18.9271L 9.5054,21.577C 9.5=
+434,21.8151 9.74939,21.998 9.99939,21.998L 13.9994,21.998C 14.2484,21.998 1=
+4.4554,21.8151 14.4934,21.577L 14.8684,18.9271C 15.4764,18.6741 16.0414,18.=
+34 16.5574,17.9431L 19.0474,18.947C 19.2734,19.0341 19.5354,18.946 19.6594,=
+18.73L 21.6594,15.2661C 21.7844,15.05 21.7294,14.78 21.5414,14.6271L 19.428=
+4,12.9741 Z "></path></svg></div> <div class=3D"menu-entry__text flex flex-=
+-column"> <div>Settings</div> <span>Tweak application and keyboard shortcut=
+s.</span></div></a> <hr> <a class=3D"menu-entry button flex flex--row flex-=
+-align-center"><div class=3D"menu-entry__icon flex flex--column flex--cente=
+r"><svg xmlns=3D"http://www.w3.org/2000/svg" viewBox=3D"0 0 24 24" class=3D=
+"icon"><path d=3D"M15,9H5V5H15M12,19C10.34,19 9,17.66 9,16C9,14.34 10.34,13=
+ 12,13C13.66,13 15,14.34 15,16C15,17.66 13.66,19 12,19M17,3H5C3.89,3 3,3.9 =
+3,5V19C3,20.1 3.9,21 5,21H19C20.1,21 21,20.1 21,19V7L17,3Z"></path></svg></=
+div> <div class=3D"menu-entry__text flex flex--column">
+    Workspace backups
+  </div></a> <a class=3D"menu-entry button flex flex--row flex--align-cente=
+r"><div class=3D"menu-entry__icon flex flex--column flex--center"><svg xmln=
+s=3D"http://www.w3.org/2000/svg" viewBox=3D"0 0 24 24" class=3D"icon"><path=
+ fill=3D"#000000" fill-opacity=3D"1" stroke-width=3D"0.2" stroke-linejoin=
+=3D"round" d=3D"M 16.9999,17.25L 16.9999,14L 9.99998,14L 9.99998,10L 16.999=
+9,10L 16.9999,6.75L 22.2499,12L 16.9999,17.25 Z M 13,2.00002C 14.1046,2.000=
+02 15,2.89545 15,4.00002L 15,8L 13,8L 13,4.00002L 4,4.00004L 4,20L 13,20L 1=
+3,16L 15,16L 15,20C 15,21.1046 14.1046,22 13,22L 4,22C 2.89543,22 2,21.1046=
+ 2,20L 2,4.00004C 2,2.89547 2.89543,2.00006 4,2.00006L 13,2.00002 Z "></pat=
+h></svg></div> <div class=3D"menu-entry__text flex flex--column">
+    Reset application
+  </div></a> <a class=3D"menu-entry button flex flex--row flex--align-cente=
+r"><div class=3D"menu-entry__icon flex flex--column flex--center"><svg xmln=
+s=3D"http://www.w3.org/2000/svg" viewBox=3D"0 0 24 24" class=3D"icon"><path=
+ d=3D"M 15.0661,11.2518L 14.1711,12.1697C 13.4471,12.8937 12.9991,13.4977 1=
+2.9991,14.9977L 10.9991,14.9977L 10.9991,14.4977C 10.9991,13.3937 11.4471,1=
+2.3937 12.1711,11.6697L 13.4141,10.4117C 13.7751,10.0497 13.9991,9.54974 13=
+.9991,8.99774C 13.9991,7.89374 13.1041,6.99774 11.9991,6.99774C 10.8951,6.9=
+9774 9.99908,7.89374 9.99908,8.99774L 7.99908,8.99774C 7.99908,6.78876 9.79=
+01,4.99774 11.9991,4.99774C 14.2091,4.99774 15.9991,6.78876 15.9991,8.99774=
+C 15.9991,9.87775 15.6431,10.6747 15.0661,11.2518 Z M 12.9991,18.9977L 10.9=
+991,18.9977L 10.9991,16.9977L 12.9991,16.9977M 11.9991,1.99774C 6.4761,1.99=
+774 1.99908,6.47473 1.99908,11.9977C 1.99908,17.5217 6.4761,21.9977 11.9991=
+,21.9977C 17.5231,21.9977 21.9991,17.5217 21.9991,11.9977C 21.9991,6.47473 =
+17.5231,1.99774 11.9991,1.99774 Z "></path></svg></div> <div class=3D"menu-=
+entry__text flex flex--column">
+    About StackEdit
+  </div></a></div> <div class=3D"side-bar__panel side-bar__panel--toc side-=
+bar__panel--hidden"><div class=3D"toc"><div class=3D"toc__mask" style=3D"to=
+p: -5px;"></div> <div class=3D"toc__inner"><div class=3D"cl-toc-section"><h=
+1>Financial Analysis: Build a ChatGPT Pairs Trading Bot</h1></div><div clas=
+s=3D"cl-toc-section"><h3>Learn to use ChatGPT for algo-trading, crypto, for=
+ex, stock investing, and making money online using Python</h3></div><div cl=
+ass=3D"cl-toc-section"></div><div class=3D"cl-toc-section"><h2>Course Code =
+Bundle</h2></div><div class=3D"cl-toc-section"></div><div class=3D"cl-toc-s=
+ection"></div><div class=3D"cl-toc-section"></div><div class=3D"cl-toc-sect=
+ion"><h2>About Course</h2></div><div class=3D"cl-toc-section"></div><div cl=
+ass=3D"cl-toc-section"></div><div class=3D"cl-toc-section"></div><div class=
+=3D"cl-toc-section"><h2>Target Audience</h2></div><div class=3D"cl-toc-sect=
+ion"></div><div class=3D"cl-toc-section"><h2>Course Key Features</h2></div>=
+<div class=3D"cl-toc-section"></div><div class=3D"cl-toc-section"><h2>What =
+You Will Learn</h2></div><div class=3D"cl-toc-section"></div><div class=3D"=
+cl-toc-section"><h2>Author Bio</h2></div><div class=3D"cl-toc-section"></di=
+v><div class=3D"cl-toc-section"></div></div></div></div></div></div></div><=
+/div> <!----></div> <!----> <div class=3D"notification"></div> <!----></div=
+><div class=3D"hidden-rendering-container"></div><div class=3D"hidden-rende=
+ring-container"></div></body><grammarly-desktop-integration data-grammarly-=
+shadow-root=3D"true"><template shadowmode=3D"open"><div aria-label=3D"gramm=
+arly-integration" role=3D"group" tabindex=3D"-1" class=3D"grammarly-desktop=
+-integration" data-content=3D"{&quot;mode&quot;:&quot;limited&quot;,&quot;i=
+sActive&quot;:false,&quot;isUserDisabled&quot;:false}"></div></template></g=
+rammarly-desktop-integration></html>
+------MultipartBoundary--rQdIyDWawgRmvd4wMjfemfhIfm7TXVfVZjqXWJUoxT----
+Content-Type: text/css
+Content-Transfer-Encoding: quoted-printable
+Content-Location: cid:css-582a44ad-467f-4a77-bc74-1d9d83486413@mhtml.blink
+
+@charset "utf-8";
+
+.cledit-section * { display: inline; }
+------MultipartBoundary--rQdIyDWawgRmvd4wMjfemfhIfm7TXVfVZjqXWJUoxT----
+Content-Type: text/css
+Content-Transfer-Encoding: quoted-printable
+Content-Location: https://stackedit.io/static/css/app.3ff5d2b80a5f2cc852e01b00c29b9eb6.css
+
+@charset "utf-8";
+
+.icon-provider { width: 100%; height: 100%; background-position: 50% center=
+; background-repeat: no-repeat; background-size: contain; }
+
+.icon-provider--stackedit { background-image: url("data:image/svg+xml;base6=
+4,PD94bWwgdmVyc2lvbj0iMS4wIiBlbmNvZGluZz0iVVRGLTgiIHN0YW5kYWxvbmU9Im5vIj8+P=
+CFET0NUWVBFIHN2ZyBQVUJMSUMgIi0vL1czQy8vRFREIFNWRyAxLjEvL0VOIiAiaHR0cDovL3d3=
+dy53My5vcmcvR3JhcGhpY3MvU1ZHLzEuMS9EVEQvc3ZnMTEuZHRkIj48c3ZnIHdpZHRoPSIxMDA=
+lIiBoZWlnaHQ9IjEwMCUiIHZpZXdCb3g9IjAgMCAyNCAyNCIgdmVyc2lvbj0iMS4xIiB4bWxucz=
+0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHhtbG5zOnhsaW5rPSJodHRwOi8vd3d3LnczL=
+m9yZy8xOTk5L3hsaW5rIiB4bWw6c3BhY2U9InByZXNlcnZlIiB4bWxuczpzZXJpZj0iaHR0cDov=
+L3d3dy5zZXJpZi5jb20vIiBzdHlsZT0iZmlsbC1ydWxlOmV2ZW5vZGQ7Y2xpcC1ydWxlOmV2ZW5=
+vZGQ7c3Ryb2tlLWxpbmVqb2luOnJvdW5kO3N0cm9rZS1taXRlcmxpbWl0OjEuNDE0MjE7Ij48cG=
+F0aCBkPSJNMjMuOTk3LDYuMDAyYzAsLTMuMzExIC0yLjY4OCwtNS45OTkgLTUuOTk5LC01Ljk5O=
+WwtMTEuOTk5LDBjLTMuMzExLDAgLTUuOTk5LDIuNjg4IC01Ljk5OSw1Ljk5OWwwLDExLjk5OWMw=
+LDMuMzExIDIuNjg4LDUuOTk5IDUuOTk5LDUuOTk5bDExLjk5OSwwYzMuMzExLDAgNS45OTksLTI=
+uNjg4IDUuOTk5LC01Ljk5OWwwLC0xMS45OTlaIiBzdHlsZT0iZmlsbDpub25lOyIvPjxjbGlwUG=
+F0aCBpZD0iX2NsaXAxIj48cGF0aCBkPSJNMjMuOTk3LDYuMDAyYzAsLTMuMzExIC0yLjY4OCwtN=
+S45OTkgLTUuOTk5LC01Ljk5OWwtMTEuOTk5LDBjLTMuMzExLDAgLTUuOTk5LDIuNjg4IC01Ljk5=
+OSw1Ljk5OWwwLDExLjk5OWMwLDMuMzExIDIuNjg4LDUuOTk5IDUuOTk5LDUuOTk5bDExLjk5OSw=
+wYzMuMzExLDAgNS45OTksLTIuNjg4IDUuOTk5LC01Ljk5OWwwLC0xMS45OTlaIi8+PC9jbGlwUG=
+F0aD48ZyBjbGlwLXBhdGg9InVybCgjX2NsaXAxKSI+PHBhdGggZD0iTTIzLjk5NywwLjAwM2wtM=
+jQsMGwxMiwxMmwxMiwtMTJaIiBzdHlsZT0iZmlsbDojZmZkNzAwOyIvPjxwYXRoIGQ9Ik0tMC4w=
+MDMsMC4wMDNsMCwyNGwxMiwtMTJsLTEyLC0xMloiIHN0eWxlPSJmaWxsOiNhNWM3MDA7Ii8+PHB=
+hdGggZD0iTS0wLjAwMywyNC4wMDNsMjQsMGwtMTIsLTEybC0xMiwxMloiIHN0eWxlPSJmaWxsOi=
+NmZjhhMDA7Ii8+PHBhdGggZD0iTTIzLjk5NywyNC4wMDNsMCwtMjRsLTEyLDEybDEyLDEyWiIgc=
+3R5bGU9ImZpbGw6IzY2YWVmZDsiLz48cGF0aCBkPSJNMjIuNDk3LC0xLjQ5N2wtMTAuNSwxMC40=
+OTdsMywzLjAwM2wxMC41LC0xMC41bC0zLC0zWiIgc3R5bGU9ImZpbGw6dXJsKCNfTGluZWFyMik=
+7Ii8+PHBhdGggZD0iTTI1LjQ5OSwyMi41MDNsLTEwLjQ5OCwtMTAuNWwtMy4wMDIsM2wxMC41LD=
+EwLjVsMywtM1oiIHN0eWxlPSJmaWxsOnVybCgjX0xpbmVhcjMpOyIvPjxwYXRoIGQ9Ik0xLjQ5N=
+ywyNS41MDFsMTAuNSwtMTAuNDk3bC0zLC0zLjAwM2wtMTAuNSwxMC41bDMsM1oiIHN0eWxlPSJm=
+aWxsOnVybCgjX0xpbmVhcjQpOyIvPjxwYXRoIGQ9Ik0tMS41MDMsMS41MDNsMTAuNDk4LDEwLjV=
+sMy4wMDIsLTNsLTEwLjUsLTEwLjVsLTMsM1oiIHN0eWxlPSJmaWxsOnVybCgjX0xpbmVhcjUpOy=
+IvPjwvZz48cGF0aCBkPSJNMjEuNzUsNS44NTJjMCwtMi4xOTUgLTEuNzgyLC0zLjk3NyAtMy45N=
+zcsLTMuOTc3bC0xMS41NDYsMGMtMi4xOTUsMCAtMy45NzcsMS43ODIgLTMuOTc3LDMuOTc3bDAs=
+MTEuNTQ2YzAsMi4xOTUgMS43ODIsMy45NzcgMy45NzcsMy45NzdsMTEuNTQ2LDBjMi4xOTUsMCA=
+zLjk3NywtMS43ODIgMy45NzcsLTMuOTc3bDAsLTExLjU0NloiIHN0eWxlPSJmaWxsOiNmZmY7Ii=
+8+PHBhdGggZD0iTTQuNjMzLDYuMDEzbDEuMzcsMGwwLC0xLjgyOGwxLjM5OSwwbDAsMS44MjhsM=
+S42OTYsMGwwLC0xLjgyOGwxLjM5OSwwbDAsMS44MjhsMS4zNywwbDAsMS42OTFsLTEuMzcsMGww=
+LDEuOTAybDEuMzcsMGwwLDEuNjlsLTEuMzcsMGwwLDEuODI5bC0xLjM5OSwwbDAsLTEuODI5bC0=
+xLjY5NiwwbDAsMS44MjlsLTEuMzk5LDBsMCwtMS44MjlsLTEuMzcsMGwwLC0xLjY5bDEuMzcsMG=
+wwLC0xLjkwMmwtMS4zNywwbDAsLTEuNjkxWm0yLjc2OSwxLjY5MWwwLDEuOTAybDEuNjk2LDBsM=
+CwtMS45MDJsLTEuNjk2LDBaIiBzdHlsZT0iZmlsbDojNzM3MzczOyIvPjxkZWZzPjxsaW5lYXJH=
+cmFkaWVudCBpZD0iX0xpbmVhcjIiIHgxPSIwIiB5MT0iMCIgeDI9IjEiIHkyPSIwIiBncmFkaWV=
+udFVuaXRzPSJ1c2VyU3BhY2VPblVzZSIgZ3JhZGllbnRUcmFuc2Zvcm09Im1hdHJpeCgtMi45OT=
+k5NSwtMywzLC0yLjk5OTk1LDIzLjk5NzQsMy4wMDI2NSkiPjxzdG9wIG9mZnNldD0iMCIgc3R5b=
+GU9InN0b3AtY29sb3I6IzY2YWVmZDtzdG9wLW9wYWNpdHk6MSIvPjxzdG9wIG9mZnNldD0iMSIg=
+c3R5bGU9InN0b3AtY29sb3I6I2ZmZDcwMDtzdG9wLW9wYWNpdHk6MSIvPjwvbGluZWFyR3JhZGl=
+lbnQ+PGxpbmVhckdyYWRpZW50IGlkPSJfTGluZWFyMyIgeDE9IjAiIHkxPSIwIiB4Mj0iMSIgeT=
+I9IjAiIGdyYWRpZW50VW5pdHM9InVzZXJTcGFjZU9uVXNlIiBncmFkaWVudFRyYW5zZm9ybT0ib=
+WF0cml4KDMsLTIuOTk5OTUsMi45OTk5NSwzLDIwLjk5ODcsMjQuMDAyNykiPjxzdG9wIG9mZnNl=
+dD0iMCIgc3R5bGU9InN0b3AtY29sb3I6I2ZmOGEwMDtzdG9wLW9wYWNpdHk6MSIvPjxzdG9wIG9=
+mZnNldD0iMSIgc3R5bGU9InN0b3AtY29sb3I6IzY2YWVmZDtzdG9wLW9wYWNpdHk6MSIvPjwvbG=
+luZWFyR3JhZGllbnQ+PGxpbmVhckdyYWRpZW50IGlkPSJfTGluZWFyNCIgeDE9IjAiIHkxPSIwI=
+iB4Mj0iMSIgeTI9IjAiIGdyYWRpZW50VW5pdHM9InVzZXJTcGFjZU9uVXNlIiBncmFkaWVudFRy=
+YW5zZm9ybT0ibWF0cml4KDIuOTk5OTUsMywtMywyLjk5OTk1LC0wLjAwMjU1OTI4LDIxLjAwMTM=
+pIj48c3RvcCBvZmZzZXQ9IjAiIHN0eWxlPSJzdG9wLWNvbG9yOiNhNWM3MDA7c3RvcC1vcGFjaX=
+R5OjEiLz48c3RvcCBvZmZzZXQ9IjEiIHN0eWxlPSJzdG9wLWNvbG9yOiNmZjhhMDA7c3RvcC1vc=
+GFjaXR5OjEiLz48L2xpbmVhckdyYWRpZW50PjxsaW5lYXJHcmFkaWVudCBpZD0iX0xpbmVhcjUi=
+IHgxPSIwIiB5MT0iMCIgeDI9IjEiIHkyPSIwIiBncmFkaWVudFVuaXRzPSJ1c2VyU3BhY2VPblV=
+zZSIgZ3JhZGllbnRUcmFuc2Zvcm09Im1hdHJpeCgtMywyLjk5OTk1LC0yLjk5OTk1LC0zLDIuOT=
+k3NDQsMC4wMDI2NTI1MikiPjxzdG9wIG9mZnNldD0iMCIgc3R5bGU9InN0b3AtY29sb3I6I2ZmZ=
+DcwMDtzdG9wLW9wYWNpdHk6MSIvPjxzdG9wIG9mZnNldD0iMSIgc3R5bGU9InN0b3AtY29sb3I6=
+I2E1YzcwMDtzdG9wLW9wYWNpdHk6MSIvPjwvbGluZWFyR3JhZGllbnQ+PC9kZWZzPjwvc3ZnPg=
+=3D=3D"); }
+
+.icon-provider--google-drive { background-image: url("data:image/svg+xml;ba=
+se64,PHN2ZwogIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyIgdmlld0JveD0iMC=
+AwIDEzMzE1NiAxMTUzNDEiPgogIDxnPgogICAgPHBvbHlnb24gc3R5bGU9ImZpbGw6IzM3NzdFM=
+yIgcG9pbnRzPSIyMjE5NCwxMTUzNDEgNDQzODUsNzY4OTQgMTMzMTU2LDc2ODk0IDExMDk2Mywx=
+MTUzNDEgIi8+CiAgICA8cG9seWdvbiBzdHlsZT0iZmlsbDojRkZDRjYzIiBwb2ludHM9Ijg4Nzc=
+yLDc2ODk0IDEzMzE1Niw3Njg5NCA4ODc3MiwwIDQ0Mzg1LDAgIi8+CiAgICA8cG9seWdvbiBzdH=
+lsZT0iZmlsbDojMTFBODYxIiBwb2ludHM9IjAsNzY4OTQgMjIxOTQsMTE1MzQxIDY2NTc4LDM4N=
+DQ3IDQ0Mzg1LDAgIi8+CiAgPC9nPgo8L3N2Zz4K"); }
+
+.icon-provider--google-photos { background-image: url("data:image/svg+xml;b=
+ase64,CjxzdmcKICB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9I=
+jAgMCA1MTIgNTExIj4KICA8cGF0aCBkPSJNMjU1LjkxMiwwLjA4YzEuNCwwLjggMi42LDIgMy43=
+LDMuMmM0MS4zLDQxLjUgODIuNyw4MyAxMjMuODk5LDEyNC42Yy0yNiwyNS42IC01MS42LDUxLjY=
+gLTc3LjM5OSw3Ny4zYy05LjcsOS44IC0xOS42MDEsMTkuNCAtMjkuMiwyOS40Yy03LjIsLTE3Lj=
+QgLTE0LjEsLTM0LjkgLTIxLC01Mi40YzAsLTE4LjIgMC4xLC0zNi40IDAsLTU0LjdjLTAuMSwtN=
+DIuNCAtMC4yLC04NC45IDAsLTEyNy40bDAsMFoiIHN0eWxlPSJmaWxsOiNkYzRiM2U7ZmlsbC1y=
+dWxlOm5vbnplcm87c3Ryb2tlOiNkZDRiMzk7c3Ryb2tlLXdpZHRoOjAuMDlweDsiLz4KICA8cGF=
+0aCBkPSJNMTI3LjgxMiwxMjcuNDhsMTI4LjEsMGMwLjEsMTguMyAwLDM2LjUgMCw1NC43Yy03Lj=
+EsMTcuMiAtMTQsMzQuNSAtMjAuOCw1MS45Yy0yLjIsLTEuMiAtMy44LC0zIC01LjUsLTQuOGwtM=
+TAxLjQsLTEwMS40bC0wLjQsLTAuNFoiIHN0eWxlPSJmaWxsOiNmZjllMGU7ZmlsbC1ydWxlOm5v=
+bnplcm87c3Ryb2tlOiNlZjg1MWM7c3Ryb2tlLXdpZHRoOjAuMDlweDsiLz4KICA8cGF0aCBkPSJ=
+NMzgzLjUxMSwxMjcuODhsMC40LC0wLjNjLTAuMSw0Mi42IC0wLjEsODUuMyAwLDEyNy45bC01NS=
+4xLDBjLTE3LjIsLTcuMiAtMzQuNjAxLC0xMy44IC01MS45LC0yMC45YzkuNiwtMTAgMTkuNSwtM=
+TkuNiAyOS4yLC0yOS40YzI1LjgwMSwtMjUuNyA1MS40LC01MS43IDc3LjQsLTc3LjNsMCwwWiIg=
+c3R5bGU9ImZpbGw6I2FmMTk1YTtmaWxsLXJ1bGU6bm9uemVybztzdHJva2U6IzdlMzc5NDtzdHJ=
+va2Utd2lkdGg6MC4wOXB4OyIvPgogIDxwYXRoIGQ9Ik0xMDYuOTEyLDE0OC45OGM3LjIsLTYuOS=
+AxMy45LC0xNC4zIDIxLjMsLTIxLjFsMTAxLjQsMTAxLjRjMS43LDEuOCAzLjMsMy42IDUuNSw0L=
+jhjLTIuMywxLjcgLTUuMiwyLjMgLTcuOCwzLjVjLTE0LjgwMSw2IC0yOS44MDEsMTEuNiAtNDQu=
+NSwxOGMtMTguMzAxLC0wLjIgLTM2LjYwMSwtMC4xIC01NC45LC0wLjFjLTQyLjYsLTAuMSAtODU=
+uMiwwLjIgLTEyNy44LC0wLjFjMzUuNSwtMzUuNiA3MS4yLC03MSAxMDYuOCwtMTA2LjRsMCwwWi=
+Igc3R5bGU9ImZpbGw6I2ZmYzExMjtmaWxsLXJ1bGU6bm9uemVybztzdHJva2U6I2ZmYmIxYjtzd=
+HJva2Utd2lkdGg6MC4wOXB4OyIvPgogIDxwYXRoIGQ9Ik0xMjcuOTEyLDI1NS40OGMxOC4zLDAg=
+MzYuNiwtMC4xIDU0LjksMC4xYzE3LjMsNy4xIDM0LjYsMTMuOCA1MS44OTksMjAuOGMtMjguMzk=
+5LDI4LjggLTU3LjA5OSw1Ny4yIC04NS41OTksODUuOWMtNy4yLDYuOCAtMTMuNywxNC4zIC0yMS=
+4zLDIwLjdjMCwtNDIuNSAtMC4xLC04NSAwLjEsLTEyNy41WiIgc3R5bGU9ImZpbGw6IzE3YTA1Z=
+TtmaWxsLXJ1bGU6bm9uemVybztzdHJva2U6IzFhODc2MztzdHJva2Utd2lkdGg6MC4wOXB4OyIv=
+PgogIDxwYXRoIGQ9Ik0zMjguODEyLDI1NS40OGw1NS4xLDBjNDIuNSwwLjEgODUuMSwtMC4xIDE=
+yNy42LDAuMWMtMjcuMywyNy43IC01NSw1NS4xIC04Mi4zOTksODIuNmMtMTUuMiwxNS4xIC0zMC=
+4yLDMwLjM5OSAtNDUuNCw0NS4zYy0zNCwtMzQuNCAtNjguNSwtNjguNCAtMTAyLjYsLTEwMi44Y=
+y0xLjQsLTEuNSAtMi45LC0yLjggLTQuNjAxLC0zLjhjMi45LC0xLjgwMSA2LjEwMSwtMi43IDku=
+MiwtNGMxNC40LC01LjggMjguNzk5LC0xMS40IDQzLjEsLTE3LjRsMCwwWiIgc3R5bGU9ImZpbGw=
+6IzQ1ODdmNDtmaWxsLXJ1bGU6bm9uemVybztzdHJva2U6IzQyN2ZlZDtzdHJva2Utd2lkdGg6MC=
+4wOXB4OyIvPgogIDxwYXRoIGQ9Ik0yMzQuNzEyLDI3Ni4zOGM3LjMsMTcuMzk5IDEzLjksMzUgM=
+jEuMiw1Mi4zOTljLTAuMSwxOC4yIDAsMzYuNSAtMC4xLDU0LjdsMCw4OGMtMC4yLDEzLjEgMC4z=
+LDI2LjIgLTAuMiwzOS4yYy0yLjEwMSwtMSAtMy40LC0yLjkgLTUuMTAxLC00LjVjLTQwLjg5OSw=
+tNDEuMDk5IC04MS42OTksLTgyLjE5OSAtMTIyLjY5OSwtMTIzLjE5OWM3LjYsLTYuNCAxNC4xLC=
+0xMy45IDIxLjMsLTIwLjdjMjguNSwtMjguNyA1Ny4yLC01Ny4xIDg1LjYsLTg1LjlaIiBzdHlsZ=
+T0iZmlsbDojOGRjNDRkO2ZpbGwtcnVsZTpub256ZXJvO3N0cm9rZTojNjViMDQ1O3N0cm9rZS13=
+aWR0aDowLjA5cHg7Ii8+CiAgPHBhdGggZD0iTTI3Ni41MTEsMjc2Ljg4YzEuNywxIDMuMiwyLjM=
+gNC42MDEsMy44YzM0LjEsMzQuNCA2OC42LDY4LjQgMTAyLjYsMTAyLjhjLTQyLjcsLTAuMSAtOD=
+UuMywwLjEgLTEyNy44OTksMGMwLjEsLTE4LjIgMCwtMzYuNSAwLjEsLTU0LjdjNi42OTksLTE3L=
+jMgMTMuODk5LC0zNC41IDIwLjU5OCwtNTEuOWwwLDBaIiBzdHlsZT0iZmlsbDojMzU2OWQ2O2Zp=
+bGwtcnVsZTpub256ZXJvO3N0cm9rZTojNDM0NTlkO3N0cm9rZS13aWR0aDowLjA5cHg7Ii8+Cjw=
+vc3ZnPgo=3D"); }
+
+.icon-provider--github { background-image: url("data:image/svg+xml;base64,C=
+jxzdmcKICB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCA2=
+MCA1OCI+CiAgPGcgZmlsbD0ibm9uZSIgZmlsbC1ydWxlPSJldmVub2RkIj4KICAgIDxwYXRoIGQ=
+9Im0xMzI0LjYyIDE0MGMtMTYuMzU1IDAtMjkuNjE2IDEzLjIxOS0yOS42MTYgMjkuNTI3IDAgMT=
+MuMDQgOC40ODUgMjQuMTEgMjAuMjU2IDI4LjAxIDEuNDgyLjI3IDIuMDItLjY0MiAyLjAyLTEuN=
+DI1IDAtLjctLjAyNS0yLjU1Ny0uMDQtNS4wMi04LjIzOCAxLjc4NC05Ljk3Ni0zLjk1OC05Ljk3=
+Ni0zLjk1OC0xLjM0Ny0zLjQxMS0zLjI4OS00LjMxNy0zLjI4OS00LjMxNy0yLjY4OS0xLjgzMi4=
+yMDQtMS43OTYuMjA0LTEuNzk2IDIuOTczLjIxIDQuNTM2IDMuMDQzIDQuNTM2IDMuMDQzIDIuNj=
+QyIDQuNTExIDYuOTMxIDMuMjA4IDguNjIgMi40NTQuMjY5LTEuOTA5IDEuMDMzLTMuMjEgMS44O=
+C0zLjk0OC02LjU3Ni0uNzQ1LTEzLjQ5MS0zLjI3OS0xMy40OTEtMTQuNTkyIDAtMy4yMjMgMS4x=
+NTUtNS44NTggMy4wNDktNy45MjItLjMwNS0uNzQ3LTEuMzIyLTMuNzQ4LjI4OS03LjgxNCAwIDA=
+gMi40ODctLjc5NCA4LjE0NSAzLjAzIDIuMzYyLS42NTYgNC44OTYtLjk4MiA3LjQxNS0uOTk1ID=
+IuNTE1LjAxMyA1LjA1LjMzOSA3LjQxNS45OTUgNS42NTUtMy44MjEgOC4xMzYtMy4wMyA4LjEzN=
+i0zLjAzIDEuNjE2IDQuMDY1LjYgNy4wNy4yOTUgNy44MTQgMS44OTggMi4wNjQgMy4wNDUgNC43=
+IDMuMDQ1IDcuOTIyIDAgMTEuMzQzLTYuOTI1IDEzLjgzOC0xMy41MjQgMTQuNTY5IDEuMDY0Ljk=
+xMiAyLjAxIDIuNzEzIDIuMDEgNS40NjggMCAzLjk0Ni0uMDM2IDcuMTMtLjAzNiA4LjA5OCAwIC=
+43OS41MzMgMS43MDkgMi4wMzYgMS40MjEgMTEuNzU4LTMuOTEzIDIwLjIzOC0xNC45NzEgMjAuM=
+jM4LTI4LjAxIDAtMTYuMzA5LTEzLjI2Mi0yOS41MjctMjkuNjItMjkuNTI3IiB0cmFuc2Zvcm09=
+InRyYW5zbGF0ZSgtMTI5NS0xNDApIiBmaWxsPSIjMTgxNjE2Ii8+CiAgPC9nPgo8L3N2Zz4K");=
+ }
+
+.icon-provider--gitlab { background-image: url("data:image/svg+xml;base64,C=
+jxzdmcgd2lkdGg9IjEwMCUiIGhlaWdodD0iMTAwJSIgdmlld0JveD0iMCAwIDMwIDMwIiB2ZXJz=
+aW9uPSIxLjEiCiAgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIgogIHN0eWxlPSJ=
+maWxsLXJ1bGU6ZXZlbm9kZDtjbGlwLXJ1bGU6ZXZlbm9kZDtzdHJva2UtbGluZWpvaW46cm91bm=
+Q7c3Ryb2tlLW1pdGVybGltaXQ6MS40MTQyMTsiPgogIDxwYXRoIGQ9Ik0xNC41ODEsMjguMDE5b=
+DUuMzY5LC0xNi41MjZsLTEwLjczOCwwbDUuMzY5LDE2LjUyNmwwLDBaIiBzdHlsZT0iZmlsbDoj=
+ZTI0MzI5OyIvPgogIDxwYXRoIGQ9Ik0xNC41ODEsMjguMDE5bC01LjM3LC0xNi41MjZsLTcuNTI=
+1LDBsMTIuODk1LDE2LjUyNmwwLDBaIiBzdHlsZT0iZmlsbDojZmM2ZDI2OyIvPgogIDxwYXRoIG=
+Q9Ik0xLjY4NiwxMS40OTNsLTEuNjMyLDUuMDIyYy0wLjE0OCwwLjQ1OCAwLjAxNSwwLjk2IDAuN=
+DA0LDEuMjQzbDE0LjEyMywxMC4yNjFsLTEyLjg5NSwtMTYuNTI2bDAsMFoiIHN0eWxlPSJmaWxs=
+OiNmY2EzMjY7Ii8+CiAgPHBhdGggZD0iTTEuNjg2LDExLjQ5M2w3LjUyNiwwbC0zLjIzNSwtOS4=
+5NTNjLTAuMTY2LC0wLjUxMiAtMC44OSwtMC41MTIgLTEuMDU3LDBsLTMuMjM0LDkuOTUzbDAsMF=
+oiIHN0eWxlPSJmaWxsOiNlMjQzMjk7Ii8+CiAgPHBhdGggZD0iTTE0LjU4MSwyOC4wMTlsNS4zN=
+jksLTE2LjUyNmw3LjUyNiwwbC0xMi44OTUsMTYuNTI2bDAsMFoiIHN0eWxlPSJmaWxsOiNmYzZk=
+MjY7Ii8+CiAgPHBhdGggZD0iTTI3LjQ3NiwxMS40OTNsMS42MzEsNS4wMjJjMC4xNDksMC40NTg=
+gLTAuMDE0LDAuOTYgLTAuNDA0LDEuMjQzbC0xNC4xMjIsMTAuMjYxbDEyLjg5NSwtMTYuNTI2bD=
+AsMFoiIHN0eWxlPSJmaWxsOiNmY2EzMjY7Ii8+CiAgPHBhdGggZD0iTTI3LjQ3NiwxMS40OTNsL=
+TcuNTI2LDBsMy4yMzQsLTkuOTUzYzAuMTY3LC0wLjUxMiAwLjg5MSwtMC41MTIgMS4wNTgsMGwz=
+LjIzNCw5Ljk1M2wwLDBaIiBzdHlsZT0iZmlsbDojZTI0MzI5OyIvPgo8L3N2Zz4K"); }
+
+.icon-provider--google { background-image: url("data:image/svg+xml;base64,P=
+HN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciCiAgICAgeG1sbnM6eGxpbms9=
+Imh0dHA6Ly93d3cudzMub3JnLzE5OTkveGxpbmsiIHZpZXdCb3g9IjAgMCA0OCA0OCI+CiAgPGR=
+lZnM+CiAgICA8cGF0aCBpZD0iYSIgZD0iTTQ0LjUgMjBIMjR2OC41aDExLjhDMzQuNyAzMy45ID=
+MwLjEgMzcgMjQgMzdjLTcuMiAwLTEzLTUuOC0xMy0xM3M1LjgtMTMgMTMtMTNjMy4xIDAgNS45I=
+DEuMSA4LjEgMi45bDYuNC02LjRDMzQuNiA0LjEgMjkuNiAyIDI0IDIgMTEuOCAyIDIgMTEuOCAy=
+IDI0czkuOCAyMiAyMiAyMmMxMSAwIDIxLTggMjEtMjIgMC0xLjMtLjItMi43LS41LTR6Ii8+CiA=
+gPC9kZWZzPgogIDxjbGlwUGF0aCBpZD0iYiI+CiAgICA8dXNlIHhsaW5rOmhyZWY9IiNhIiBvdm=
+VyZmxvdz0idmlzaWJsZSIvPgogIDwvY2xpcFBhdGg+CiAgPHBhdGggY2xpcC1wYXRoPSJ1cmwoI=
+2IpIiBmaWxsPSIjRkJCQzA1IiBkPSJNMCAzN1YxMWwxNyAxM3oiLz4KICA8cGF0aCBjbGlwLXBh=
+dGg9InVybCgjYikiIGZpbGw9IiNFQTQzMzUiIGQ9Ik0wIDExbDE3IDEzIDctNi4xTDQ4IDE0VjB=
+IMHoiLz4KICA8cGF0aCBjbGlwLXBhdGg9InVybCgjYikiIGZpbGw9IiMzNEE4NTMiIGQ9Ik0wID=
+M3bDMwLTIzIDcuOSAxTDQ4IDB2NDhIMHoiLz4KICA8cGF0aCBjbGlwLXBhdGg9InVybCgjYikiI=
+GZpbGw9IiM0Mjg1RjQiIGQ9Ik00OCA0OEwxNyAyNGwtNC0zIDM1LTEweiIvPgo8L3N2Zz4K"); =
+}
+
+.icon-provider--dropbox { background-image: url("data:image/svg+xml;base64,=
+CjxzdmcKICB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCA=
+0Mi40IDM5LjUiPgogIDxnIGZpbGw9IiMwMDdFRTUiPgogICAgPHBhdGggZD0iTTEyLjUgMEwwID=
+guMWw4LjcgNyAxMi41LTcuOCIvPgogICAgPHBhdGggZD0iTTAgMjEuOWwxMi41IDguMiA4LjctN=
+y4zLTEyLjUtNy43bTEyLjUgNy43bDguOCA3LjNMNDIuNCAyMmwtOC42LTYuOW04LjYtN0wzMCAw=
+bC04LjggNy4zIDEyLjYgNy44Ii8+CiAgICA8cGF0aCBkPSJNMjEuMyAyNC40bC04LjggNy4zLTM=
+uNy0yLjVWMzJsMTIuNSA3LjVMMzMuOCAzMnYtMi44TDMwIDMxLjciLz4KICA8L2c+Cjwvc3ZnPg=
+o=3D"); }
+
+.icon-provider--wordpress { background-image: url("data:image/svg+xml;base6=
+4,CjxzdmcKICB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgM=
+CAxMjggMTI4Ij4KICA8ZyBpZD0iX3gzMl9fc3Ryb2tlIj4KICAgIDxnIGlkPSJXb3JkcHJlc3Nf=
+MV8iPgogICAgICA8cmVjdCBjbGlwLXJ1bGU9ImV2ZW5vZGQiIGZpbGw9Im5vbmUiIGZpbGwtcnV=
+sZT0iZXZlbm9kZCIgaGVpZ2h0PSIxMjgiIHdpZHRoPSIxMjgiLz4KICAgICAgPHBhdGggY2xpcC=
+1ydWxlPSJldmVub2RkIiBkPSJNNjUuMTIzLDY5LjU5NWwtMTkuMjA1LDU1Ljc5NyAgICBjNS43M=
+zYsMS42ODgsMTEuOCwyLjYwOCwxOC4wODEsMi42MDhjNy40NTIsMCwxNC42LTEuMjg4LDIxLjI1=
+My0zLjYyOGMtMC4xNjgtMC4yNzYtMC4zMjgtMC41NjQtMC40NTYtMC44OEw2NS4xMjMsNjkuNTk=
+1eiAgICAgTTEyMC4xNiwzMy4yOTRjMC4yNzYsMi4wNCwwLjQzMiw0LjIyNCwwLjQzMiw2LjU4Yz=
+AsNi40OTItMS4yMTYsMTMuNzkyLTQuODY4LDIyLjkyNGwtMTkuNTQ5LDU2LjUxNyAgICBDMTE1L=
+jIwNCwxMDguMjIzLDEyOCw4Ny42MDYsMTI4LDYzLjk5OEMxMjgsNTIuODcsMTI1LjE1Niw0Mi40=
+MSwxMjAuMTYsMzMuMjk0eiBNMTA3LjIwNCw2MC43NjkgICAgYzAtNy45MTItMi44NDQtMTMuMzg=
+4LTUuMjc2LTE3LjY0OGMtMy4yNDQtNS4yNzYtNi4yODgtOS43NC02LjI4OC0xNS4wMTJjMC01Lj=
+g4NCw0LjQ2LTExLjM2LDEwLjc0OC0xMS4zNiAgICBjMC4yODQsMCwwLjU1MiwwLjAzNiwwLjgyO=
+CwwLjA1MkM5NS44MzIsNi4zNjgsODAuNjU5LDAsNjMuOTk5LDBDNDEuNjM4LDAsMjEuOTY5LDEx=
+LjQ3MiwxMC41MjUsMjguODQ0ICAgIGMxLjUwNCwwLjA0OCwyLjkyLDAuMDc2LDQuMTIsMC4wNzZ=
+jNi42OTIsMCwxNy4wNTctMC44MTIsMTcuMDU3LTAuODEyYzMuNDQ4LTAuMjA0LDMuODU2LDQuOD=
+Y4LDAuNDA4LDUuMjcyICAgIGMwLDAtMy40NjgsMC40MDgtNy4zMjQsMC42MTJsMjMuMzA1LDY5L=
+jMyMWwxNC4wMDgtNDIuMDA1TDUyLjEzLDMzLjk5MmMtMy40NDgtMC4yMDQtNi43MTYtMC42MTIt=
+Ni43MTYtMC42MTIgICAgYy0zLjQ0OC0wLjIwNC0zLjA0NC01LjQ3NiwwLjQwOC01LjI3MmMwLDA=
+sMTAuNTY4LDAuODEyLDE2Ljg1NywwLjgxMmM2LjY5MiwwLDE3LjA1Ny0wLjgxMiwxNy4wNTctMC=
+44MTIgICAgYzMuNDUyLTAuMjA0LDMuODU2LDQuODY4LDAuNDA4LDUuMjcyYzAsMC0zLjQ3MiwwL=
+jQwOC03LjMyNCwwLjYxMmwyMy4xMjksNjguNzkzbDYuMzg4LTIxLjMyOCAgICBDMTA1LjA5Niw3=
+Mi42MDEsMTA3LjIwNCw2Ni4yNDUsMTA3LjIwNCw2MC43Njl6IE0wLDYzLjk5N2MwLDI1LjMzMiw=
+xNC43Miw0Ny4yMjUsMzYuMDY5LDU3LjU5N0w1LjU0LDM3Ljk1MiAgICBDMS45OTIsNDUuOTA5LD=
+AsNTQuNzE3LDAsNjMuOTk3eiIgZmlsbD0iIzAwNzU5RCIgZmlsbC1ydWxlPSJldmVub2RkIiBpZ=
+D0iV29yZHByZXNzIi8+CiAgICA8L2c+CiAgPC9nPgo8L3N2Zz4K"); }
+
+.icon-provider--blogger { background-image: url("data:image/svg+xml;base64,=
+CjxzdmcKICB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCA=
+xODAgMTgwIj4KICA8Zz4KICAgIDxwYXRoIGQ9Ik0yMC41MTIsMTc4LjQ5OWMtMy4zNTksLTAuOD=
+g0IC02LjI1OCwtMi4xODQgLTguOTMxLC00LjAwNmMtMi4yNTcsLTEuNTM4IC01LjU1NiwtNC43M=
+TcgLTYuODExLC02LjU2M2MtMS41MzIsLTIuMjU1IC0zLjI5MywtNi4xMTcgLTQuMDExLC04Ljc5=
+NWMtMC43MzIsLTIuNzMyIC0wLjc0MywtMy44MiAtMC43NTcsLTY5LjM5NWMtMC4wMTMsLTY1LjI=
+0NSAwLjAwMiwtNjYuNjc5IDAuNzIsLTY5LjQ4M2MyLjUzNywtOS45MTYgMTAuMzk1LC0xNy40Ni=
+AyMC41MjksLTE5LjcxMWMyLjkxNCwtMC42NDcgMTMzLjA4LC0wLjc2IDEzNi4yMjMsLTAuMTE4Y=
+zguNTA5LDEuNzM4IDE1LjE5OCw2Ljg0NiAxOS4wNjgsMTQuNTY0YzMuMDc4LDYuMTM1IDIuODAz=
+LC0wLjYxNyAyLjk0Myw3Mi4yMzFjMC4wOSw0Ni4zNDkgMC4wMDcsNjUuODA4IC0wLjI4OCw2OC4=
+yMzJjLTEuMzg2LDExLjM0NSAtOS4yMTEsMjAuMTQzIC0yMC40NzEsMjMuMDE5Yy0yLjg4LDAuNz=
+M1IC0zLjg4MiwwLjc0NiAtNjkuMjc1LDAuNzI2Yy02My4yMjcsLTAuMDE5IC02Ni40NzQsLTAuM=
+DUyIC02OC45MzksLTAuNzAxbDAsMFoiIHN0eWxlPSJmaWxsOiNmNTdkMDA7ZmlsbC1ydWxlOm5v=
+bnplcm87Ii8+CiAgICA8cGF0aCBkPSJNMTE1LjE2MiwxNDQuODM1YzguMDY0LC0xLjEgMTQuMzg=
+0LC00LjMzMyAyMC4zMTMsLTEwLjM5YzQuMjg5LC00LjM4MiA2Ljk3NCwtOS4xMjUgOC43MjgsLT=
+E1LjQxOWMwLjcyOSwtMi42MTUgMC43OSwtMy44ODggMC45MjQsLTE5LjI0MmMwLjEwMSwtMTEuN=
+Tg4IDAuMDE3LC0xNy4wMTUgLTAuMjg1LC0xOC4zODVjLTAuNDM3LC0xLjk4NiAtMS42NzcsLTMu=
+ODMgLTMuMDkyLC00LjU5OWMtMC40MzUsLTAuMjM3IC0zLjIyNCwtMC41MzggLTYuMTk4LC0wLjY=
+3Yy00Ljk4MiwtMC4yMjEgLTUuNTQsLTAuMzE4IC03LjExMywtMS4yNGMtMi40OTQsLTEuNDYyIC=
+0zLjE4MSwtMy4wNDEgLTMuMTg4LC03LjMyN2MtMC4wMTMsLTguMTg5IC0zLjQyMSwtMTUuNzkyI=
+C0xMC4xNTUsLTIyLjY1NGMtNC43OTcsLTQuODg5IC0xMC4xNDksLTguMTk4IC0xNi4yNTcsLTEw=
+LjA1MmMtMS40NjIsLTAuNDQ0IC00LjczNiwtMC41OTUgLTE1LjcwMiwtMC43MjVjLTE3LjIwNyw=
+tMC4yMDMgLTIxLjAyNiwwLjE1IC0yNi44ODQsMi40ODNjLTEwLjgsNC4zMDIgLTE4LjU2LDEzLj=
+M2OCAtMjEuMzksMjQuOTljLTAuNTMyLDIuMTgzIC0wLjYzNSw1LjY4MiAtMC43NjEsMjUuNzc5Y=
+y0wLjE1NywyNS4xNzcgMC4wMTYsMjguODc0IDEuNTksMzMuODY0YzEuMjk5LDQuMTIyIDIuNjEx=
+LDYuNjQ4IDUuMzEzLDEwLjIzNGM1LjE0Niw2LjgzIDEyLjg2LDExLjc2MyAyMC41NzIsMTMuMTU=
+2YzMuNjcsMC42NjMgNDguOTQ4LDAuODI5IDUzLjU4NSwwLjE5N1oiIHN0eWxlPSJmaWxsOiNmZm=
+Y7ZmlsbC1ydWxlOm5vbnplcm87Ii8+CiAgICA8cGF0aCBkPSJNNjcuNTc1LDc1LjcxN2MtNC4xM=
+jMsLTEuMTM2IC01LjY2MywtNy4wNTEgLTIuNjMzLC0xMC4xMTFjMS45MzcsLTEuOTU1IDIuNDcy=
+LC0yLjAyOSAxNC41OTUsLTIuMDI5YzEwLjg4MywwIDExLjI0OSwwLjAyMyAxMi44NDgsMC44MzF=
+jMi4zMSwxLjE2NyAzLjMxNCwyLjgxMiAzLjMxNCw1LjQzMmMwLDIuMzY3IC0wLjk0Myw0LjAyNS=
+AtMy4wNDYsNS4zNTdjLTEuMTI5LDAuNzE2IC0xLjgwNCwwLjc2IC0xMi40NjcsMC44MjNjLTYuN=
+Tg0LDAuMDM5IC0xMS44MywtMC4wODcgLTEyLjYxMSwtMC4zMDNsMCwwWiIgc3R5bGU9ImZpbGw6=
+I2Y1N2QwMDtmaWxsLXJ1bGU6bm9uemVybzsiLz4KICAgIDxwYXRoIGQ9Ik02Ny4wNTgsMTE1LjU=
+yNmMtMS43NjksLTAuNzcxIC0zLjQxNywtMi45MTMgLTMuNzAyLC00LjgxM2MtMC4yNzIsLTEuOD=
+A5IDAuNjM4LC00LjI5NiAyLjAzMiwtNS41NThjMS43NTcsLTEuNTkgMi41MjgsLTEuNjQzIDI0L=
+jEzNCwtMS42NmMyMi4yMjcsLTAuMDE3IDIyLjExMSwtMC4wMjcgMjQuMjE5LDEuOTQxYzIuOTc2=
+LDIuNzggMi4zNDksNy43MjggLTEuMjM5LDkuNzZsLTMuNjg2LDAuNmwtMTkuMjEzLDAuMjI0Yy0=
+xNi44ODMsMC4xOTggLTIxLjY2NiwtMC4xMTEgLTIyLjU0NSwtMC40OTRsMCwwWiIgc3R5bGU9Im=
+ZpbGw6I2Y1N2QwMDtmaWxsLXJ1bGU6bm9uemVybzsiLz4KICA8L2c+Cjwvc3ZnPgo=3D"); }
+
+.icon-provider--zendesk { background-image: url("data:image/svg+xml;base64,=
+CjxzdmcKICB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCA=
+xNTIgMTE2Ij4KICA8Zz4KICAgIDxwYXRoIGQ9Ik03MC4xMjUsMzAuMzc1bDAsODQuNjc1bC03MC=
+4xMjUsMGw3MC4xMjUsLTg0LjY3NVoiIHN0eWxlPSJmaWxsOiMwMzM2M2Q7ZmlsbC1ydWxlOm5vb=
+nplcm87Ii8+CiAgICA8cGF0aCBkPSJNNzAuMTI1LDBjMCwxOS4zNSAtMTUuNjc1LDM1LjAyNSAt=
+MzUuMDI1LDM1LjAyNWMtMTkuMzUsMCAtMzUuMSwtMTUuNjc1IC0zNS4xLC0zNS4wMjVsNzAuMTI=
+1LDBaIiBzdHlsZT0iZmlsbDojMDMzNjNkO2ZpbGwtcnVsZTpub256ZXJvOyIvPgogICAgPHBhdG=
+ggZD0iTTgxLjY3NSwxMTUuMDVjMCwtMTkuMzUgMTUuNjc1LC0zNS4wMjUgMzUuMDI1LC0zNS4wM=
+jVjMTkuMzUsMCAzNS4wMjUsMTUuNjc1IDM1LjAyNSwzNS4wMjVsLTcwLjA1LDBaIiBzdHlsZT0i=
+ZmlsbDojMDMzNjNkO2ZpbGwtcnVsZTpub256ZXJvOyIvPgogICAgPHBhdGggZD0iTTgxLjY3NSw=
+4NC42NzVsMCwtODQuNjc1bDcwLjEyNSwwbC03MC4xMjUsODQuNjc1WiIgc3R5bGU9ImZpbGw6Iz=
+AzMzYzZDtmaWxsLXJ1bGU6bm9uemVybzsiLz4KICA8L2c+Cjwvc3ZnPgo=3D"); }
+
+.icon-provider--couchdb { background-image: url("data:image/svg+xml;base64,=
+PHN2ZyB3aWR0aD0iMTAwJSIgaGVpZ2h0PSIxMDAlIiB2aWV3Qm94PSIwIDAgNTAwIDUwMCIgdmV=
+yc2lvbj0iMS4xIgogIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI+CiAgPHBhdG=
+ggZD0iTTQwNS4zNjUsMzAzLjk5NmMwLDIwLjM3NSAtMTEuMjA3LDMwLjU2MyAtMzEuNTgyLDMxL=
+jU4MmwtMjQ4LjU4NCwwYy0yMC4zNzYsMCAtMzEuNTgzLC0xMC4xODggLTMxLjU4MywtMzEuNTgy=
+YzAsLTIwLjM3NiAxMS4yMDcsLTMwLjU2NCAzMS41ODMsLTMxLjU4M2wyNDkuNjAyLDBjMjAuMzc=
+2LDEuMDE5IDMwLjU2NCwxMS4yMDcgMzAuNTY0LDMxLjU4M1ptLTMwLjU2NCw0Ni44NjRsLTI0OS=
+42MDIsMGMtMjAuMzc2LDAgLTMxLjU4MywxMC4xODggLTMxLjU4MywzMS41ODJjMCwyMC4zNzYgM=
+TEuMjA3LDMwLjU2NCAzMS41ODMsMzEuNTgzbDI0OS42MDIsMGMyMC4zNzYsMCAzMS41ODMsLTEw=
+LjE4OCAzMS41ODMsLTMxLjU4M2MtMS4wMTksLTIxLjM5NCAtMTEuMjA3LC0zMS41ODIgLTMxLjU=
+4MywtMzEuNTgyWm03Ny40MjgsLTE3Mi4xNzVjLTIwLjM3NiwwIC0zMS41ODIsMTAuMTg4IC0zMS=
+41ODIsMzAuNTYzbDAsMTcyLjE3NWMwLDIwLjM3NiAxMS4yMDYsMzAuNTY0IDMxLjU4MiwzMS41O=
+DNjMzAuNTY0LC0xLjAxOSA0Ni44NjQsLTMxLjU4MyA0Ni44NjQsLTkzLjcyOWwwLC03Ny40Mjdj=
+MCwtNDEuNzcxIC0xNi4zLC02Mi4xNDYgLTQ2Ljg2NCwtNjMuMTY1Wm0tNDA0LjQ1OCwwYy0zMC4=
+1NjQsMS4wMTkgLTQ2Ljg2NCwyMS4zOTQgLTQ2Ljg2NCw2My4xNjVsMCw3Ny40MjdjMCw2Mi4xND=
+YgMTYuMyw5Mi43MSA0Ni44NjQsOTMuNzI5YzIwLjM3NiwwIDMxLjU4MiwtMTAuMTg4IDMxLjU4M=
+iwtMzEuNTgzbDAsLTE3MS4xNTZjLTEuMDE5LC0yMC4zNzUgLTExLjIwNiwtMzAuNTYzIC0zMS41=
+ODIsLTMxLjU4MlptNDA0LjQ1OCwtMTUuMjgyYzAsLTUxLjk1OCAtMjcuNTA3LC03Ni40MDkgLTc=
+3LjQyOCwtNzcuNDI4bC0yNDkuNjAyLDBjLTUwLjk0LDEuMDE5IC03Ny40MjgsMjYuNDg5IC03Ny=
+40MjgsNzcuNDI4YzMwLjU2MywwIDQ2Ljg2NCwxNi4zMDEgNDYuODY0LDQ2Ljg2NGMwLDMwLjU2N=
+CAxNi4zMDEsNDYuODY0IDQ2Ljg2NCw0Ni44NjRsMjE4LjAyMSwwYzMwLjU2MywwIDQ2Ljg2NCwt=
+MTYuMyA0Ni44NjQsLTQ2Ljg2NGMtMS4wMTksLTMxLjU4MiAxNi4zLC00NS44NDUgNDUuODQ1LC0=
+0Ni44NjRaIiBzdHlsZT0iZmlsbDojZTQyNTI4O2ZpbGwtcnVsZTpub256ZXJvOyIvPgo8L3N2Zz=
+4K"); }
+
+@font-face { font-family: KaTeX_AMS; src: url("/static/fonts/KaTeX_AMS-Regu=
+lar.38a68f7.woff2") format("woff2"), url("/static/fonts/KaTeX_AMS-Regular.7=
+d307e8.woff") format("woff"), url("/static/fonts/KaTeX_AMS-Regular.2dbe16b.=
+ttf") format("truetype"); font-weight: 400; font-style: normal; }
+
+@font-face { font-family: KaTeX_Caligraphic; src: url("/static/fonts/KaTeX_=
+Caligraphic-Bold.342b296.woff2") format("woff2"), url("/static/fonts/KaTeX_=
+Caligraphic-Bold.9634168.woff") format("woff"), url("/static/fonts/KaTeX_Ca=
+ligraphic-Bold.33d2688.ttf") format("truetype"); font-weight: 700; font-sty=
+le: normal; }
+
+@font-face { font-family: KaTeX_Caligraphic; src: url("/static/fonts/KaTeX_=
+Caligraphic-Regular.b500497.woff2") format("woff2"), url("/static/fonts/KaT=
+eX_Caligraphic-Regular.00029fb.woff") format("woff"), url("/static/fonts/Ka=
+TeX_Caligraphic-Regular.5e7940b.ttf") format("truetype"); font-weight: 400;=
+ font-style: normal; }
+
+@font-face { font-family: KaTeX_Fraktur; src: url("/static/fonts/KaTeX_Frak=
+tur-Bold.7a3757c.woff2") format("woff2"), url("/static/fonts/KaTeX_Fraktur-=
+Bold.4de87d4.woff") format("woff"), url("/static/fonts/KaTeX_Fraktur-Bold.e=
+d33012.ttf") format("truetype"); font-weight: 700; font-style: normal; }
+
+@font-face { font-family: KaTeX_Fraktur; src: url("/static/fonts/KaTeX_Frak=
+tur-Regular.450cc4d.woff2") format("woff2"), url("/static/fonts/KaTeX_Frakt=
+ur-Regular.dc4e330.woff") format("woff"), url("/static/fonts/KaTeX_Fraktur-=
+Regular.82d05fe.ttf") format("truetype"); font-weight: 400; font-style: nor=
+mal; }
+
+@font-face { font-family: KaTeX_Main; src: url("/static/fonts/KaTeX_Main-Bo=
+ld.78b0124.woff2") format("woff2"), url("/static/fonts/KaTeX_Main-Bold.62c6=
+975.woff") format("woff"), url("/static/fonts/KaTeX_Main-Bold.2e1915b.ttf")=
+ format("truetype"); font-weight: 700; font-style: normal; }
+
+@font-face { font-family: KaTeX_Main; src: url("/static/fonts/KaTeX_Main-Bo=
+ldItalic.c7213ce.woff2") format("woff2"), url("/static/fonts/KaTeX_Main-Bol=
+dItalic.a2e3dcd.woff") format("woff"), url("/static/fonts/KaTeX_Main-BoldIt=
+alic.0d817b4.ttf") format("truetype"); font-weight: 700; font-style: italic=
+; }
+
+@font-face { font-family: KaTeX_Main; src: url("/static/fonts/KaTeX_Main-It=
+alic.eea3267.woff2") format("woff2"), url("/static/fonts/KaTeX_Main-Italic.=
+081073f.woff") format("woff"), url("/static/fonts/KaTeX_Main-Italic.767e06e=
+.ttf") format("truetype"); font-weight: 400; font-style: italic; }
+
+@font-face { font-family: KaTeX_Main; src: url("/static/fonts/KaTeX_Main-Re=
+gular.f30e3b2.woff2") format("woff2"), url("/static/fonts/KaTeX_Main-Regula=
+r.756fad0.woff") format("woff"), url("/static/fonts/KaTeX_Main-Regular.689b=
+be6.ttf") format("truetype"); font-weight: 400; font-style: normal; }
+
+@font-face { font-family: KaTeX_Math; src: url("/static/fonts/KaTeX_Math-Bo=
+ldItalic.753ca3d.woff2") format("woff2"), url("/static/fonts/KaTeX_Math-Bol=
+dItalic.b3e80ff.woff") format("woff"), url("/static/fonts/KaTeX_Math-BoldIt=
+alic.d9377b5.ttf") format("truetype"); font-weight: 700; font-style: italic=
+; }
+
+@font-face { font-family: KaTeX_Math; src: url("/static/fonts/KaTeX_Math-It=
+alic.2a39f38.woff2") format("woff2"), url("/static/fonts/KaTeX_Math-Italic.=
+67710bb.woff") format("woff"), url("/static/fonts/KaTeX_Math-Italic.0343f93=
+.ttf") format("truetype"); font-weight: 400; font-style: italic; }
+
+@font-face { font-family: KaTeX_SansSerif; src: url("/static/fonts/KaTeX_Sa=
+nsSerif-Bold.59b3773.woff2") format("woff2"), url("/static/fonts/KaTeX_Sans=
+Serif-Bold.f28c4fa.woff") format("woff"), url("/static/fonts/KaTeX_SansSeri=
+f-Bold.dfcc59a.ttf") format("truetype"); font-weight: 700; font-style: norm=
+al; }
+
+@font-face { font-family: KaTeX_SansSerif; src: url("/static/fonts/KaTeX_Sa=
+nsSerif-Italic.99ad93a.woff2") format("woff2"), url("/static/fonts/KaTeX_Sa=
+nsSerif-Italic.9d0fdf5.woff") format("woff"), url("/static/fonts/KaTeX_Sans=
+Serif-Italic.3ab5188.ttf") format("truetype"); font-weight: 400; font-style=
+: italic; }
+
+@font-face { font-family: KaTeX_SansSerif; src: url("/static/fonts/KaTeX_Sa=
+nsSerif-Regular.badf359.woff2") format("woff2"), url("/static/fonts/KaTeX_S=
+ansSerif-Regular.6c3bd5b.woff") format("woff"), url("/static/fonts/KaTeX_Sa=
+nsSerif-Regular.d511ebc.ttf") format("truetype"); font-weight: 400; font-st=
+yle: normal; }
+
+@font-face { font-family: KaTeX_Script; src: url("/static/fonts/KaTeX_Scrip=
+t-Regular.af7bc98.woff2") format("woff2"), url("/static/fonts/KaTeX_Script-=
+Regular.4edf4e0.woff") format("woff"), url("/static/fonts/KaTeX_Script-Regu=
+lar.082640c.ttf") format("truetype"); font-weight: 400; font-style: normal;=
+ }
+
+@font-face { font-family: KaTeX_Size1; src: url("/static/fonts/KaTeX_Size1-=
+Regular.10ec8be.woff2") format("woff2"), url("/static/fonts/KaTeX_Size1-Reg=
+ular.35b9977.woff") format("woff"), url("/static/fonts/KaTeX_Size1-Regular.=
+2c2dc3b.ttf") format("truetype"); font-weight: 400; font-style: normal; }
+
+@font-face { font-family: KaTeX_Size2; src: url("/static/fonts/KaTeX_Size2-=
+Regular.96a09bf.woff2") format("woff2"), url("/static/fonts/KaTeX_Size2-Reg=
+ular.9932a08.woff") format("woff"), url("/static/fonts/KaTeX_Size2-Regular.=
+114ad19.ttf") format("truetype"); font-weight: 400; font-style: normal; }
+
+@font-face { font-family: KaTeX_Size3; src: url("/static/fonts/KaTeX_Size3-=
+Regular.2c2f0ef.woff2") format("woff2"), url("/static/fonts/KaTeX_Size3-Reg=
+ular.2afba15.woff") format("woff"), url("/static/fonts/KaTeX_Size3-Regular.=
+a287c06.ttf") format("truetype"); font-weight: 400; font-style: normal; }
+
+@font-face { font-family: KaTeX_Size4; src: url("/static/fonts/KaTeX_Size4-=
+Regular.d5822f1.woff2") format("woff2"), url("/static/fonts/KaTeX_Size4-Reg=
+ular.f961545.woff") format("woff"), url("/static/fonts/KaTeX_Size4-Regular.=
+70174da.ttf") format("truetype"); font-weight: 400; font-style: normal; }
+
+@font-face { font-family: KaTeX_Typewriter; src: url("/static/fonts/KaTeX_T=
+ypewriter-Regular.641339e.woff2") format("woff2"), url("/static/fonts/KaTeX=
+_Typewriter-Regular.53dcf86.woff") format("woff"), url("/static/fonts/KaTeX=
+_Typewriter-Regular.35fe2cc.ttf") format("truetype"); font-weight: 400; fon=
+t-style: normal; }
+
+.katex { font: 1.21em / 1.2 KaTeX_Main, "Times New Roman", serif; text-inde=
+nt: 0px; text-rendering: auto; border-color: currentcolor; }
+
+.katex * { }
+
+.katex .katex-version::after { content: "0.13.0"; }
+
+.katex .katex-mathml { position: absolute; clip: rect(1px, 1px, 1px, 1px); =
+padding: 0px; border: 0px; height: 1px; width: 1px; overflow: hidden; }
+
+.katex .katex-html > .newline { display: block; }
+
+.katex .base { position: relative; white-space: nowrap; width: min-content;=
+ }
+
+.katex .base, .katex .strut { display: inline-block; }
+
+.katex .textbf { font-weight: 700; }
+
+.katex .textit { font-style: italic; }
+
+.katex .textrm { font-family: KaTeX_Main; }
+
+.katex .textsf { font-family: KaTeX_SansSerif; }
+
+.katex .texttt { font-family: KaTeX_Typewriter; }
+
+.katex .mathnormal { font-family: KaTeX_Math; font-style: italic; }
+
+.katex .mathit { font-family: KaTeX_Main; font-style: italic; }
+
+.katex .mathrm { font-style: normal; }
+
+.katex .mathbf { font-family: KaTeX_Main; font-weight: 700; }
+
+.katex .boldsymbol { font-family: KaTeX_Math; font-weight: 700; font-style:=
+ italic; }
+
+.katex .amsrm, .katex .mathbb, .katex .textbb { font-family: KaTeX_AMS; }
+
+.katex .mathcal { font-family: KaTeX_Caligraphic; }
+
+.katex .mathfrak, .katex .textfrak { font-family: KaTeX_Fraktur; }
+
+.katex .mathtt { font-family: KaTeX_Typewriter; }
+
+.katex .mathscr, .katex .textscr { font-family: KaTeX_Script; }
+
+.katex .mathsf, .katex .textsf { font-family: KaTeX_SansSerif; }
+
+.katex .mathboldsf, .katex .textboldsf { font-family: KaTeX_SansSerif; font=
+-weight: 700; }
+
+.katex .mathitsf, .katex .textitsf { font-family: KaTeX_SansSerif; font-sty=
+le: italic; }
+
+.katex .mainrm { font-family: KaTeX_Main; font-style: normal; }
+
+.katex .vlist-t { display: inline-table; table-layout: fixed; border-collap=
+se: collapse; }
+
+.katex .vlist-r { display: table-row; }
+
+.katex .vlist { display: table-cell; vertical-align: bottom; position: rela=
+tive; }
+
+.katex .vlist > span { display: block; height: 0px; position: relative; }
+
+.katex .vlist > span > span { display: inline-block; }
+
+.katex .vlist > span > .pstrut { overflow: hidden; width: 0px; }
+
+.katex .vlist-t2 { margin-right: -2px; }
+
+.katex .vlist-s { display: table-cell; vertical-align: bottom; font-size: 1=
+px; width: 2px; min-width: 2px; }
+
+.katex .vbox { display: inline-flex; flex-direction: column; align-items: b=
+aseline; }
+
+.katex .hbox { width: 100%; }
+
+.katex .hbox, .katex .thinbox { display: inline-flex; flex-direction: row; =
+}
+
+.katex .thinbox { width: 0px; max-width: 0px; }
+
+.katex .msupsub { text-align: left; }
+
+.katex .mfrac > span > span { text-align: center; }
+
+.katex .mfrac .frac-line { display: inline-block; width: 100%; border-botto=
+m-style: solid; }
+
+.katex .hdashline, .katex .hline, .katex .mfrac .frac-line, .katex .overlin=
+e .overline-line, .katex .rule, .katex .underline .underline-line { min-hei=
+ght: 1px; }
+
+.katex .mspace { display: inline-block; }
+
+.katex .clap, .katex .llap, .katex .rlap { width: 0px; position: relative; =
+}
+
+.katex .clap > .inner, .katex .llap > .inner, .katex .rlap > .inner { posit=
+ion: absolute; }
+
+.katex .clap > .fix, .katex .llap > .fix, .katex .rlap > .fix { display: in=
+line-block; }
+
+.katex .llap > .inner { right: 0px; }
+
+.katex .clap > .inner, .katex .rlap > .inner { left: 0px; }
+
+.katex .clap > .inner > span { margin-left: -50%; margin-right: 50%; }
+
+.katex .rule { display: inline-block; border: 0px solid; position: relative=
+; }
+
+.katex .hline, .katex .overline .overline-line, .katex .underline .underlin=
+e-line { display: inline-block; width: 100%; border-bottom-style: solid; }
+
+.katex .hdashline { display: inline-block; width: 100%; border-bottom-style=
+: dashed; }
+
+.katex .sqrt > .root { margin-left: 0.277778em; margin-right: -0.555556em; =
+}
+
+.katex .fontsize-ensurer.reset-size1.size1, .katex .sizing.reset-size1.size=
+1 { font-size: 1em; }
+
+.katex .fontsize-ensurer.reset-size1.size2, .katex .sizing.reset-size1.size=
+2 { font-size: 1.2em; }
+
+.katex .fontsize-ensurer.reset-size1.size3, .katex .sizing.reset-size1.size=
+3 { font-size: 1.4em; }
+
+.katex .fontsize-ensurer.reset-size1.size4, .katex .sizing.reset-size1.size=
+4 { font-size: 1.6em; }
+
+.katex .fontsize-ensurer.reset-size1.size5, .katex .sizing.reset-size1.size=
+5 { font-size: 1.8em; }
+
+.katex .fontsize-ensurer.reset-size1.size6, .katex .sizing.reset-size1.size=
+6 { font-size: 2em; }
+
+.katex .fontsize-ensurer.reset-size1.size7, .katex .sizing.reset-size1.size=
+7 { font-size: 2.4em; }
+
+.katex .fontsize-ensurer.reset-size1.size8, .katex .sizing.reset-size1.size=
+8 { font-size: 2.88em; }
+
+.katex .fontsize-ensurer.reset-size1.size9, .katex .sizing.reset-size1.size=
+9 { font-size: 3.456em; }
+
+.katex .fontsize-ensurer.reset-size1.size10, .katex .sizing.reset-size1.siz=
+e10 { font-size: 4.148em; }
+
+.katex .fontsize-ensurer.reset-size1.size11, .katex .sizing.reset-size1.siz=
+e11 { font-size: 4.976em; }
+
+.katex .fontsize-ensurer.reset-size2.size1, .katex .sizing.reset-size2.size=
+1 { font-size: 0.833333em; }
+
+.katex .fontsize-ensurer.reset-size2.size2, .katex .sizing.reset-size2.size=
+2 { font-size: 1em; }
+
+.katex .fontsize-ensurer.reset-size2.size3, .katex .sizing.reset-size2.size=
+3 { font-size: 1.16667em; }
+
+.katex .fontsize-ensurer.reset-size2.size4, .katex .sizing.reset-size2.size=
+4 { font-size: 1.33333em; }
+
+.katex .fontsize-ensurer.reset-size2.size5, .katex .sizing.reset-size2.size=
+5 { font-size: 1.5em; }
+
+.katex .fontsize-ensurer.reset-size2.size6, .katex .sizing.reset-size2.size=
+6 { font-size: 1.66667em; }
+
+.katex .fontsize-ensurer.reset-size2.size7, .katex .sizing.reset-size2.size=
+7 { font-size: 2em; }
+
+.katex .fontsize-ensurer.reset-size2.size8, .katex .sizing.reset-size2.size=
+8 { font-size: 2.4em; }
+
+.katex .fontsize-ensurer.reset-size2.size9, .katex .sizing.reset-size2.size=
+9 { font-size: 2.88em; }
+
+.katex .fontsize-ensurer.reset-size2.size10, .katex .sizing.reset-size2.siz=
+e10 { font-size: 3.45667em; }
+
+.katex .fontsize-ensurer.reset-size2.size11, .katex .sizing.reset-size2.siz=
+e11 { font-size: 4.14667em; }
+
+.katex .fontsize-ensurer.reset-size3.size1, .katex .sizing.reset-size3.size=
+1 { font-size: 0.714286em; }
+
+.katex .fontsize-ensurer.reset-size3.size2, .katex .sizing.reset-size3.size=
+2 { font-size: 0.857143em; }
+
+.katex .fontsize-ensurer.reset-size3.size3, .katex .sizing.reset-size3.size=
+3 { font-size: 1em; }
+
+.katex .fontsize-ensurer.reset-size3.size4, .katex .sizing.reset-size3.size=
+4 { font-size: 1.14286em; }
+
+.katex .fontsize-ensurer.reset-size3.size5, .katex .sizing.reset-size3.size=
+5 { font-size: 1.28571em; }
+
+.katex .fontsize-ensurer.reset-size3.size6, .katex .sizing.reset-size3.size=
+6 { font-size: 1.42857em; }
+
+.katex .fontsize-ensurer.reset-size3.size7, .katex .sizing.reset-size3.size=
+7 { font-size: 1.71429em; }
+
+.katex .fontsize-ensurer.reset-size3.size8, .katex .sizing.reset-size3.size=
+8 { font-size: 2.05714em; }
+
+.katex .fontsize-ensurer.reset-size3.size9, .katex .sizing.reset-size3.size=
+9 { font-size: 2.46857em; }
+
+.katex .fontsize-ensurer.reset-size3.size10, .katex .sizing.reset-size3.siz=
+e10 { font-size: 2.96286em; }
+
+.katex .fontsize-ensurer.reset-size3.size11, .katex .sizing.reset-size3.siz=
+e11 { font-size: 3.55429em; }
+
+.katex .fontsize-ensurer.reset-size4.size1, .katex .sizing.reset-size4.size=
+1 { font-size: 0.625em; }
+
+.katex .fontsize-ensurer.reset-size4.size2, .katex .sizing.reset-size4.size=
+2 { font-size: 0.75em; }
+
+.katex .fontsize-ensurer.reset-size4.size3, .katex .sizing.reset-size4.size=
+3 { font-size: 0.875em; }
+
+.katex .fontsize-ensurer.reset-size4.size4, .katex .sizing.reset-size4.size=
+4 { font-size: 1em; }
+
+.katex .fontsize-ensurer.reset-size4.size5, .katex .sizing.reset-size4.size=
+5 { font-size: 1.125em; }
+
+.katex .fontsize-ensurer.reset-size4.size6, .katex .sizing.reset-size4.size=
+6 { font-size: 1.25em; }
+
+.katex .fontsize-ensurer.reset-size4.size7, .katex .sizing.reset-size4.size=
+7 { font-size: 1.5em; }
+
+.katex .fontsize-ensurer.reset-size4.size8, .katex .sizing.reset-size4.size=
+8 { font-size: 1.8em; }
+
+.katex .fontsize-ensurer.reset-size4.size9, .katex .sizing.reset-size4.size=
+9 { font-size: 2.16em; }
+
+.katex .fontsize-ensurer.reset-size4.size10, .katex .sizing.reset-size4.siz=
+e10 { font-size: 2.5925em; }
+
+.katex .fontsize-ensurer.reset-size4.size11, .katex .sizing.reset-size4.siz=
+e11 { font-size: 3.11em; }
+
+.katex .fontsize-ensurer.reset-size5.size1, .katex .sizing.reset-size5.size=
+1 { font-size: 0.555556em; }
+
+.katex .fontsize-ensurer.reset-size5.size2, .katex .sizing.reset-size5.size=
+2 { font-size: 0.666667em; }
+
+.katex .fontsize-ensurer.reset-size5.size3, .katex .sizing.reset-size5.size=
+3 { font-size: 0.777778em; }
+
+.katex .fontsize-ensurer.reset-size5.size4, .katex .sizing.reset-size5.size=
+4 { font-size: 0.888889em; }
+
+.katex .fontsize-ensurer.reset-size5.size5, .katex .sizing.reset-size5.size=
+5 { font-size: 1em; }
+
+.katex .fontsize-ensurer.reset-size5.size6, .katex .sizing.reset-size5.size=
+6 { font-size: 1.11111em; }
+
+.katex .fontsize-ensurer.reset-size5.size7, .katex .sizing.reset-size5.size=
+7 { font-size: 1.33333em; }
+
+.katex .fontsize-ensurer.reset-size5.size8, .katex .sizing.reset-size5.size=
+8 { font-size: 1.6em; }
+
+.katex .fontsize-ensurer.reset-size5.size9, .katex .sizing.reset-size5.size=
+9 { font-size: 1.92em; }
+
+.katex .fontsize-ensurer.reset-size5.size10, .katex .sizing.reset-size5.siz=
+e10 { font-size: 2.30444em; }
+
+.katex .fontsize-ensurer.reset-size5.size11, .katex .sizing.reset-size5.siz=
+e11 { font-size: 2.76444em; }
+
+.katex .fontsize-ensurer.reset-size6.size1, .katex .sizing.reset-size6.size=
+1 { font-size: 0.5em; }
+
+.katex .fontsize-ensurer.reset-size6.size2, .katex .sizing.reset-size6.size=
+2 { font-size: 0.6em; }
+
+.katex .fontsize-ensurer.reset-size6.size3, .katex .sizing.reset-size6.size=
+3 { font-size: 0.7em; }
+
+.katex .fontsize-ensurer.reset-size6.size4, .katex .sizing.reset-size6.size=
+4 { font-size: 0.8em; }
+
+.katex .fontsize-ensurer.reset-size6.size5, .katex .sizing.reset-size6.size=
+5 { font-size: 0.9em; }
+
+.katex .fontsize-ensurer.reset-size6.size6, .katex .sizing.reset-size6.size=
+6 { font-size: 1em; }
+
+.katex .fontsize-ensurer.reset-size6.size7, .katex .sizing.reset-size6.size=
+7 { font-size: 1.2em; }
+
+.katex .fontsize-ensurer.reset-size6.size8, .katex .sizing.reset-size6.size=
+8 { font-size: 1.44em; }
+
+.katex .fontsize-ensurer.reset-size6.size9, .katex .sizing.reset-size6.size=
+9 { font-size: 1.728em; }
+
+.katex .fontsize-ensurer.reset-size6.size10, .katex .sizing.reset-size6.siz=
+e10 { font-size: 2.074em; }
+
+.katex .fontsize-ensurer.reset-size6.size11, .katex .sizing.reset-size6.siz=
+e11 { font-size: 2.488em; }
+
+.katex .fontsize-ensurer.reset-size7.size1, .katex .sizing.reset-size7.size=
+1 { font-size: 0.416667em; }
+
+.katex .fontsize-ensurer.reset-size7.size2, .katex .sizing.reset-size7.size=
+2 { font-size: 0.5em; }
+
+.katex .fontsize-ensurer.reset-size7.size3, .katex .sizing.reset-size7.size=
+3 { font-size: 0.583333em; }
+
+.katex .fontsize-ensurer.reset-size7.size4, .katex .sizing.reset-size7.size=
+4 { font-size: 0.666667em; }
+
+.katex .fontsize-ensurer.reset-size7.size5, .katex .sizing.reset-size7.size=
+5 { font-size: 0.75em; }
+
+.katex .fontsize-ensurer.reset-size7.size6, .katex .sizing.reset-size7.size=
+6 { font-size: 0.833333em; }
+
+.katex .fontsize-ensurer.reset-size7.size7, .katex .sizing.reset-size7.size=
+7 { font-size: 1em; }
+
+.katex .fontsize-ensurer.reset-size7.size8, .katex .sizing.reset-size7.size=
+8 { font-size: 1.2em; }
+
+.katex .fontsize-ensurer.reset-size7.size9, .katex .sizing.reset-size7.size=
+9 { font-size: 1.44em; }
+
+.katex .fontsize-ensurer.reset-size7.size10, .katex .sizing.reset-size7.siz=
+e10 { font-size: 1.72833em; }
+
+.katex .fontsize-ensurer.reset-size7.size11, .katex .sizing.reset-size7.siz=
+e11 { font-size: 2.07333em; }
+
+.katex .fontsize-ensurer.reset-size8.size1, .katex .sizing.reset-size8.size=
+1 { font-size: 0.347222em; }
+
+.katex .fontsize-ensurer.reset-size8.size2, .katex .sizing.reset-size8.size=
+2 { font-size: 0.416667em; }
+
+.katex .fontsize-ensurer.reset-size8.size3, .katex .sizing.reset-size8.size=
+3 { font-size: 0.486111em; }
+
+.katex .fontsize-ensurer.reset-size8.size4, .katex .sizing.reset-size8.size=
+4 { font-size: 0.555556em; }
+
+.katex .fontsize-ensurer.reset-size8.size5, .katex .sizing.reset-size8.size=
+5 { font-size: 0.625em; }
+
+.katex .fontsize-ensurer.reset-size8.size6, .katex .sizing.reset-size8.size=
+6 { font-size: 0.694444em; }
+
+.katex .fontsize-ensurer.reset-size8.size7, .katex .sizing.reset-size8.size=
+7 { font-size: 0.833333em; }
+
+.katex .fontsize-ensurer.reset-size8.size8, .katex .sizing.reset-size8.size=
+8 { font-size: 1em; }
+
+.katex .fontsize-ensurer.reset-size8.size9, .katex .sizing.reset-size8.size=
+9 { font-size: 1.2em; }
+
+.katex .fontsize-ensurer.reset-size8.size10, .katex .sizing.reset-size8.siz=
+e10 { font-size: 1.44028em; }
+
+.katex .fontsize-ensurer.reset-size8.size11, .katex .sizing.reset-size8.siz=
+e11 { font-size: 1.72778em; }
+
+.katex .fontsize-ensurer.reset-size9.size1, .katex .sizing.reset-size9.size=
+1 { font-size: 0.289352em; }
+
+.katex .fontsize-ensurer.reset-size9.size2, .katex .sizing.reset-size9.size=
+2 { font-size: 0.347222em; }
+
+.katex .fontsize-ensurer.reset-size9.size3, .katex .sizing.reset-size9.size=
+3 { font-size: 0.405093em; }
+
+.katex .fontsize-ensurer.reset-size9.size4, .katex .sizing.reset-size9.size=
+4 { font-size: 0.462963em; }
+
+.katex .fontsize-ensurer.reset-size9.size5, .katex .sizing.reset-size9.size=
+5 { font-size: 0.520833em; }
+
+.katex .fontsize-ensurer.reset-size9.size6, .katex .sizing.reset-size9.size=
+6 { font-size: 0.578704em; }
+
+.katex .fontsize-ensurer.reset-size9.size7, .katex .sizing.reset-size9.size=
+7 { font-size: 0.694444em; }
+
+.katex .fontsize-ensurer.reset-size9.size8, .katex .sizing.reset-size9.size=
+8 { font-size: 0.833333em; }
+
+.katex .fontsize-ensurer.reset-size9.size9, .katex .sizing.reset-size9.size=
+9 { font-size: 1em; }
+
+.katex .fontsize-ensurer.reset-size9.size10, .katex .sizing.reset-size9.siz=
+e10 { font-size: 1.20023em; }
+
+.katex .fontsize-ensurer.reset-size9.size11, .katex .sizing.reset-size9.siz=
+e11 { font-size: 1.43981em; }
+
+.katex .fontsize-ensurer.reset-size10.size1, .katex .sizing.reset-size10.si=
+ze1 { font-size: 0.24108em; }
+
+.katex .fontsize-ensurer.reset-size10.size2, .katex .sizing.reset-size10.si=
+ze2 { font-size: 0.289296em; }
+
+.katex .fontsize-ensurer.reset-size10.size3, .katex .sizing.reset-size10.si=
+ze3 { font-size: 0.337512em; }
+
+.katex .fontsize-ensurer.reset-size10.size4, .katex .sizing.reset-size10.si=
+ze4 { font-size: 0.385728em; }
+
+.katex .fontsize-ensurer.reset-size10.size5, .katex .sizing.reset-size10.si=
+ze5 { font-size: 0.433944em; }
+
+.katex .fontsize-ensurer.reset-size10.size6, .katex .sizing.reset-size10.si=
+ze6 { font-size: 0.48216em; }
+
+.katex .fontsize-ensurer.reset-size10.size7, .katex .sizing.reset-size10.si=
+ze7 { font-size: 0.578592em; }
+
+.katex .fontsize-ensurer.reset-size10.size8, .katex .sizing.reset-size10.si=
+ze8 { font-size: 0.694311em; }
+
+.katex .fontsize-ensurer.reset-size10.size9, .katex .sizing.reset-size10.si=
+ze9 { font-size: 0.833173em; }
+
+.katex .fontsize-ensurer.reset-size10.size10, .katex .sizing.reset-size10.s=
+ize10 { font-size: 1em; }
+
+.katex .fontsize-ensurer.reset-size10.size11, .katex .sizing.reset-size10.s=
+ize11 { font-size: 1.19961em; }
+
+.katex .fontsize-ensurer.reset-size11.size1, .katex .sizing.reset-size11.si=
+ze1 { font-size: 0.200965em; }
+
+.katex .fontsize-ensurer.reset-size11.size2, .katex .sizing.reset-size11.si=
+ze2 { font-size: 0.241158em; }
+
+.katex .fontsize-ensurer.reset-size11.size3, .katex .sizing.reset-size11.si=
+ze3 { font-size: 0.28135em; }
+
+.katex .fontsize-ensurer.reset-size11.size4, .katex .sizing.reset-size11.si=
+ze4 { font-size: 0.321543em; }
+
+.katex .fontsize-ensurer.reset-size11.size5, .katex .sizing.reset-size11.si=
+ze5 { font-size: 0.361736em; }
+
+.katex .fontsize-ensurer.reset-size11.size6, .katex .sizing.reset-size11.si=
+ze6 { font-size: 0.401929em; }
+
+.katex .fontsize-ensurer.reset-size11.size7, .katex .sizing.reset-size11.si=
+ze7 { font-size: 0.482315em; }
+
+.katex .fontsize-ensurer.reset-size11.size8, .katex .sizing.reset-size11.si=
+ze8 { font-size: 0.578778em; }
+
+.katex .fontsize-ensurer.reset-size11.size9, .katex .sizing.reset-size11.si=
+ze9 { font-size: 0.694534em; }
+
+.katex .fontsize-ensurer.reset-size11.size10, .katex .sizing.reset-size11.s=
+ize10 { font-size: 0.833601em; }
+
+.katex .fontsize-ensurer.reset-size11.size11, .katex .sizing.reset-size11.s=
+ize11 { font-size: 1em; }
+
+.katex .delimsizing.size1 { font-family: KaTeX_Size1; }
+
+.katex .delimsizing.size2 { font-family: KaTeX_Size2; }
+
+.katex .delimsizing.size3 { font-family: KaTeX_Size3; }
+
+.katex .delimsizing.size4 { font-family: KaTeX_Size4; }
+
+.katex .delimsizing.mult .delim-size1 > span { font-family: KaTeX_Size1; }
+
+.katex .delimsizing.mult .delim-size4 > span { font-family: KaTeX_Size4; }
+
+.katex .nulldelimiter { display: inline-block; width: 0.12em; }
+
+.katex .delimcenter, .katex .op-symbol { position: relative; }
+
+.katex .op-symbol.small-op { font-family: KaTeX_Size1; }
+
+.katex .op-symbol.large-op { font-family: KaTeX_Size2; }
+
+.katex .accent > .vlist-t, .katex .op-limits > .vlist-t { text-align: cente=
+r; }
+
+.katex .accent .accent-body { position: relative; }
+
+.katex .accent .accent-body:not(.accent-full) { width: 0px; }
+
+.katex .overlay { display: block; }
+
+.katex .mtable .vertical-separator { display: inline-block; min-width: 1px;=
+ }
+
+.katex .mtable .arraycolsep { display: inline-block; }
+
+.katex .mtable .col-align-c > .vlist-t { text-align: center; }
+
+.katex .mtable .col-align-l > .vlist-t { text-align: left; }
+
+.katex .mtable .col-align-r > .vlist-t { text-align: right; }
+
+.katex .svg-align { text-align: left; }
+
+.katex svg { display: block; position: absolute; width: 100%; height: inher=
+it; fill: currentcolor; stroke: currentcolor; fill-rule: nonzero; fill-opac=
+ity: 1; stroke-width: 1; stroke-linecap: butt; stroke-linejoin: miter; stro=
+ke-miterlimit: 4; stroke-dasharray: none; stroke-dashoffset: 0; stroke-opac=
+ity: 1; }
+
+.katex svg path { stroke: none; }
+
+.katex img { border-style: none; min-width: 0px; min-height: 0px; max-width=
+: none; max-height: none; }
+
+.katex .stretchy { width: 100%; display: block; position: relative; overflo=
+w: hidden; }
+
+.katex .stretchy::after, .katex .stretchy::before { content: ""; }
+
+.katex .hide-tail { width: 100%; position: relative; overflow: hidden; }
+
+.katex .halfarrow-left { position: absolute; left: 0px; width: 50.2%; overf=
+low: hidden; }
+
+.katex .halfarrow-right { position: absolute; right: 0px; width: 50.2%; ove=
+rflow: hidden; }
+
+.katex .brace-left { position: absolute; left: 0px; width: 25.1%; overflow:=
+ hidden; }
+
+.katex .brace-center { position: absolute; left: 25%; width: 50%; overflow:=
+ hidden; }
+
+.katex .brace-right { position: absolute; right: 0px; width: 25.1%; overflo=
+w: hidden; }
+
+.katex .x-arrow-pad { padding: 0px 0.5em; }
+
+.katex .cd-arrow-pad { padding: 0px 0.55556em 0px 0.27778em; }
+
+.katex .mover, .katex .munder, .katex .x-arrow { text-align: center; }
+
+.katex .boxpad { padding: 0px 0.3em; }
+
+.katex .fbox, .katex .fcolorbox { box-sizing: border-box; border: 0.04em so=
+lid; }
+
+.katex .cancel-pad { padding: 0px 0.2em; }
+
+.katex .cancel-lap { margin-left: -0.2em; margin-right: -0.2em; }
+
+.katex .sout { border-bottom-style: solid; border-bottom-width: 0.08em; }
+
+.katex .angl { border-top: 0.049em solid; border-right: 0.049em solid; marg=
+in-right: 0.03889em; }
+
+.katex .anglpad { padding: 0px 0.03889em; }
+
+.katex .eqn-num::before { counter-increment: a 1; content: "(" counter(a) "=
+)"; }
+
+.katex .mml-eqn-num::before { counter-increment: b 1; content: "(" counter(=
+b) ")"; }
+
+.katex .mtr-glue { width: 50%; }
+
+.katex .cd-vert-arrow { display: inline-block; position: relative; }
+
+.katex .cd-label-left { display: inline-block; position: absolute; right: c=
+alc(50% + 0.3em); text-align: left; }
+
+.katex .cd-label-right { display: inline-block; position: absolute; left: c=
+alc(50% + 0.3em); text-align: right; }
+
+.katex-display { display: block; margin: 1em 0px; text-align: center; }
+
+.katex-display > .katex { display: block; text-align: center; white-space: =
+nowrap; }
+
+.katex-display > .katex > .katex-html { display: block; position: relative;=
+ }
+
+.katex-display > .katex > .katex-html > .tag { position: absolute; right: 0=
+px; }
+
+.katex-display.leqno > .katex > .katex-html > .tag { left: 0px; right: auto=
+; }
+
+.katex-display.fleqn > .katex { text-align: left; padding-left: 2em; }
+
+body { counter-reset: a 0 b 0; }
+
+@font-face { font-family: Lato; font-style: normal; font-weight: 400; src: =
+url("/static/fonts/lato-normal.27bd77b.woff") format("woff"); }
+
+@font-face { font-family: Lato; font-style: italic; font-weight: 400; src: =
+url("/static/fonts/lato-normal-italic.f28f2d6.woff") format("woff"); }
+
+@font-face { font-family: Lato; font-style: normal; font-weight: 600; src: =
+url("/static/fonts/lato-black.f80bda6.woff") format("woff"); }
+
+@font-face { font-family: Lato; font-style: italic; font-weight: 600; src: =
+url("/static/fonts/lato-black-italic.798eafd.woff") format("woff"); }
+
+@font-face { font-family: "Roboto Mono"; font-style: normal; font-weight: 4=
+00; src: url("/static/fonts/RobotoMono-Regular.0b6a547.woff") format("woff"=
+); }
+
+@font-face { font-family: "Roboto Mono"; font-style: normal; font-weight: 6=
+00; src: url("/static/fonts/RobotoMono-Bold.819f3b2.woff") format("woff"); =
+}
+
+.prism *, .token.pre.gfm * { font-weight: inherit !important; }
+
+.prism .token.cdata, .prism .token.comment, .prism .token.doctype, .prism .=
+token.prolog, .token.pre.gfm .token.cdata, .token.pre.gfm .token.comment, .=
+token.pre.gfm .token.doctype, .token.pre.gfm .token.prolog { color: rgb(112=
+, 128, 144); }
+
+.prism .token.punctuation, .token.pre.gfm .token.punctuation { color: rgb(1=
+53, 153, 153); }
+
+.prism .namespace, .token.pre.gfm .namespace { opacity: 0.7; }
+
+.prism .token.boolean, .prism .token.constant, .prism .token.deleted, .pris=
+m .token.number, .prism .token.property, .prism .token.symbol, .prism .toke=
+n.tag, .token.pre.gfm .token.boolean, .token.pre.gfm .token.constant, .toke=
+n.pre.gfm .token.deleted, .token.pre.gfm .token.number, .token.pre.gfm .tok=
+en.property, .token.pre.gfm .token.symbol, .token.pre.gfm .token.tag { colo=
+r: rgb(153, 0, 85); }
+
+.prism .token.attr-name, .prism .token.builtin, .prism .token.char, .prism =
+.token.inserted, .prism .token.selector, .prism .token.string, .token.pre.g=
+fm .token.attr-name, .token.pre.gfm .token.builtin, .token.pre.gfm .token.c=
+har, .token.pre.gfm .token.inserted, .token.pre.gfm .token.selector, .token=
+.pre.gfm .token.string { color: rgb(102, 153, 0); }
+
+.prism .language-css .token.string, .prism .style .token.string, .prism .to=
+ken.entity, .prism .token.operator, .prism .token.url, .token.pre.gfm .lang=
+uage-css .token.string, .token.pre.gfm .style .token.string, .token.pre.gfm=
+ .token.entity, .token.pre.gfm .token.operator, .token.pre.gfm .token.url {=
+ color: rgb(166, 127, 89); }
+
+.prism .token.atrule, .prism .token.attr-value, .prism .token.keyword, .tok=
+en.pre.gfm .token.atrule, .token.pre.gfm .token.attr-value, .token.pre.gfm =
+.token.keyword { color: rgb(0, 119, 170); }
+
+.prism .token.function, .token.pre.gfm .token.function { color: rgb(221, 74=
+, 104); }
+
+.prism .token.important, .prism .token.regex, .prism .token.variable, .toke=
+n.pre.gfm .token.important, .token.pre.gfm .token.regex, .token.pre.gfm .to=
+ken.variable { color: rgb(238, 153, 0); }
+
+.prism .token.bold, .prism .token.important, .token.pre.gfm .token.bold, .t=
+oken.pre.gfm .token.important { font-weight: 500; }
+
+.prism .token.italic, .token.pre.gfm .token.italic { font-style: italic; }
+
+html { line-height: 1.15; text-size-adjust: 100%; }
+
+body { margin: 0px; }
+
+article, aside, footer, header, nav, section { display: block; }
+
+h1 { font-size: 2em; margin: 0.67em 0px; }
+
+figcaption, figure { display: block; }
+
+figure { margin: 1em 40px; }
+
+hr { box-sizing: content-box; height: 0px; overflow: visible; }
+
+main { display: block; }
+
+pre { font-family: monospace, monospace; font-size: 1em; }
+
+a { background-color: transparent; }
+
+abbr[title] { border-bottom: none; text-decoration: underline dotted; }
+
+b, strong { font-weight: bolder; }
+
+code, kbd, samp { font-family: monospace, monospace; font-size: 1em; }
+
+dfn { font-style: italic; }
+
+mark { background-color: rgb(255, 255, 0); color: rgb(0, 0, 0); }
+
+small { font-size: 80%; }
+
+sub, sup { font-size: 75%; line-height: 0; position: relative; vertical-ali=
+gn: baseline; }
+
+sub { bottom: -0.25em; }
+
+sup { top: -0.5em; }
+
+audio, video { display: inline-block; }
+
+audio:not([controls]) { display: none; height: 0px; }
+
+img { border-style: none; }
+
+svg:not(:root) { overflow: hidden; }
+
+button, input, optgroup, select, textarea { font-family: sans-serif; font-s=
+ize: 100%; line-height: 1.15; margin: 0px; }
+
+button { overflow: visible; }
+
+button, select { text-transform: none; }
+
+[type=3D"reset"], [type=3D"submit"], button, html [type=3D"button"] { appea=
+rance: button; }
+
+input { overflow: visible; }
+
+[type=3D"checkbox"], [type=3D"radio"] { box-sizing: border-box; padding: 0p=
+x; }
+
+[type=3D"number"]::-webkit-inner-spin-button, [type=3D"number"]::-webkit-ou=
+ter-spin-button { height: auto; }
+
+[type=3D"search"] { appearance: textfield; outline-offset: -2px; }
+
+[type=3D"search"]::-webkit-search-cancel-button, [type=3D"search"]::-webkit=
+-search-decoration { appearance: none; }
+
+::-webkit-file-upload-button { appearance: button; font: inherit; }
+
+fieldset { padding: 0.35em 0.75em 0.625em; }
+
+legend { box-sizing: border-box; display: table; max-width: 100%; padding: =
+0px; color: inherit; white-space: normal; }
+
+progress { display: inline-block; vertical-align: baseline; }
+
+textarea { overflow: auto; }
+
+details { display: block; }
+
+summary { display: list-item; }
+
+menu { display: block; }
+
+canvas { display: inline-block; }
+
+[hidden], template { display: none; }
+
+body, html { color: rgba(0, 0, 0, 0.75); font-size: 16px; font-family: Lato=
+, "Helvetica Neue", Helvetica, sans-serif; font-variant-ligatures: common-l=
+igatures; line-height: 1.67; -webkit-font-smoothing: antialiased; }
+
+.app--dark .layout__panel--editor, .app--dark .layout__panel--preview { col=
+or: rgba(255, 255, 255, 0.75); }
+
+blockquote, dl, ol, p, pre, ul { margin: 1.2em 0px; }
+
+h1, h2, h3, h4, h5, h6 { margin: 1.8em 0px; line-height: 1.33; }
+
+h1::after, h2::after { content: ""; display: block; position: relative; top=
+: 0.33em; border-bottom: 1px solid rgba(128, 128, 128, 0.33); }
+
+ol ol, ol ul, ul ol, ul ul { margin: 0px; }
+
+dt { font-weight: 700; }
+
+a { color: rgb(12, 147, 228); text-decoration: underline; }
+
+a:focus, a:hover { text-decoration: none; }
+
+code, pre, samp { font-family: "Roboto Mono", "Lucida Sans Typewriter", "Lu=
+cida Console", monaco, Courrier, monospace; font-size: 0.85em; }
+
+code *, pre *, samp * { font-size: inherit; }
+
+blockquote { color: rgba(0, 0, 0, 0.5); padding-left: 1.5em; border-left: 5=
+px solid rgba(0, 0, 0, 0.1); }
+
+.app--dark .layout__panel--editor blockquote, .app--dark .layout__panel--pr=
+eview blockquote { color: rgba(255, 255, 255, 0.4); border-left-color: rgba=
+(255, 255, 255, 0.1); }
+
+code { background-color: rgba(0, 0, 0, 0.05); border-radius: 3px; padding: =
+2px 4px; }
+
+hr { border-width: 1px 0px 0px; border-right-style: initial; border-bottom-=
+style: initial; border-left-style: initial; border-right-color: initial; bo=
+rder-bottom-color: initial; border-left-color: initial; border-image: initi=
+al; border-top-style: solid; border-top-color: rgba(128, 128, 128, 0.33); m=
+argin: 2em 0px; }
+
+pre > code { background-color: rgba(0, 0, 0, 0.05); display: block; padding=
+: 0.5em; text-size-adjust: none; overflow-x: auto; white-space: pre; }
+
+.toc ul { list-style-type: none; padding-left: 20px; }
+
+table { background-color: transparent; border-collapse: collapse; border-sp=
+acing: 0px; }
+
+td, th { border-right: 1px solid rgb(220, 220, 220); padding: 8px 12px; }
+
+td:last-child, th:last-child { border-right: 0px; }
+
+td { border-top: 1px solid rgb(220, 220, 220); }
+
+mark { background-color: rgb(248, 248, 64); }
+
+kbd { font-family: Lato, "Helvetica Neue", Helvetica, sans-serif; backgroun=
+d-color: rgb(255, 255, 255); border: 1px solid rgba(63, 63, 63, 0.25); bord=
+er-radius: 3px; box-shadow: rgba(63, 63, 63, 0.25) 0px 1px 0px; color: rgb(=
+51, 51, 51); display: inline-block; font-size: 0.8em; margin: 0px 0.1em; pa=
+dding: 0.1em 0.6em; white-space: nowrap; }
+
+abbr[title] { border-bottom: 1px dotted rgb(119, 119, 119); cursor: help; }
+
+img { max-width: 100%; }
+
+.task-list-item { list-style-type: none; }
+
+.task-list-item-checkbox { margin: 0px 0.2em 0px -1.3em; }
+
+.footnote { font-size: 0.8em; position: relative; top: -0.25em; vertical-al=
+ign: top; }
+
+.page-break-after { break-after: page; }
+
+.abc-notation-block { overflow-x: auto !important; }
+
+.stackedit__html { margin-bottom: 180px; margin-left: auto; margin-right: a=
+uto; padding-left: 30px; padding-right: 30px; max-width: 750px; }
+
+.stackedit__toc ul { padding: 0px; }
+
+.stackedit__toc ul a { margin: 0.5rem 0px; padding: 0.5rem 1rem; }
+
+.stackedit__toc ul ul { color: rgb(136, 136, 136); font-size: 0.9em; }
+
+.stackedit__toc ul ul a { margin: 0px; padding: 0.1rem 1rem; }
+
+.stackedit__toc li { display: block; }
+
+.stackedit__toc a { display: block; color: inherit; text-decoration: none; =
+}
+
+.stackedit__toc a:active, .stackedit__toc a:focus, .stackedit__toc a:hover =
+{ background-color: rgba(0, 0, 0, 0.075); border-radius: 3px; }
+
+.stackedit__left { position: fixed; display: none; width: 250px; height: 10=
+0%; top: 0px; left: 0px; overflow: hidden auto; }
+
+@media (min-width: 1060px) {
+  .stackedit__left { display: block; }
+}
+
+.stackedit__right { position: absolute; right: 0px; top: 0px; left: 0px; }
+
+@media (min-width: 1060px) {
+  .stackedit__right { left: 250px; }
+}
+
+.stackedit--pdf blockquote { border-left-color: rgb(236, 236, 236); }
+
+.stackedit--pdf .stackedit__html { padding-left: 0px; padding-right: 0px; m=
+ax-width: none; }
+
+.markdown-highlighting { color: rgba(0, 0, 0, 0.8); caret-color: rgb(0, 0, =
+0); font-family: inherit; font-size: inherit; -webkit-font-smoothing: auto;=
+ font-weight: 400; }
+
+.app--dark .markdown-highlighting { color: rgba(255, 255, 255, 0.8); caret-=
+color: rgb(255, 255, 255); }
+
+.markdown-highlighting .code { font-family: "Roboto Mono", "Lucida Sans Typ=
+ewriter", "Lucida Console", monaco, Courrier, monospace; font-size: 0.85em;=
+ }
+
+.markdown-highlighting .code * { font-size: inherit !important; }
+
+.markdown-highlighting .pre { color: rgba(0, 0, 0, 0.8); font-family: "Robo=
+to Mono", "Lucida Sans Typewriter", "Lucida Console", monaco, Courrier, mon=
+ospace; font-size: 0.85em; }
+
+.app--dark .markdown-highlighting .pre { color: rgba(255, 255, 255, 0.8); }
+
+.markdown-highlighting .pre [class*=3D"language-"] { color: rgb(0, 0, 0); }
+
+.app--dark .markdown-highlighting .pre [class*=3D"language-"] { color: rgb(=
+255, 255, 255); }
+
+.markdown-highlighting .pre * { font-size: inherit !important; }
+
+.markdown-highlighting .pre, .markdown-highlighting .pre * { line-height: 1=
+.33; }
+
+.markdown-highlighting .tag { color: rgba(0, 0, 0, 0.8); font-family: "Robo=
+to Mono", "Lucida Sans Typewriter", "Lucida Console", monaco, Courrier, mon=
+ospace; font-size: 0.85em; font-weight: 600; }
+
+.app--dark .markdown-highlighting .tag { color: rgba(255, 255, 255, 0.8); }
+
+.markdown-highlighting .tag .attr-name, .markdown-highlighting .tag .attr-v=
+alue, .markdown-highlighting .tag .punctuation { font-weight: 400; }
+
+.markdown-highlighting .tag * { font-size: inherit !important; }
+
+.markdown-highlighting .latex, .markdown-highlighting .math { color: rgba(0=
+, 0, 0, 0.8); }
+
+.app--dark .markdown-highlighting .latex, .app--dark .markdown-highlighting=
+ .math { color: rgba(255, 255, 255, 0.8); }
+
+.markdown-highlighting .entity { color: rgba(0, 0, 0, 0.8); font-family: "R=
+oboto Mono", "Lucida Sans Typewriter", "Lucida Console", monaco, Courrier, =
+monospace; font-size: 0.85em; font-style: italic; }
+
+.app--dark .markdown-highlighting .entity { color: rgba(255, 255, 255, 0.8)=
+; }
+
+.markdown-highlighting .entity * { font-size: inherit !important; }
+
+.markdown-highlighting .table { font-family: "Roboto Mono", "Lucida Sans Ty=
+pewriter", "Lucida Console", monaco, Courrier, monospace; font-size: 0.85em=
+; }
+
+.markdown-highlighting .table * { font-size: inherit !important; }
+
+.markdown-highlighting .comment { color: rgba(0, 0, 0, 0.28); }
+
+.app--dark .markdown-highlighting .comment { color: rgba(255, 255, 255, 0.2=
+8); }
+
+.markdown-highlighting .keyword { color: rgb(0, 0, 0); font-weight: 600; }
+
+.app--dark .markdown-highlighting .keyword { color: rgb(255, 255, 255); }
+
+.markdown-highlighting .cl-toc, .markdown-highlighting .code, .markdown-hig=
+hlighting .img, .markdown-highlighting .img-wrapper, .markdown-highlighting=
+ .imgref { background-color: rgba(0, 0, 0, 0.05); border-radius: 3px; paddi=
+ng: 0.15em 0px; }
+
+.markdown-highlighting .img-wrapper { display: inline-block; }
+
+.markdown-highlighting .img-wrapper .img { display: inline-block; padding: =
+0px; background-color: transparent; }
+
+.markdown-highlighting .img-wrapper img { max-width: 100%; padding: 0px 0.1=
+5em; box-sizing: content-box; }
+
+.markdown-highlighting .cl-toc { font-size: 2.8em; padding: 0.15em; }
+
+.markdown-highlighting .blockquote { color: rgba(0, 0, 0, 0.48); }
+
+.app--dark .markdown-highlighting .blockquote { color: rgba(255, 255, 255, =
+0.48); }
+
+.markdown-highlighting .h1, .markdown-highlighting .h2, .markdown-highlight=
+ing .h3, .markdown-highlighting .h4, .markdown-highlighting .h5, .markdown-=
+highlighting .h6, .markdown-highlighting .h11, .markdown-highlighting .h22 =
+{ font-weight: 600; }
+
+.markdown-highlighting .h1, .markdown-highlighting .h1 *, .markdown-highlig=
+hting .h2, .markdown-highlighting .h2 *, .markdown-highlighting .h3, .markd=
+own-highlighting .h3 *, .markdown-highlighting .h4, .markdown-highlighting =
+.h4 *, .markdown-highlighting .h5, .markdown-highlighting .h5 *, .markdown-=
+highlighting .h6, .markdown-highlighting .h6 *, .markdown-highlighting .h11=
+, .markdown-highlighting .h11 *, .markdown-highlighting .h22, .markdown-hig=
+hlighting .h22 * { line-height: 1.33; }
+
+.markdown-highlighting .h1, .markdown-highlighting .h11 { font-size: 2em; }
+
+.markdown-highlighting .h2, .markdown-highlighting .h22 { font-size: 1.5em;=
+ }
+
+.markdown-highlighting .h3 { font-size: 1.17em; }
+
+.markdown-highlighting .h4 { font-size: 1em; }
+
+.markdown-highlighting .h5 { font-size: 0.83em; }
+
+.markdown-highlighting .h6 { font-size: 0.75em; }
+
+.markdown-highlighting .cl-hash { color: rgba(0, 0, 0, 0.28); }
+
+.app--dark .markdown-highlighting .cl-hash { color: rgba(255, 255, 255, 0.2=
+8); }
+
+.markdown-highlighting .cl, .markdown-highlighting .hr { color: rgba(0, 0, =
+0, 0.28); font-style: normal; font-weight: 400; }
+
+.app--dark .markdown-highlighting .cl, .app--dark .markdown-highlighting .h=
+r { color: rgba(255, 255, 255, 0.28); }
+
+.markdown-highlighting .em, .markdown-highlighting .em .cl { font-style: it=
+alic; }
+
+.markdown-highlighting .strong, .markdown-highlighting .strong .cl, .markdo=
+wn-highlighting .term { font-weight: 600; }
+
+.markdown-highlighting .cl-del-text { text-decoration: line-through; }
+
+.markdown-highlighting .cl-mark-text { background-color: rgb(248, 248, 64);=
+ color: rgb(0, 0, 0); }
+
+.markdown-highlighting .cl-underlined-text, .markdown-highlighting .email, =
+.markdown-highlighting .url { text-decoration: underline; }
+
+.markdown-highlighting .linkdef .url { color: rgba(0, 0, 0, 0.28); }
+
+.app--dark .markdown-highlighting .linkdef .url { color: rgba(255, 255, 255=
+, 0.28); }
+
+.markdown-highlighting .fn, .markdown-highlighting .inlinefn, .markdown-hig=
+hlighting .sup { font-size: smaller; position: relative; top: -0.5em; }
+
+.markdown-highlighting .sub { bottom: -0.25em; font-size: smaller; position=
+: relative; }
+
+.markdown-highlighting .img, .markdown-highlighting .imgref, .markdown-high=
+lighting .link, .markdown-highlighting .linkref { color: rgba(0, 0, 0, 0.28=
+); }
+
+.app--dark .markdown-highlighting .img, .app--dark .markdown-highlighting .=
+imgref, .app--dark .markdown-highlighting .link, .app--dark .markdown-highl=
+ighting .linkref { color: rgba(255, 255, 255, 0.28); }
+
+.markdown-highlighting .img .cl-underlined-text, .markdown-highlighting .im=
+gref .cl-underlined-text, .markdown-highlighting .link .cl-underlined-text,=
+ .markdown-highlighting .linkref .cl-underlined-text { color: rgb(0, 0, 0);=
+ }
+
+.app--dark .markdown-highlighting .img .cl-underlined-text, .app--dark .mar=
+kdown-highlighting .imgref .cl-underlined-text, .app--dark .markdown-highli=
+ghting .link .cl-underlined-text, .app--dark .markdown-highlighting .linkre=
+f .cl-underlined-text { color: rgb(255, 255, 255); }
+
+.markdown-highlighting .cl-title { color: rgba(0, 0, 0, 0.8); }
+
+.app--dark .markdown-highlighting .cl-title { color: rgba(255, 255, 255, 0.=
+8); }
+
+.markdown-highlighting--inline .cl-toc, .markdown-highlighting--inline .h1,=
+ .markdown-highlighting--inline .h2, .markdown-highlighting--inline .h3, .m=
+arkdown-highlighting--inline .h4, .markdown-highlighting--inline .h5, .mark=
+down-highlighting--inline .h6, .markdown-highlighting--inline .h11, .markdo=
+wn-highlighting--inline .h22 { font-size: inherit; }
+
+body { background-color: rgb(255, 255, 255); inset: 0px; position: fixed; t=
+ab-size: 4; text-rendering: auto; overflow: hidden; }
+
+* { box-sizing: border-box; }
+
+::-webkit-scrollbar, ::-webkit-scrollbar-track { background-color: transpar=
+ent; }
+
+::-webkit-scrollbar:horizontal { height: 8px; }
+
+::-webkit-scrollbar:vertical { width: 8px; }
+
+::-webkit-scrollbar-thumb { border-radius: 4px; background-color: rgb(187, =
+187, 187); }
+
+.app--dark ::-webkit-scrollbar-thumb { background-color: rgb(102, 102, 102)=
+; }
+
+:focus { outline: none; }
+
+input[type=3D"checkbox"] { outline: rgb(52, 155, 232) auto 5px; }
+
+.icon { width: 100%; height: 100%; display: block; }
+
+.icon * { fill: currentcolor; }
+
+.table-wrapper { max-width: 100%; overflow: auto; }
+
+button, input, select, textarea { font-family: inherit; font-size: inherit;=
+ line-height: inherit; }
+
+.text-input { display: block; font-variant-ligatures: no-common-ligatures; =
+width: 100%; height: 36px; padding: 3px 12px; font-size: inherit; line-heig=
+ht: 1.5; color: inherit; background-color: rgb(255, 255, 255); }
+
+.button, .text-input { background-image: none; border: 0px; border-radius: =
+3px; }
+
+.button { color: rgb(51, 51, 51); background-color: transparent; display: i=
+nline-block; height: auto; padding: 8px 16px; font-size: 17px; font-weight:=
+ 400; line-height: 1.4; text-transform: uppercase; overflow: hidden; text-a=
+lign: center; white-space: nowrap; vertical-align: middle; touch-action: ma=
+nipulation; cursor: pointer; user-select: none; text-decoration: none; }
+
+.button:active, .button:focus, .button:hover, .hidden-file:focus + .button =
+{ color: rgb(51, 51, 51); background-color: rgba(0, 0, 0, 0.05); outline: 0=
+px; text-decoration: none; }
+
+.app--dark .layout__panel--editor .button, .app--dark .layout__panel--previ=
+ew .button { color: rgb(204, 204, 204); }
+
+.app--dark .layout__panel--editor .button:active, .app--dark .layout__panel=
+--editor .button:focus, .app--dark .layout__panel--editor .button:hover, .a=
+pp--dark .layout__panel--preview .button:active, .app--dark .layout__panel-=
+-preview .button:focus, .app--dark .layout__panel--preview .button:hover { =
+color: rgb(204, 204, 204); background-color: rgba(255, 255, 255, 0.067); }
+
+.button[disabled], .button[disabled]:active, .button[disabled]:focus, .butt=
+on[disabled]:hover { opacity: 0.33; background-color: transparent; cursor: =
+not-allowed; }
+
+.button--resolve { background-color: rgb(52, 155, 232); color: rgb(255, 255=
+, 255); margin: -2px 0px -2px 4px; padding: 10px 20px; font-size: 18px; }
+
+.button--resolve:active, .button--resolve:focus, .button--resolve:hover { c=
+olor: rgb(255, 255, 255); background-color: rgb(25, 136, 218); }
+
+.textfield { background-color: rgb(255, 255, 255); border: 0px; font-family=
+: inherit; font-weight: 400; font-size: 1.05em; padding: 0px 0.6rem; box-si=
+zing: border-box; width: 100%; max-width: 100%; color: inherit; height: 2.4=
+rem; }
+
+.textfield:focus { outline: none; }
+
+.textfield[disabled] { cursor: not-allowed; background-color: rgb(240, 240,=
+ 240); color: rgb(153, 153, 153); }
+
+.flex { display: flex; }
+
+.flex--row { flex-direction: row; }
+
+.flex--column { flex-direction: column; }
+
+.flex--center { justify-content: center; }
+
+.flex--end { justify-content: flex-end; }
+
+.flex--space-between { justify-content: space-between; }
+
+.flex--align-center { align-items: center; }
+
+.flex--align-end { align-items: flex-end; }
+
+.user-name { font-weight: 600; }
+
+.side-title { height: 44px; line-height: 36px; padding: 4px 4px 0px; backgr=
+ound-color: rgba(0, 0, 0, 0.1); flex: 0 0 auto; }
+
+.side-title__button { width: 38px; height: 36px; padding: 6px; display: inl=
+ine-block; background-color: transparent; opacity: 0.75; flex: 0 0 auto; ma=
+rgin-bottom: 20px; }
+
+.side-title__button:active, .side-title__button:focus, .side-title__button:=
+hover { opacity: 1; background-color: rgba(0, 0, 0, 0.1); }
+
+.side-title__title { text-transform: uppercase; padding: 0px 5px; overflow:=
+ hidden; white-space: nowrap; text-overflow: ellipsis; width: 100%; }
+
+.logo-background { background: url("data:image/svg+xml;base64,PD94bWwgdmVyc=
+2lvbj0iMS4wIiBlbmNvZGluZz0iVVRGLTgiIHN0YW5kYWxvbmU9Im5vIj8+PCFET0NUWVBFIHN2=
+ZyBQVUJMSUMgIi0vL1czQy8vRFREIFNWRyAxLjEvL0VOIiAiaHR0cDovL3d3dy53My5vcmcvR3J=
+hcGhpY3MvU1ZHLzEuMS9EVEQvc3ZnMTEuZHRkIj48c3ZnIHdpZHRoPSIxMDAlIiBoZWlnaHQ9Ij=
+EwMCUiIHZpZXdCb3g9IjAgMCA3MDAgMTYwIiB2ZXJzaW9uPSIxLjEiIHhtbG5zPSJodHRwOi8vd=
+3d3LnczLm9yZy8yMDAwL3N2ZyIgeG1sbnM6eGxpbms9Imh0dHA6Ly93d3cudzMub3JnLzE5OTkv=
+eGxpbmsiIHhtbDpzcGFjZT0icHJlc2VydmUiIHhtbG5zOnNlcmlmPSJodHRwOi8vd3d3LnNlcml=
+mLmNvbS8iIHN0eWxlPSJmaWxsLXJ1bGU6ZXZlbm9kZDtjbGlwLXJ1bGU6ZXZlbm9kZDtzdHJva2=
+UtbGluZWpvaW46cm91bmQ7c3Ryb2tlLW1pdGVybGltaXQ6MS40MTQyMTsiPjxwYXRoIGQ9Ik0yM=
+zMuNDQ0LDMxLjAxNGM5LjU0NCwwLjA3MiAxOS4yMTEsMy4xMDMgMjYuMTc5LDkuNjM5bDAuODI0=
+LDAuNzkxbC00LjQ5Nyw4LjcyOWMtMS40MzQsMi41NDIgLTQuNzQ2LDMuOTExIC04LjA1NSwxLjc=
+4OGMtMC4xOTcsLTAuMTI2IC0wLjM5NiwtMC4yNTEgLTAuNTk0LC0wLjM3NmMtMC4zNiwtMC4yMj=
+MgLTAuNzIyLC0wLjQ0NCAtMS4wODUsLTAuNjYzYy0yLjI3LC0xLjM1NSAtNC42NDIsLTIuNjAxI=
+C03LjE2MiwtMy4zMzdjLTYuNDA3LC0xLjg3MSAtMTQuNDc3LC0wLjY4OSAtMTcuNDMsNC42NTJj=
+LTEuODUxLDMuMzQ3IC0xLjg0NSw3Ljc3NCAwLjg0NiwxMC42MjFjNC45NTYsNS4yNDQgMTMuMzQ=
+5LDYuMzI3IDE5LjQ3MSw4LjYxN2MxLjM5LDAuNTIgMi43NjQsMS4wODMgNC4xMTksMS42ODhjNi=
+4zNzEsMi44NDUgMTIuMjU4LDcuNTM5IDE0LjU2LDE0LjQ2N2MxLjY2Myw1LjAwNSAxLjU4OCwxM=
+C41NCAwLjQ2MywxNS43ODVjLTIuMjIyLDEwLjM2IC0xMC4yMDYsMTkuMTEzIC0yMC44NzcsMjIu=
+MTEyYy0xMy45NzUsMy45MjcgLTMwLjE2LC0wLjM0MyAtNDAuMzkxLC0xMC42ODNsLTAuODUsLTA=
+uODgxbDUuMzAyLC04Ljg2NWMxLjMzMSwtMS44ODEgMy43NjYsLTIuOTgxIDYuMDExLC0yLjMxNG=
+MyLjcxMywwLjgwNiA0Ljc3NiwzLjAxNiA3LjQ0OCw0LjU5NWMxLjEyMiwwLjY2MyAyLjI5MiwxL=
+jI0NCAzLjQ4NywxLjc2NGM3Ljg2LDMuNDIgMTguMjI4LDIuNTk4IDIxLjcwNywtNC40M2MxLjk2=
+OSwtMy45NzkgMi4wMTIsLTkuMDg4IC0wLjkzOCwtMTIuMjg1Yy00Ljc4MywtNS4xODUgLTEzLjA=
+xOCwtNS45ODYgLTE5LjQ4NiwtOC4zMjZjLTEuMjE2LC0wLjQ0IC0yLjQyLC0wLjkxNyAtMy42MD=
+gsLTEuNDI5Yy02LjU4MSwtMi44MzQgLTEyLjQ0NCwtNy42NTEgLTE0Ljc2MSwtMTQuOTgxYy0zL=
+jM1MSwtMTAuNiAtMC4xNjgsLTIyLjcxMSA4LjMwOSwtMjkuNzU4YzUuNzc1LC00LjggMTMuNDQ4=
+LC02LjkzOSAyMS4wMDgsLTYuOTJabTQ0Ny43MTUsMjguMjc1bDE3LjAwMywwbDAsMTMuMTI0bC0=
+xNy4wMDMsMGMwLDExLjUxMSAtMC4wODQsMjMuMDIzIDAuMDAyLDM0LjUzM2MwLjA4MiwzLjYxNi=
+AzLjM0NSw2Ljc4IDcuOTMyLDQuNDU2YzEuODEzLC0wLjkxOCAzLjQ4OCwtMi4wMTQgNS4wOTUsL=
+TAuMzljMC4yODcsMC4yOSAwLjUzNiwwLjYxMyAwLjc3NCwwLjk0NGw1LjAzOCw4LjM2NmMtNS4w=
+NTEsNC4yODQgLTExLjUzOSw2LjYwNSAtMTguMjE3LDYuNTQ1Yy01LjIyOCwtMC4wNDggLTEwLjc=
+wMSwtMS44MyAtMTQuMDQyLC02LjEwMWMtMi44MDksLTMuNTkxIC0zLjgzMSwtOC4zMzEgLTMuOD=
+UsLTEyLjkxMmwwLC0zNS40NDFjLTEuOTcxLDAgLTMuNzIxLDAuMTA0IC01LjgzNywtMC4wMDljL=
+TIuMDg4LC0wLjE1NyAtMy42MzksLTIuMTA3IC0zLjY1NywtNC4yNjFsMCwtNy4wNTNsMTAuMzc2=
+LC0xLjczOGwzLjExMSwtMTcuMTUzYzAuNDk3LC0xLjk2NyAyLjI5OCwtMy40MTcgNC4zNTgsLTM=
+uNDM0bDguOTE3LDBsMCwyMC41MjRabS0zOTIuMDU0LDEzLjEyNGMwLDExLjUxMSAtMC4wODUsMj=
+MuMDIzIDAuMDAxLDM0LjUzM2MwLjAwNCwwLjE3IDAuMDA0LDAuMTcgMC4wMSwwLjM0MWMwLjE5L=
+DMuNDQ3IDMuMzM2LDYuNDM4IDcuOTIzLDQuMTE1YzEuODEyLC0wLjkxOCAzLjQ4OCwtMi4wMTMg=
+NS4wOTQsLTAuMzljMC4yODcsMC4yOSAwLjUzNiwwLjYxMyAwLjc3NCwwLjk0NGw1LjAzOCw4LjM=
+2NmMtNS4wNTEsNC4yODQgLTExLjUzOCw2LjYwNSAtMTguMjE3LDYuNTQ1Yy01LjIyNywtMC4wND=
+ggLTEwLjcsLTEuODMgLTE0LjA0MSwtNi4xMDFjLTIuODA3LC0zLjU4NyAtMy44MzIsLTguMzE3I=
+C0zLjg1LC0xMi45MTJsMCwtMzUuNDQxYy0xLjk3MiwwIC0zLjcyMiwwLjEwNCAtNS44MzcsLTAu=
+MDA5Yy0yLjA4OCwtMC4xNTcgLTMuNjQsLTIuMTA4IC0zLjY1OCwtNC4yNjFsMCwtNy4wNTNsMTA=
+uMzc2LC0xLjczOGwzLjExMSwtMTcuMTUzYzAuNDk4LC0xLjk2NiAyLjI5OCwtMy40MTcgNC4zNT=
+gsLTMuNDM0bDcuOTQ3LDBjMC4zMjQsMC4zMjQgMC42NDcsMC42NDcgMC45NzEsMC45NzFsMCwxO=
+S41NTNsMTcuMDAyLDBsLTAuMDA2LDEzLjEyNGwtMTYuOTk2LDBabTUwLjk2MiwtMTQuOTAyYzgu=
+MTQzLDAuMDY0IDE2LjIxOCwzLjcwNSAyMC41NDMsMTAuODQyYzIuNzY0LDQuNTU5IDMuODY2LDk=
+uOTggMy44OSwxNS4zNTFsMCw0Mi4xNDdjLTIuODMsMCAtNS42NjksMC4wODkgLTguNDg3LC0wLj=
+AxMWMtMS44ODEsLTAuMDg3IC0zLjgxLC0wLjc1MiAtNC43NzYsLTIuMjk0Yy0wLjM0LC0wLjU0M=
+yAtMC41ODgsLTEuMTM1IC0wLjc5NSwtMS43NGwtMC45NDEsLTMuMjQxYy0wLjIyMSwwLjE5NCAt=
+MC40NDQsMC4zODYgLTAuNjY3LDAuNTc3Yy02LjMyNiw1LjM1MSAtMTQuNTY5LDguNTYyIC0yMy4=
+xNTgsNy41MzZjLTQuNjQzLC0wLjU1NSAtOS4yNTcsLTIuNTIxIC0xMi4yNCwtNi4xMDNjLTQuOD=
+k0LC01Ljg3NyAtNS40MDUsLTE1LjMxOCAtMS4yMywtMjEuMzYyYzUuNDI0LC03Ljg1MyAxNi4xM=
+SwtMTAuNzIgMjYuMjY4LC0xMS45NjFjMi44OTUsLTAuMzUzIDUuODA1LC0wLjU1IDguNzE4LC0w=
+LjY2MWwwLjQxMiwtMC4wMTRjMCwtNC43MzggMC4yNjgsLTEwLjE0OCAtMy43NDUsLTEzLjA3OWM=
+tNC4zMzgsLTMuMTY4IC0xMSwtMS43NTIgLTE1Ljc3NCwxLjAzMWMtMS4yMDQsMC43MTQgLTIuMz=
+k5LDEuNDQgLTMuNjEsMi4xMzVjLTAuNjkzLDAuMzgzIC0wLjkwMywwLjQ0OSAtMS4zNzgsMC42Y=
+y0yLjgzNCwwLjkwMyAtNi4wNDUsLTAuMTU4IC03Ljc1NiwtMi45ODdsLTMuMTAxLC01LjdjNy4z=
+MywtNi44MzEgMTYuOTU5LC0xMC45MzEgMjcuMTU1LC0xMS4wNjRjMC4yMjQsLTAuMDAyIDAuNDQ=
+4LC0wLjAwMyAwLjY3MiwtMC4wMDJabTYxLjYxNiwwLjE5YzguMzcsMC4wNjUgMTYuNTA5LDMuMj=
+I0IDIyLjQ4Miw5LjIzOGwwLjcwMywwLjcxNmwtNC41MTMsNi4zOTljLTEuNTIsMS45NTcgLTQuM=
+Tk0LDIuOTc1IC02LjU4NiwxLjU2NGMtMy4zOTYsLTIuMDAzIC02Ljc5NiwtMy45OTggLTExLjE5=
+MywtNC4wM2MtMy44OTEsLTAuMDI5IC03Ljg1MSwxLjIzNCAtMTAuNTM1LDQuMTUyYy00LjU1Myw=
+0Ljk0OSAtNS4wNywxMi4yOTQgLTQuNzY4LDE4LjU5NmMwLjA4MiwxLjcwMyAwLjI2NSwzLjQwMy=
+AwLjU5NCw1LjA3N2MwLjkyMyw0LjY5OCAzLjEzNiw5LjM1MyA3LjE3MSwxMS43M2M0LjA4NSwyL=
+jQwNiA5LjU1LDIuMzEzIDEzLjQ1NiwwLjUyOWMyLjA2OSwtMC45NDUgMy42MzgsLTIuMjkxIDUu=
+NjE3LC0zLjcyN2MyLjAxNywtMS40MDUgNC45OSwtMS4yMzUgNi40NTYsMC44NjFjMCwwIDQuOTA=
+4LDYuMzggNC45MDgsNi4zOGMtNi4zMjYsNy41MjMgLTE1Ljc4OSwxMS44MTIgLTI2LjgyMiwxMS=
+42MTNjLTguODEyLC0wLjE1OCAtMTcuMzk4LC00LjU4NiAtMjIuNTIyLC0xMS44MmMtNy4yMDEsL=
+TEwLjE2NiAtOC4zNSwtMjQuMjQzIC00LjYxMSwtMzYuMDQzYzIuOTA2LC05LjE3IDEwLjAyNCwt=
+MTYuODk0IDE5LjM2NSwtMTkuNzYzYzMuNDgzLC0xLjA3IDcuMTc4LC0xLjQ4MSAxMC43OTgsLTE=
+uNDcyWm0yMTkuMzkyLC0yOC4yMTNsMCw5Ni4zNjNjLTMuNDgzLDAgLTYuOTY2LDAuMDI1IC0xMC=
+40NDksLTAuMDAxYy0yLjE0NiwtMC4wNDggLTQuMDcsLTEuNDkzIC00LjY4MSwtMy41OTRsLTAuO=
+TIyLC00LjQ1MmMtMC4xNjEsMC4xNjggLTAuMzI0LDAuMzM1IC0wLjQ4OCwwLjUwMmMtNS41MjIs=
+NS41NDQgLTEzLjE1Miw5LjA0MyAtMjEuMjY4LDguNDNjLTYuNjYxLC0wLjUwMyAtMTIuODUyLC0=
+0LjI4NiAtMTYuNjY5LC05Ljk4NGMtNS40NSwtOC4xMzUgLTYuNjQ5LC0xOC41NTkgLTUuODg3LC=
+0yOC4zNDZjMC45MDksLTExLjY4OCA2LjM2NiwtMjMuNTY5IDE3LjI3MiwtMjguNjE5YzMuNjUzL=
+C0xLjY5MiA3LjcyOCwtMi4zNyAxMS43NTgsLTIuMjY2YzUuMDgsMC4xMyAxMC4xMDgsMS45MTQg=
+MTQuMDY2LDUuMTRsMCwtMzMuMTczYzUuNzU2LDAgMTEuNTEyLDAgMTcuMjY4LDBabS0xNzMuOTY=
+xLDk2LjM2M2wtMTcuMjcxLDBsMCwtOTYuMzYzbDE3LjI3MSwwbC0wLjAwMiw1NC4wNzRjMS45Nj=
+csMCAzLjk2MiwwLjE0NiA1LjI3OSwtMS41NmwwLjExNiwtMC4xNTZjNS4yNzYsLTYuNjczIDEwL=
+jU1MiwtMTMuMzQ1IDE1LjgyNywtMjAuMDE5YzAuODc3LC0xLjEwOSAxLjkxMiwtMi4xMDkgMy4x=
+NzQsLTIuNjE0YzAuOTI5LC0wLjM3MSAxLjkzNCwtMC40OSAyLjkyOCwtMC40OTZsMTYuMDU1LDB=
+sLTIxLjA1OCwyNS43NzdjLTAuMjYzLDAuMzUzIC0wLjI2MywwLjM1MyAtMC41NDEsMC43MDNjLT=
+AuOTM2LDEuMTU3IC0xLjk4MiwyLjIyMiAtMy4xNjMsMy4xMjdjMCwwIDEuOTEyLDIuMDMgMy4zM=
+jcsNC4yMDVsMC4xMTMsMC4xNzZsMjIuMjM1LDMzLjE0MmMwLDAgLTExLjEzMSwwLjAyOCAtMTUu=
+Nzg0LDAuMDA0Yy0yLjQwOSwtMC4wMzkgLTQuNzU2LC0xLjEzIC01Ljk0MiwtMy4xODljMCwwIC0=
+xNi4yOSwtMjQuNzc3IC0xNi4yOSwtMjQuNzc3Yy0wLjA2OCwtMC4xMTMgLTAuMTM3LC0wLjIyNC=
+AtMC4yMDgsLTAuMzM0Yy0wLjc3LC0xLjE1NyAtMi4xODEsLTEuNTU5IC0zLjU2NSwtMS41NjRsL=
+TIuNTAzLDBsMC4wMDIsMjkuODY0Wm0yMDIuMDE4LDBsLTE3LjMzMSwwbDAsLTY3LjEzNGwxNy4z=
+MzEsMGwwLDY3LjEzNFptLTkyLjQ3MSwtNzguMjgybC0zOS44MzksMGwwLDIzLjUzOWwzMS4zOTk=
+sMGwwLDE1LjA5NGwtMzEuMzk5LDBsMCwyNC4wNDdsMzkuODM5LDBsMCwxNS42MDJsLTU4LjUzNC=
+wwbDAsLTkzLjgyMWw1OC41MzQsMGwwLDE1LjUzOVptLTIwOS4yNTcsNTAuNTE0Yy02LjEzNiwwL=
+jM2MSAtMTIuNTkyLDAuNjA2IC0xNy44ODEsMy43NzJjLTIuMzQ4LDEuNDA2IC0zLjc4LDMuOTI4=
+IC0zLjQxOSw2LjkwMWMwLjIyLDEuODEzIDEuMjYxLDMuNTUgMi44OTksNC4zOWMxLjU5MywwLjg=
+xNyAzLjQyLDEuMDE1IDUuMjQxLDAuOTczYzMuMTcyLC0wLjA3NSA2LjM0NiwtMC45NTMgOC45OD=
+YsLTIuNzA2YzEuNjA3LC0xLjA2NiAzLjA1LC0yLjM1OCA0LjM3NCwtMy43NTRsMCwtOS41ODdjL=
+TAuMDY2LDAuMDA0IC0wLjEzMywwLjAwNyAtMC4yLDAuMDExWm0yNDQuODgyLC0yNi42ODVjLTUu=
+MDU1LDAuMDkyIC05LjgwNSwzLjI2MSAtMTEuODg0LDguMjdjLTIuNDU4LDUuOTIyIC0yLjUzMSw=
+xMi42MzYgLTEuNzM4LDE5LjE1NmMwLjY1Niw1LjM5NCAyLjU2MywxMS4xMzcgNy41MSwxMi45MD=
+hjMy44OTksMS4zOTYgOC41MTUsMC44MjEgMTEuOTY5LC0xLjMzN2MyLjE4NCwtMS4zNjUgNC4wN=
+DEsLTMuMTg1IDUuNjY0LC01LjE3MmwwLC0yOC41NDFjLTIuNzY4LC0zLjMxOCAtNy4wMSwtNS4z=
+MTEgLTExLjUyMSwtNS4yODRabTQ4LjE5NiwtNDEuNzE4YzUuMTc0LDAuMDk0IDkuOTQxLDQuMjk=
+yIDEwLjY1NSw5LjQ2NWMxLjAwOCw3LjMgLTcuMTIyLDE1LjEwMyAtMTUuMDY2LDExLjQyOWMtNS=
+4yMDIsLTIuNDA2IC03LjkyNSwtOS4xNjEgLTUuMzA4LC0xNC42OTJjMS42OTIsLTMuNTc4IDUuM=
+zk5LC02LjEyNiA5LjQ0MywtNi4yMDJjMC4xMzgsLTAuMDAxIDAuMTM4LC0wLjAwMSAwLjI3Niww=
+WiIgc3R5bGU9ImZpbGw6IzYwNjA2MDtmaWxsLXJ1bGU6bm9uemVybzsiLz48cGF0aCBkPSJNMTU=
+5Ljk5Nyw0MC4wMDNjMCwtMjIuMDc2IC0xNy45MjMsLTM5Ljk5OSAtMzkuOTk5LC0zOS45OTlsLT=
+c5Ljk5OSwwYy0yMi4wNzYsMCAtMzkuOTk5LDE3LjkyMyAtMzkuOTk5LDM5Ljk5OWwwLDc5Ljk5O=
+GMwLDIyLjA3NiAxNy45MjMsMzkuOTk5IDM5Ljk5OSwzOS45OTlsNzkuOTk5LDBjMjIuMDc2LDAg=
+MzkuOTk5LC0xNy45MjMgMzkuOTk5LC0zOS45OTlsMCwtNzkuOTk4WiIgc3R5bGU9ImZpbGw6bm9=
+uZTsiLz48Y2xpcFBhdGggaWQ9Il9jbGlwMSI+PHBhdGggZD0iTTE1OS45OTcsNDAuMDAzYzAsLT=
+IyLjA3NiAtMTcuOTIzLC0zOS45OTkgLTM5Ljk5OSwtMzkuOTk5bC03OS45OTksMGMtMjIuMDc2L=
+DAgLTM5Ljk5OSwxNy45MjMgLTM5Ljk5OSwzOS45OTlsMCw3OS45OThjMCwyMi4wNzYgMTcuOTIz=
+LDM5Ljk5OSAzOS45OTksMzkuOTk5bDc5Ljk5OSwwYzIyLjA3NiwwIDM5Ljk5OSwtMTcuOTIzIDM=
+5Ljk5OSwtMzkuOTk5bDAsLTc5Ljk5OFoiLz48L2NsaXBQYXRoPjxnIGNsaXAtcGF0aD0idXJsKC=
+NfY2xpcDEpIj48cGF0aCBkPSJNMTU5Ljk5NywwLjAwNGwtMTYwLjAxNCwwbDgwLjAwNyw4MC4wM=
+DdsODAuMDA3LC04MC4wMDdaIiBzdHlsZT0iZmlsbDojZmZkNzAwOyIvPjxwYXRoIGQ9Ik0tMC4w=
+MTcsMC4wMDRsMCwxNjAuMDE0bDgwLjAwNywtODAuMDA4bC04MC4wMDcsLTgwLjAwNloiIHN0eWx=
+lPSJmaWxsOiNhNWM3MDA7Ii8+PHBhdGggZD0iTS0wLjAxNywxNjAuMDE4bDE2MC4wMTQsMGwtOD=
+AuMDA3LC04MC4wMDdsLTgwLjAwNyw4MC4wMDdaIiBzdHlsZT0iZmlsbDojZmY4YTAwOyIvPjxwY=
+XRoIGQ9Ik0xNTkuOTk3LDE2MC4wMThsMCwtMTYwLjAxNGwtODAuMDA3LDgwLjAwN2w4MC4wMDcs=
+ODAuMDA3WiIgc3R5bGU9ImZpbGw6IzY2YWVmZDsiLz48cGF0aCBkPSJNMTQ5Ljk5NiwtOS45OTd=
+sLTcwLjAwNiw2OS45ODhsMjAuMDAyLDIwLjAybDcwLjAwNiwtNzAuMDA3bC0yMC4wMDIsLTIwLj=
+AwMVoiIHN0eWxlPSJmaWxsOnVybCgjX0xpbmVhcjIpOyIvPjxwYXRoIGQ9Ik0xNzAuMDA2LDE1M=
+C4wMTdsLTY5Ljk4OCwtNzAuMDA2bC0yMC4wMiwyMC4wMDJsNzAuMDA3LDcwLjAwNmwyMC4wMDEs=
+LTIwLjAwMloiIHN0eWxlPSJmaWxsOnVybCgjX0xpbmVhcjMpOyIvPjxwYXRoIGQ9Ik05Ljk4Myw=
+xNzAuMDFsNzAuMDA3LC02OS45ODlsLTIwLjAwMiwtMjAuMDE5bC03MC4wMDYsNzAuMDA2bDIwLj=
+AwMSwyMC4wMDJaIiBzdHlsZT0iZmlsbDp1cmwoI19MaW5lYXI0KTsiLz48cGF0aCBkPSJNLTEwL=
+jAxOCwxMC4wMDRsNjkuOTg4LDcwLjAwN2wyMC4wMiwtMjAuMDAybC03MC4wMDYsLTcwLjAwNmwt=
+MjAuMDAyLDIwLjAwMVoiIHN0eWxlPSJmaWxsOnVybCgjX0xpbmVhcjUpOyIvPjwvZz48cGF0aCB=
+kPSJNMTQ1LjAxMywzOS4wMDZjMCwtMTQuNjM2IC0xMS44ODMsLTI2LjUxOSAtMjYuNTE5LC0yNi=
+41MTlsLTc2Ljk3NCwwYy0xNC42MzYsMCAtMjYuNTE5LDExLjg4MyAtMjYuNTE5LDI2LjUxOWwwL=
+Dc2Ljk3NGMwLDE0LjYzNiAxMS44ODMsMjYuNTE4IDI2LjUxOSwyNi41MThsNzYuOTc0LDBjMTQu=
+NjM2LDAgMjYuNTE5LC0xMS44ODIgMjYuNTE5LC0yNi41MThsMCwtNzYuOTc0WiIgc3R5bGU9ImZ=
+pbGw6I2ZmZjsiLz48cGF0aCBkPSJNMzAuODksNDAuMDc3bDkuMTM1LDBsMCwtMTIuMTkybDkuMz=
+IzLDBsMCwxMi4xOTJsMTEuMzEyLDBsMCwtMTIuMTkybDkuMzIzLDBsMCwxMi4xOTJsOS4xMzYsM=
+GwwLDExLjI3MmwtOS4xMzYsMGwwLDEyLjY4MWw5LjEzNiwwbDAsMTEuMjcybC05LjEzNiwwbDAs=
+MTIuMTkybC05LjMyMywwbDAsLTEyLjE5MmwtMTEuMzEyLDBsMCwxMi4xOTJsLTkuMzIzLDBsMCw=
+tMTIuMTkybC05LjEzNSwwbDAsLTExLjI3Mmw5LjEzNSwwbDAsLTEyLjY4MWwtOS4xMzUsMGwwLC=
+0xMS4yNzJabTE4LjQ1OCwxMS4yNzJsMCwxMi42ODFsMTEuMzEyLDBsMCwtMTIuNjgxbC0xMS4zM=
+TIsMFoiIHN0eWxlPSJmaWxsOiM3MzczNzM7Ii8+PGRlZnM+PGxpbmVhckdyYWRpZW50IGlkPSJf=
+TGluZWFyMiIgeDE9IjAiIHkxPSIwIiB4Mj0iMSIgeTI9IjAiIGdyYWRpZW50VW5pdHM9InVzZXJ=
+TcGFjZU9uVXNlIiBncmFkaWVudFRyYW5zZm9ybT0ibWF0cml4KC0yMC4wMDE1LC0yMC4wMDE4LD=
+IwLjAwMTgsLTIwLjAwMTUsMTU5Ljk5NywyMC4wMDUzKSI+PHN0b3Agb2Zmc2V0PSIwIiBzdHlsZ=
+T0ic3RvcC1jb2xvcjojNjZhZWZkO3N0b3Atb3BhY2l0eToxIi8+PHN0b3Agb2Zmc2V0PSIxIiBz=
+dHlsZT0ic3RvcC1jb2xvcjojZmZkNzAwO3N0b3Atb3BhY2l0eToxIi8+PC9saW5lYXJHcmFkaWV=
+udD48bGluZWFyR3JhZGllbnQgaWQ9Il9MaW5lYXIzIiB4MT0iMCIgeTE9IjAiIHgyPSIxIiB5Mj=
+0iMCIgZ3JhZGllbnRVbml0cz0idXNlclNwYWNlT25Vc2UiIGdyYWRpZW50VHJhbnNmb3JtPSJtY=
+XRyaXgoMjAuMDAxOCwtMjAuMDAxNSwyMC4wMDE1LDIwLjAwMTgsMTQwLjAwNCwxNjAuMDE4KSI+=
+PHN0b3Agb2Zmc2V0PSIwIiBzdHlsZT0ic3RvcC1jb2xvcjojZmY4YTAwO3N0b3Atb3BhY2l0eTo=
+xIi8+PHN0b3Agb2Zmc2V0PSIxIiBzdHlsZT0ic3RvcC1jb2xvcjojNjZhZWZkO3N0b3Atb3BhY2=
+l0eToxIi8+PC9saW5lYXJHcmFkaWVudD48bGluZWFyR3JhZGllbnQgaWQ9Il9MaW5lYXI0IiB4M=
+T0iMCIgeTE9IjAiIHgyPSIxIiB5Mj0iMCIgZ3JhZGllbnRVbml0cz0idXNlclNwYWNlT25Vc2Ui=
+IGdyYWRpZW50VHJhbnNmb3JtPSJtYXRyaXgoMjAuMDAxNSwyMC4wMDE4LC0yMC4wMDE4LDIwLjA=
+wMTUsLTAuMDE3MzEzMSwxNDAuMDA3KSI+PHN0b3Agb2Zmc2V0PSIwIiBzdHlsZT0ic3RvcC1jb2=
+xvcjojYTVjNzAwO3N0b3Atb3BhY2l0eToxIi8+PHN0b3Agb2Zmc2V0PSIxIiBzdHlsZT0ic3Rvc=
+C1jb2xvcjojZmY4YTAwO3N0b3Atb3BhY2l0eToxIi8+PC9saW5lYXJHcmFkaWVudD48bGluZWFy=
+R3JhZGllbnQgaWQ9Il9MaW5lYXI1IiB4MT0iMCIgeTE9IjAiIHgyPSIxIiB5Mj0iMCIgZ3JhZGl=
+lbnRVbml0cz0idXNlclNwYWNlT25Vc2UiIGdyYWRpZW50VHJhbnNmb3JtPSJtYXRyaXgoLTIwLj=
+AwMTgsMjAuMDAxNSwtMjAuMDAxNSwtMjAuMDAxOCwxOS45ODQ1LDAuMDAzNTM2NjkpIj48c3Rvc=
+CBvZmZzZXQ9IjAiIHN0eWxlPSJzdG9wLWNvbG9yOiNmZmQ3MDA7c3RvcC1vcGFjaXR5OjEiLz48=
+c3RvcCBvZmZzZXQ9IjEiIHN0eWxlPSJzdG9wLWNvbG9yOiNhNWM3MDA7c3RvcC1vcGFjaXR5OjE=
+iLz48L2xpbmVhckdyYWRpZW50PjwvZGVmcz48L3N2Zz4=3D") 50% center / contain no-r=
+epeat; }
+
+.gutter { top: 0px; }
+
+.gutter, .gutter__background { position: absolute; height: 100%; }
+
+.gutter__background { right: 0px; }
+
+.new-discussion-button { color: rgba(0, 0, 0, 0.33); position: absolute; le=
+ft: 0px; padding: 3px 3px 3px 0px; width: 22px; height: 21px; line-height: =
+1; }
+
+.app--dark .new-discussion-button { color: rgba(255, 255, 255, 0.33); }
+
+.new-discussion-button:active, .new-discussion-button:focus, .new-discussio=
+n-button:hover { color: rgba(0, 0, 0, 0.4); }
+
+.app--dark .new-discussion-button:active, .app--dark .new-discussion-button=
+:focus, .app--dark .new-discussion-button:hover { color: rgba(255, 255, 255=
+, 0.4); }
+
+.discussion-editor-highlighting, .discussion-preview-highlighting { backgro=
+und-color: rgb(255, 224, 194); padding: 0.25em 0px; }
+
+.app--dark .discussion-editor-highlighting, .app--dark .discussion-preview-=
+highlighting { background-color: rgb(98, 66, 36); }
+
+.discussion-editor-highlighting--hover, .discussion-preview-highlighting--h=
+over { background-color: rgb(255, 203, 153); }
+
+.app--dark .discussion-editor-highlighting--hover, .app--dark .discussion-p=
+review-highlighting--hover { background-color: rgb(143, 90, 40); }
+
+.discussion-editor-highlighting--hover *, .discussion-preview-highlighting-=
+-hover * { background-color: transparent; }
+
+.discussion-editor-highlighting--selected, .discussion-preview-highlighting=
+--selected { background-color: rgb(255, 171, 91); }
+
+.app--dark .discussion-editor-highlighting--selected, .app--dark .discussio=
+n-preview-highlighting--selected { background-color: rgb(210, 126, 46); }
+
+.discussion-editor-highlighting--selected *, .discussion-preview-highlighti=
+ng--selected * { background-color: transparent; }
+
+.discussion-preview-highlighting { cursor: pointer; }
+
+.discussion-preview-highlighting.discussion-preview-highlighting--selected =
+{ cursor: auto; }
+
+.hidden-rendering-container { position: absolute; width: 500px; left: -1000=
+px; }
+
+@media print {
+  body { background-color: transparent !important; color: rgb(0, 0, 0) !imp=
+ortant; overflow: visible !important; position: absolute !important; }
+  body div { display: none !important; }
+  body a { text-decoration: underline; }
+  body > .app, body > .app > .layout, body > .app > .layout > .layout__pane=
+l, body > .app > .layout > .layout__panel > .layout__panel, body > .app > .=
+layout > .layout__panel > .layout__panel > .layout__panel, body > .app > .l=
+ayout > .layout__panel > .layout__panel > .layout__panel > .layout__panel--=
+preview, body > .app > .layout > .layout__panel > .layout__panel > .layout_=
+_panel > .layout__panel--preview div { font-size: 16px; background-color: t=
+ransparent !important; display: block !important; height: auto !important; =
+overflow: visible !important; position: static !important; width: auto !imp=
+ortant; }
+  .preview__inner-2 { padding: 0px 50px !important; }
+}
+
+.navigation-bar { position: absolute; width: 100%; height: 100%; padding-to=
+p: 4px; overflow: hidden; }
+
+.navigation-bar__hidden { display: none; }
+
+.navigation-bar__inner--left { float: left; }
+
+.navigation-bar__inner--left.navigation-bar__inner--button { margin-right: =
+12px; }
+
+.navigation-bar__inner--right { float: right; margin-bottom: 20px; }
+
+.navigation-bar__inner--button { margin: 0px 4px; }
+
+.navigation-bar__inner--edit-pagedownButtons { margin-left: 15px; }
+
+.navigation-bar__inner--edit-pagedownButtons .navigation-bar__button, .navi=
+gation-bar__inner--edit-pagedownButtons .navigation-bar__spacer { float: le=
+ft; }
+
+.navigation-bar__inner--title * { flex: 0 0 auto; }
+
+.navigation-bar__button, .navigation-bar__spacer { height: 36px; padding: 0=
+px 4px; margin-bottom: 20px; }
+
+.navigation-bar__button { width: 34px; padding: 0px 7px; transition: opacit=
+y 0.25s ease 0s; }
+
+.navigation-bar__inner--button .navigation-bar__button { padding: 0px 4px; =
+width: 38px; }
+
+.navigation-bar__inner--button .navigation-bar__button.navigation-bar__butt=
+on--stackedit { opacity: 0.85; }
+
+.navigation-bar__inner--button .navigation-bar__button.navigation-bar__butt=
+on--stackedit:active, .navigation-bar__inner--button .navigation-bar__butto=
+n.navigation-bar__button--stackedit:focus, .navigation-bar__inner--button .=
+navigation-bar__button.navigation-bar__button--stackedit:hover { opacity: 1=
+; }
+
+.navigation-bar__button--revision { width: 38px; }
+
+.navigation-bar__button--revision:first-child { margin-left: 10px; }
+
+.navigation-bar__button--revision:last-child { margin-right: 10px; }
+
+.navigation-bar__button--restore { width: auto; }
+
+.navigation-bar__title { margin: 0px 4px; font-size: 21px; }
+
+.layout--revision .navigation-bar__title { position: absolute; left: -9999p=
+x; }
+
+.navigation-bar__button, .navigation-bar__title { display: inline-block; co=
+lor: rgb(185, 185, 185); background-color: transparent; }
+
+.navigation-bar__button--publish, .navigation-bar__button--sync { padding: =
+0px 6px; margin: 0px 5px; }
+
+.navigation-bar__button[disabled], .navigation-bar__button[disabled]:active=
+, .navigation-bar__button[disabled]:focus, .navigation-bar__button[disabled=
+]:hover { color: rgb(185, 185, 185); }
+
+.navigation-bar__button:active, .navigation-bar__button:focus, .navigation-=
+bar__button:hover, .navigation-bar__title--input:active, .navigation-bar__t=
+itle--input:focus, .navigation-bar__title--input:hover { color: rgb(255, 25=
+5, 255); background-color: rgba(255, 255, 255, 0.1); }
+
+.navigation-bar__button--location { width: 20px; height: 20px; border-radiu=
+s: 10px; padding: 2px; margin-top: 8px; opacity: 0.5; background-color: rgb=
+a(255, 255, 255, 0.2); }
+
+.navigation-bar__button--location:active, .navigation-bar__button--location=
+:focus, .navigation-bar__button--location:hover { opacity: 1; background-co=
+lor: rgba(255, 255, 255, 0.2); }
+
+.navigation-bar__button--blink { animation: 1s linear 0s infinite normal no=
+ne running blink; }
+
+.navigation-bar__title--fake { position: absolute; left: -9999px; width: au=
+to; white-space: pre-wrap; }
+
+.navigation-bar__title--text { overflow: hidden; white-space: nowrap; text-=
+overflow: ellipsis; }
+
+.navigation-bar--editor .navigation-bar__title--text, .navigation-bar__inne=
+r--edit-pagedownButtons, .navigation-bar__title--input { display: none; }
+
+.navigation-bar--editor .navigation-bar__inner--edit-pagedownButtons, .navi=
+gation-bar--editor .navigation-bar__title--input { display: block; }
+
+.navigation-bar__button { display: none; }
+
+.navigation-bar--editor .navigation-bar__button, .navigation-bar__button--r=
+evision, .navigation-bar__inner--button .navigation-bar__button { display: =
+inline-block; }
+
+.navigation-bar__button--close { color: rgb(71, 180, 245); }
+
+.navigation-bar__button--close:active, .navigation-bar__button--close:focus=
+, .navigation-bar__button--close:hover { color: rgb(120, 200, 248); }
+
+.navigation-bar__title--input { cursor: pointer; }
+
+.navigation-bar__title--input.navigation-bar__title--focus { cursor: text; =
+}
+
+.navigation-bar--light .navigation-bar__title--input { display: none; }
+
+.navigation-bar__spinner { width: 24px; margin: 7px 0px 0px 8px; }
+
+.navigation-bar__spinner .icon { width: 24px; height: 24px; color: rgba(255=
+, 51, 17, 0.5); }
+
+.spinner { width: 20px; height: 20px; display: block; position: relative; b=
+order: 2px solid rgba(186, 186, 186, 0.5); border-radius: 50%; margin: 2px;=
+ }
+
+.spinner::after, .spinner::before { content: ""; position: absolute; displa=
+y: block; width: 2px; background-color: rgb(185, 185, 185); border-radius: =
+1px; transform-origin: 50% 0px; }
+
+.spinner::before { height: 4px; left: 7px; top: 50%; animation: 3s linear 0=
+s infinite normal none running spin; }
+
+.spinner::after { height: 6px; left: 7px; top: 50%; animation: 0.75s linear=
+ 0s infinite normal none running spin; }
+
+@keyframes spin {=20
+  100% { transform: rotate(1turn); }
+}
+
+@keyframes blink {=20
+  50% { opacity: 1; }
+}
+
+.button-bar { width: 100%; height: 100%; }
+
+.button-bar, .button-bar__inner { position: absolute; }
+
+.button-bar__inner--bottom { bottom: 0px; }
+
+.button-bar__button { color: rgba(0, 0, 0, 0.2); display: block; width: 26p=
+x; height: 26px; padding: 2px; margin: 3px 0px; }
+
+.app--dark .button-bar__button { color: rgba(255, 255, 255, 0.15); }
+
+.button-bar__button:active, .button-bar__button:focus, .button-bar__button:=
+hover { color: rgba(0, 0, 0, 0.2); }
+
+.app--dark .button-bar__button:active, .app--dark .button-bar__button:focus=
+, .app--dark .button-bar__button:hover { color: rgba(255, 255, 255, 0.15); =
+background-color: rgba(255, 255, 255, 0.1); }
+
+.button-bar__button--on { color: rgba(0, 0, 0, 0.4); }
+
+.app--dark .button-bar__button--on { color: rgba(255, 255, 255, 0.4); }
+
+.button-bar__button--on:active, .button-bar__button--on:focus, .button-bar_=
+_button--on:hover { color: rgba(0, 0, 0, 0.4); }
+
+.app--dark .button-bar__button--on:active, .app--dark .button-bar__button--=
+on:focus, .app--dark .button-bar__button--on:hover { color: rgba(255, 255, =
+255, 0.4); }
+
+.stat-panel { position: absolute; width: 100%; height: 100%; color: rgb(255=
+, 255, 255); font-size: 12px; }
+
+.stat-panel__block { margin: 0px 10px; }
+
+.stat-panel__block--left { float: left; }
+
+.stat-panel__block--right { float: right; }
+
+.stat-panel__value { font-weight: 600; margin-left: 5px; }
+
+.explorer-node--drag-target { background-color: rgba(0, 128, 255, 0.2); }
+
+.explorer-node__item { position: relative; cursor: pointer; font-size: 14px=
+; overflow: hidden; white-space: nowrap; text-overflow: ellipsis; padding-r=
+ight: 5px; }
+
+.explorer-node--selected > .explorer-node__item { background-color: rgba(0,=
+ 0, 0, 0.2); }
+
+.explorer__tree:focus .explorer-node--selected > .explorer-node__item { bac=
+kground-color: rgb(51, 153, 255); color: rgb(255, 255, 255); }
+
+.explorer__tree--new-item .explorer-node__item { opacity: 0.33; }
+
+.explorer-node__item .explorer-node__location { float: right; width: 18px; =
+height: 18px; margin: 2px 1px; }
+
+.explorer-node--temp, .explorer-node--trash { color: rgba(0, 0, 0, 0.5); }
+
+.explorer-node--folder > .explorer-node__item-editor::before, .explorer-nod=
+e--folder > .explorer-node__item::before, .explorer-node__new-child--folder=
+::before { content: "=E2=96=B9"; position: absolute; margin-left: -13px; }
+
+.explorer-node--folder.explorer-node--open > .explorer-node__item-editor::b=
+efore, .explorer-node--folder.explorer-node--open > .explorer-node__item::b=
+efore { content: "=E2=96=BE"; }
+
+.explorer-node__item-editor, .explorer-node__new-child { padding: 1px 10px;=
+ }
+
+.explorer-node__item-editor .text-input, .explorer-node__new-child .text-in=
+put { font-size: 14px; padding: 2px; height: 25px; }
+
+.explorer, .explorer__tree { height: 100%; }
+
+.explorer__tree { overflow: auto; }
+
+.explorer__tree > .explorer-node > .explorer-node__children > .explorer-nod=
+e:last-child > .explorer-node__item { height: 20px; cursor: auto; }
+
+.toc__inner { position: relative; color: rgba(0, 0, 0, 0.67); cursor: point=
+er; font-size: 9px; padding: 10px 20px 40px; white-space: nowrap; user-sele=
+ct: none; }
+
+.toc__inner * { font-weight: inherit; pointer-events: none; }
+
+.toc__inner .cl-toc-section h1::after, .toc__inner .cl-toc-section h2::afte=
+r { display: none; }
+
+.toc__inner .cl-toc-section h1 { margin: 1rem 0px; }
+
+.toc__inner .cl-toc-section h2 { margin: 0.5rem 0px 0.5rem 8px; }
+
+.toc__inner .cl-toc-section h3 { margin: 0.33rem 0px 0.33rem 16px; }
+
+.toc__inner .cl-toc-section h4 { margin: 0.22rem 0px 0.22rem 24px; }
+
+.toc__inner .cl-toc-section h5 { margin: 0.11rem 0px 0.11rem 32px; }
+
+.toc__inner .cl-toc-section h6 { margin: 0px 0px 0px 40px; }
+
+.toc__mask { position: absolute; left: 0px; width: 100%; height: 35px; back=
+ground-color: rgba(255, 255, 255, 0.2); pointer-events: none; }
+
+.menu-entry { text-align: left; padding: 10px; height: auto; font-size: 17p=
+x; line-height: 1.4; text-transform: none; white-space: normal; }
+
+.menu-entry span { display: inline-block; font-size: 0.75rem; opacity: 0.67=
+; line-height: 1.3; }
+
+.menu-entry span .menu-entry__label { opacity: 1; }
+
+.menu-entry span span { display: inline; opacity: 1; }
+
+.menu-entry--info { padding-top: 3px; padding-bottom: 3px; }
+
+.menu-entry__icon { height: 20px; width: 20px; margin-right: 12px; flex: 0 =
+0 auto; }
+
+.menu-entry__icon--disabled { opacity: 0.5; }
+
+.menu-entry__icon--image { border-radius: 3px; overflow: hidden; }
+
+.hidden-file { position: fixed; top: -999px; }
+
+.menu-entry__label { float: right; font-size: 0.6rem; font-weight: 600; lin=
+e-height: 1; padding: 0.15em 0.25em; background-color: rgb(255, 255, 255); =
+border-radius: 3px; opacity: 0.6; }
+
+.menu-entry__label--warning { color: rgb(255, 255, 255); background-color: =
+rgb(221, 32, 0); opacity: 1; }
+
+.menu-entry__label--count { font-size: 0.75rem; font-weight: 400; }
+
+.menu-entry__text { width: 100%; overflow: hidden; }
+
+.user-image { width: 100%; height: 100%; background-color: rgb(255, 255, 25=
+5); background-repeat: no-repeat; background-position: 50% center; backgrou=
+nd-size: contain; }
+
+.workspace .menu-entry { padding-top: 12px; padding-bottom: 12px; }
+
+.workspace__name { font-weight: 700; line-height: 1.2; }
+
+.history__button { font-size: 14px; margin-top: 0.5em; }
+
+.history__spacer { position: relative; height: 40px; }
+
+.history__spacer::before { content: ""; position: absolute; height: 100%; t=
+op: 0px; left: 19px; border-left: 2px dotted rgba(128, 128, 128, 0.33); }
+
+.history__spacer--last { height: 20px; }
+
+.revision__button { text-align: left; padding: 10px; height: auto; text-tra=
+nsform: none; position: relative; }
+
+.revision__button::before { content: ""; position: absolute; height: 100%; =
+top: 0px; left: 19px; border-left: 2px solid rgba(128, 128, 128, 0.33); }
+
+.revision__button:active::before, .revision__button:focus::before, .revisio=
+n__button:hover::before { display: none; }
+
+.revision:first-child .revision__button::before { height: 67%; top: 33%; }
+
+.revision__icon { height: 20px; width: 20px; margin-right: 12px; flex: 0 0 =
+auto; border-radius: 3px; overflow: hidden; position: relative; }
+
+.revision__header { font-size: 15px; width: 100%; line-height: 1.33; }
+
+.revision__created { font-size: 0.75em; opacity: 0.6; }
+
+.layout--revision .cl-preview-section *, .layout--revision .cledit-section =
+* { color: rgba(0, 0, 0, 0.3) !important; }
+
+.app--dark .layout--revision .cl-preview-section *, .app--dark .layout--rev=
+ision .cledit-section * { color: rgba(255, 255, 255, 0.298) !important; }
+
+.layout--revision .cledit-section .revision-diff { color: rgba(0, 0, 0, 0.8=
+) !important; }
+
+.app--dark .layout--revision .cledit-section .revision-diff { color: rgba(2=
+55, 255, 255, 0.8) !important; }
+
+.layout--revision .cl-preview-section .revision-diff { color: rgba(0, 0, 0,=
+ 0.75) !important; }
+
+.app--dark .layout--revision .cl-preview-section .revision-diff { color: rg=
+ba(255, 255, 255, 0.75) !important; }
+
+.layout--revision .revision-diff { padding: 0.25em 0px; }
+
+.layout--revision .revision-diff.revision-diff--insert { background-color: =
+rgb(255, 213, 173); }
+
+.layout--revision .revision-diff.revision-diff--delete { background-color: =
+rgb(255, 173, 160); text-decoration: line-through; }
+
+.side-bar { overflow: hidden; height: 100%; }
+
+.side-bar hr { margin: 10px 40px; display: none; border-top: 1px solid rgba=
+(128, 128, 128, 0.33); }
+
+.side-bar * + hr { display: block; }
+
+.side-bar hr + hr { display: none; }
+
+.side-bar .textfield { font-size: 14px; height: 26px; }
+
+.side-bar__inner { position: relative; height: 100%; }
+
+.side-bar__panel { position: absolute; width: 100%; height: 100%; overflow:=
+ auto; }
+
+.side-bar__panel::after { content: ""; display: block; height: 40px; }
+
+.side-bar__panel--hidden { left: 1000px; }
+
+.side-bar__panel--menu { padding: 10px; }
+
+.side-bar__panel--help { padding: 0px 10px 0px 20px; }
+
+.side-bar__panel--help pre { font-size: 0.9em; font-variant-ligatures: no-c=
+ommon-ligatures; line-height: 1.25; white-space: pre-wrap; word-break: brea=
+k-word; overflow-wrap: break-word; }
+
+.side-bar__panel--help .cl-toc, .side-bar__panel--help .code, .side-bar__pa=
+nel--help .img, .side-bar__panel--help .imgref { background-color: rgba(0, =
+0, 0, 0.05); }
+
+.side-bar__info { padding: 10px; margin: -10px -10px 10px; background-color=
+: rgba(255, 173, 51, 0.15); font-size: 0.95em; }
+
+.side-bar__info p { margin: 10px 15px; font-size: 0.9rem; opacity: 0.67; li=
+ne-height: 1.3; }
+
+.comment-list { position: absolute; right: 0px; font-size: 15px; }
+
+.comment--last, .comment-list__current-discussion { position: absolute; wid=
+th: 100%; padding-top: 10px; }
+
+div.comment { padding: 5px 10px 10px; }
+
+.comment--last { opacity: 0.33; cursor: pointer; }
+
+.comment--last * { pointer-events: none; }
+
+.comment--last.comment--hover, .comment--last:hover { opacity: 0.5; }
+
+.comment__header { font-size: 0.75em; padding-bottom: 0.25em; }
+
+.comment__user-image { height: 20px; width: 20px; border-radius: 3px; overf=
+low: hidden; margin-right: 5px; }
+
+.comment:hover .comment__user-image { display: none; }
+
+.comment--last:hover .comment__user-image, .comment--new:hover .comment__us=
+er-image, .sticky-comment .comment:hover .comment__user-image { display: bl=
+ock; }
+
+.comment__remove-button { height: 20px; width: 20px; padding: 1px; color: r=
+gba(0, 0, 0, 0.33); margin-right: 5px; display: none; }
+
+.comment__remove-button:active, .comment__remove-button:focus, .comment__re=
+move-button:hover { color: rgba(0, 0, 0, 0.5); }
+
+.comment:hover .comment__remove-button { display: block; }
+
+.comment--last:hover .comment__remove-button, .sticky-comment .comment:hove=
+r .comment__remove-button { display: none; }
+
+.comment__created { opacity: 0.5; }
+
+.comment__buttons { padding: 10px 5px 0px; }
+
+.comment__button { padding: 0px 8px; line-height: 28px; height: 28px; }
+
+.comment__text { position: relative; }
+
+.comment__text::before { content: ""; position: absolute; bottom: -8px; rig=
+ht: 0px; border-top: 8px solid rgb(255, 255, 255); border-left: 8px solid t=
+ransparent; }
+
+.app--dark .comment__text::before { border-top-color: rgb(30, 30, 30); }
+
+.comment__text h1, .comment__text h2, .comment__text h3, .comment__text h4,=
+ .comment__text h5, .comment__text h6 { font-size: inherit; }
+
+.comment__text blockquote, .comment__text dl, .comment__text h1, .comment__=
+text h2, .comment__text h3, .comment__text h4, .comment__text h5, .comment_=
+_text h6, .comment__text ol, .comment__text p, .comment__text pre, .comment=
+__text ul { margin: 0.25em 0px; }
+
+.comment__text pre { font-variant-ligatures: no-common-ligatures; white-spa=
+ce: pre-wrap; word-break: break-word; overflow-wrap: break-word; caret-colo=
+r: rgb(0, 0, 0); }
+
+.comment__text img { max-width: 100%; }
+
+.comment__text .table-wrapper { max-width: 100%; overflow: auto; }
+
+.comment__text-inner { min-height: 37px; max-height: 200px; overflow: auto;=
+ padding: 1px 8px; background-color: rgb(255, 255, 255); border: 1px solid =
+transparent; border-radius: 3px 3px 0px; }
+
+.app--dark .comment__text-inner { background-color: rgb(30, 30, 30); }
+
+.comment__text-inner .markdown-highlighting { padding: 5px 0px; margin: 0px=
+; }
+
+.editor { position: absolute; width: 100%; height: 100%; overflow: auto; }
+
+.editor__inner { margin: 0px; font-family: Lato, "Helvetica Neue", Helvetic=
+a, sans-serif; font-variant-ligatures: no-common-ligatures; white-space: pr=
+e-wrap; word-break: break-word; overflow-wrap: break-word; }
+
+.editor__inner * { line-height: 1.67; }
+
+.editor__inner .cledit-section { font-family: inherit; }
+
+.editor__inner .hide { display: none; }
+
+.editor__inner.monospaced { font-family: "Roboto Mono", "Lucida Sans Typewr=
+iter", "Lucida Console", monaco, Courrier, monospace !important; font-size:=
+ 0.85em !important; }
+
+.editor__inner.monospaced * { font-size: inherit !important; }
+
+.preview, .preview__inner-1 { position: absolute; width: 100%; height: 100%=
+; }
+
+.preview__inner-1 { overflow: auto; }
+
+.preview__inner-2 { margin: 0px; }
+
+.preview__inner-2 > :first-child > :first-child { margin-top: 0px; }
+
+.preview__corner { position: absolute; top: 0px; right: 0px; }
+
+.preview__corner::before { content: ""; position: absolute; right: 0px; bor=
+der-top: 110px solid rgba(0, 0, 0, 0.075); border-left: 110px solid transpa=
+rent; pointer-events: none; }
+
+.app--dark .preview__corner::before { border-top-color: rgba(255, 255, 255,=
+ 0.075); }
+
+.preview__button { position: absolute; top: 15px; right: 15px; width: 40px;=
+ height: 40px; padding: 5px; color: rgba(0, 0, 0, 0.25); }
+
+.app--dark .preview__button { color: rgba(255, 255, 255, 0.25); }
+
+.preview__button:active, .preview__button:focus, .preview__button:hover { c=
+olor: rgba(0, 0, 0, 0.33); background-color: transparent; }
+
+.app--dark .preview__button:active, .app--dark .preview__button:focus, .app=
+--dark .preview__button:hover { color: rgba(255, 255, 255, 0.33); }
+
+.tour { top: 0px; left: 0px; }
+
+.tour, .tour-step { position: absolute; }
+
+.tour-step__inner { position: absolute; background-color: rgba(246, 218, 19=
+3, 0.976); padding: 1.5em; font-size: 0.9em; line-height: 1.33; width: 240p=
+x; text-align: center; border-radius: 3px; }
+
+.tour-step__inner h2 { margin: 0px; }
+
+.tour-step__inner h2::after { display: none; }
+
+.tour-step__inner .icon, .tour-step__inner .icon-provider { width: 1.25em; =
+height: 1.25em; vertical-align: bottom; display: inline-block; }
+
+.tour-step__inner::before { content: ""; position: absolute; }
+
+.tour-step--end .tour-step__inner, .tour-step--welcome .tour-step__inner { =
+left: -120px; top: 36px; border-bottom-right-radius: 0px; }
+
+.tour-step--end .tour-step__inner::before, .tour-step--welcome .tour-step__=
+inner::before { bottom: -10px; right: 0px; border-top: 10px solid rgba(246,=
+ 218, 193, 0.976); border-left: 10px solid transparent; }
+
+.tour-step--editor .tour-step__inner, .tour-step--menu .tour-step__inner { =
+right: 15px; border-top-right-radius: 0px; }
+
+.tour-step--editor .tour-step__inner::before, .tour-step--menu .tour-step__=
+inner::before { top: 0px; right: -10px; border-top: 10px solid rgba(246, 21=
+8, 193, 0.976); border-right: 10px solid transparent; }
+
+.tour-step--explorer .tour-step__inner { left: 15px; border-top-left-radius=
+: 0px; }
+
+.tour-step--explorer .tour-step__inner::before { top: 0px; left: -10px; bor=
+der-top: 10px solid rgba(246, 218, 193, 0.976); border-left: 10px solid tra=
+nsparent; }
+
+.tour-step__button-bar { margin-top: 1.5em; display: flex; flex-direction: =
+row; justify-content: flex-end; }
+
+.tour-step__button-bar .button { font-size: 1.1em; }
+
+.sticky-comment { position: absolute; right: 0px; font-size: 15px; padding-=
+top: 10px; }
+
+.current-discussion .sticky-comment { width: auto !important; }
+
+.current-discussion { position: absolute; right: 0px; bottom: 0px; }
+
+.current-discussion .sticky-comment { position: relative; }
+
+.current-discussion__inner { position: relative; font-size: 16px; backgroun=
+d-color: rgba(255, 173, 51, 0.15); max-height: 130px; overflow: hidden; }
+
+.current-discussion__buttons { padding: 4px 4px 0px; }
+
+.current-discussion__button { width: 30px; height: 28px; padding: 2px; flex=
+: 0 0 auto; color: rgba(0, 0, 0, 0.5); }
+
+.current-discussion__button:active, .current-discussion__button:focus, .cur=
+rent-discussion__button:hover { color: rgba(0, 0, 0, 0.75); }
+
+.current-discussion__button--remove { padding: 3px; }
+
+.current-discussion__button--rotate { transform: rotate(180deg); }
+
+.current-discussion__text { padding: 10px; }
+
+.current-discussion__text span { padding: 0.2em 0px; background-color: rgb(=
+255, 161, 71); cursor: pointer; }
+
+.current-discussion__text span .app--dark { background-color: rgb(233, 138,=
+ 48); }
+
+.find-replace { padding: 0px 35px 0px 25px; }
+
+.find-replace__row { margin: 10px 0px; }
+
+.find-replace__button { font-size: 15px; padding: 0px 8px; line-height: 28p=
+x; height: 28px; }
+
+.find-replace__button--find-option { padding: 0px; width: 28px; font-weight=
+: 600; letter-spacing: -0.025em; color: rgba(0, 0, 0, 0.25); text-transform=
+: none; }
+
+.find-replace__button--find-option:active, .find-replace__button--find-opti=
+on:focus, .find-replace__button--find-option:hover { color: rgba(0, 0, 0, 0=
+.25); }
+
+.find-replace__button--on, .find-replace__button--on:active, .find-replace_=
+_button--on:focus, .find-replace__button--on:hover { color: rgba(0, 0, 0, 0=
+.67); }
+
+.find-replace__text-input { border: 1px solid transparent; padding: 2px 5px=
+; height: 32px; }
+
+.find-replace__text-input:focus { border-color: rgb(12, 147, 228); }
+
+.find-replace__close-button { position: absolute; top: 5px; right: 5px; wid=
+th: 25px; height: 25px; padding: 2px; color: rgba(0, 0, 0, 0.5); }
+
+.find-replace__close-button:active, .find-replace__close-button:focus, .fin=
+d-replace__close-button:hover { color: rgba(0, 0, 0, 0.75); }
+
+.find-replace__find-stats { text-align: right; font-size: 0.75em; opacity: =
+0.6; }
+
+.find-replace-highlighting { background-color: rgb(255, 255, 0); color: rgb=
+a(0, 0, 0, 0.8) !important; }
+
+.find-replace-selection { background-color: rgb(255, 150, 50); }
+
+.layout { position: absolute; width: 100%; height: 100%; }
+
+.layout__panel { position: relative; width: 100%; height: 100%; flex: 0 0 a=
+uto; overflow: hidden; }
+
+.layout__panel--navigation-bar { background-color: rgb(44, 44, 44); }
+
+.layout__panel--status-bar { background-color: rgb(0, 122, 204); }
+
+.layout__panel--editor { background-color: rgb(255, 255, 255); }
+
+.app--dark .layout__panel--editor { background-color: rgb(30, 30, 30); }
+
+.layout__panel--editor .comment-list__current-discussion, .layout__panel--e=
+ditor .current-discussion, .layout__panel--editor .gutter__background, .lay=
+out__panel--editor .sticky-comment { background-color: rgb(238, 238, 238); =
+}
+
+.app--dark .layout__panel--editor .comment-list__current-discussion, .app--=
+dark .layout__panel--editor .current-discussion, .app--dark .layout__panel-=
+-editor .gutter__background, .app--dark .layout__panel--editor .sticky-comm=
+ent { background-color: rgb(45, 45, 45); }
+
+.layout__panel--button-bar, .layout__panel--preview { background-color: rgb=
+(243, 243, 243); }
+
+.app--dark .layout__panel--button-bar, .app--dark .layout__panel--preview {=
+ background-color: rgb(37, 37, 37); }
+
+.layout__panel--preview .comment-list__current-discussion, .layout__panel--=
+preview .current-discussion, .layout__panel--preview .gutter__background, .=
+layout__panel--preview .sticky-comment { background-color: rgb(227, 227, 22=
+7); }
+
+.layout__panel--explorer, .layout__panel--side-bar { background-color: rgb(=
+221, 221, 221); }
+
+.layout__panel--find-replace { background-color: rgb(230, 230, 230); positi=
+on: absolute; left: 0px; bottom: 0px; width: 300px; height: auto; border-to=
+p-right-radius: 3px; }
+
+.modal__close-button { position: absolute; top: 8px; right: 8px; color: rgb=
+a(0, 0, 0, 0.5); width: 32px; height: 32px; padding: 2px; }
+
+.modal__close-button:active, .modal__close-button:focus, .modal__close-butt=
+on:hover { color: rgba(0, 0, 0, 0.67); }
+
+.code-editor { margin: 0px; font-family: "Roboto Mono", "Lucida Sans Typewr=
+iter", "Lucida Console", monaco, Courrier, monospace; font-size: 0.85em; fo=
+nt-variant-ligatures: no-common-ligatures; word-break: break-word; overflow=
+-wrap: normal; height: auto; caret-color: rgb(0, 0, 0); min-height: 160px; =
+overflow: auto; padding: 0.2em 0.4em; }
+
+.code-editor * { line-height: 1.67; font-size: inherit !important; }
+
+.modal__inner-1.modal__inner-1--file-properties { max-width: 520px; }
+
+.modal__error--file-properties { white-space: pre-wrap; font-family: "Robot=
+o Mono", "Lucida Sans Typewriter", "Lucida Console", monaco, Courrier, mono=
+space; font-size: 0.85em; }
+
+.modal__inner-1.modal__inner-1--settings { max-width: 560px; }
+
+.modal__error--settings { white-space: pre-wrap; font-family: "Roboto Mono"=
+, "Lucida Sans Typewriter", "Lucida Console", monaco, Courrier, monospace; =
+font-size: 0.85em; }
+
+.modal__inner-1.modal__inner-1--templates { max-width: 600px; }
+
+.modal__inner-1--about-modal { text-align: center; }
+
+.modal__inner-1--about-modal .logo-background { height: 75px; margin: 0.5em=
+ 0px; }
+
+.modal__inner-1--about-modal small { display: block; }
+
+.modal__inner-1--about-modal hr { width: 160px; max-width: 100%; margin: 1.=
+5em auto; }
+
+.faq { font-size: 0.8em; line-height: 1.5; }
+
+.sync-entry { margin: 1.5em 0px; height: auto; font-size: 17px; line-height=
+: 1.5; }
+
+.sync-entry__header { line-height: 30px; }
+
+.sync-entry__row { border-top: 1px solid rgba(128, 128, 128, 0.33); line-he=
+ight: 22px; }
+
+.sync-entry__icon { height: 22px; width: 22px; margin-right: 0.75rem; flex:=
+ 0 0 auto; }
+
+.sync-entry__description, .sync-entry__url { width: 100%; overflow: hidden;=
+ white-space: nowrap; text-overflow: ellipsis; }
+
+.sync-entry__url { opacity: 0.5; font-size: 0.67em; }
+
+.sync-entry__buttons { margin-left: 0.75rem; }
+
+.sync-entry__row .sync-entry__buttons { margin-left: 0.5rem; }
+
+.sync-entry__button { width: 30px; height: 30px; padding: 4px; background-c=
+olor: transparent; opacity: 0.75; }
+
+.sync-entry__row .sync-entry__button { width: 22px; height: 22px; padding: =
+4px; }
+
+.sync-entry__button:active, .sync-entry__button:focus, .sync-entry__button:=
+hover { opacity: 1; background-color: rgba(0, 0, 0, 0.1); }
+
+.publish-entry { margin: 1.5em 0px; height: auto; font-size: 17px; line-hei=
+ght: 1.5; }
+
+.publish-entry__header { line-height: 30px; }
+
+.publish-entry__row { border-top: 1px solid rgba(128, 128, 128, 0.33); line=
+-height: 22px; }
+
+.publish-entry__icon { height: 22px; width: 22px; margin-right: 0.75rem; fl=
+ex: 0 0 auto; }
+
+.publish-entry__description, .publish-entry__url { width: 100%; overflow: h=
+idden; white-space: nowrap; text-overflow: ellipsis; }
+
+.publish-entry__url { opacity: 0.5; font-size: 0.67em; }
+
+.publish-entry__buttons { margin-left: 0.75rem; }
+
+.publish-entry__row .publish-entry__buttons { margin-left: 0.5rem; }
+
+.publish-entry__button { width: 30px; height: 30px; padding: 4px; backgroun=
+d-color: transparent; opacity: 0.75; }
+
+.publish-entry__row .publish-entry__button { width: 22px; height: 22px; pad=
+ding: 4px; }
+
+.publish-entry__button:active, .publish-entry__button:focus, .publish-entry=
+__button:hover { opacity: 1; background-color: rgba(0, 0, 0, 0.1); }
+
+.workspace-entry { margin: 1.75em 0px; height: auto; font-size: 17px; line-=
+height: 1.5; }
+
+.workspace-entry__header { line-height: 30px; }
+
+.workspace-entry__header .text-input { border: 1px solid rgb(12, 147, 228);=
+ padding: 0px 5px; line-height: 30px; height: 30px; }
+
+.workspace-entry__row { border-top: 1px solid rgba(128, 128, 128, 0.33); li=
+ne-height: 22px; }
+
+.workspace-entry__icon { height: 22px; width: 22px; margin-right: 0.75rem; =
+flex: 0 0 auto; }
+
+.workspace-entry__name { font-weight: 700; }
+
+.workspace-entry__name, .workspace-entry__url { width: 100%; overflow: hidd=
+en; white-space: nowrap; text-overflow: ellipsis; }
+
+.workspace-entry__url { opacity: 0.5; font-size: 0.67em; }
+
+.workspace-entry__buttons { margin-left: 0.75rem; }
+
+.workspace-entry__row .workspace-entry__buttons { margin-left: 0.5rem; }
+
+.workspace-entry__button { width: 30px; height: 30px; padding: 4px; backgro=
+und-color: transparent; opacity: 0.75; }
+
+.workspace-entry__row .workspace-entry__button { width: 22px; height: 22px;=
+ padding: 4px; }
+
+.workspace-entry__button:active, .workspace-entry__button:focus, .workspace=
+-entry__button:hover { opacity: 1; background-color: rgba(0, 0, 0, 0.1); }
+
+.workspace-entry__offline { font-size: 0.8rem; line-height: 1; padding: 0.1=
+5em 0.35em; border-radius: 3px; color: rgb(255, 255, 255); background-color=
+: rgb(221, 32, 0); }
+
+.account-entry { margin: 1.5em 0px; height: auto; font-size: 17px; line-hei=
+ght: 1.5; }
+
+.account-entry__header { line-height: 30px; }
+
+.account-entry__row { border-top: 1px solid rgba(128, 128, 128, 0.33); font=
+-size: 0.67em; padding: 0.25em 0px; }
+
+.account-entry__field { opacity: 0.5; }
+
+.account-entry__icon { height: 22px; width: 22px; margin-right: 0.75rem; fl=
+ex: 0 0 auto; }
+
+.account-entry__description { width: 100%; overflow: hidden; white-space: n=
+owrap; text-overflow: ellipsis; }
+
+.account-entry__buttons { margin-left: 0.75rem; }
+
+.account-entry__button { width: 30px; height: 30px; padding: 4px; backgroun=
+d-color: transparent; opacity: 0.75; }
+
+.account-entry__button:active, .account-entry__button:focus, .account-entry=
+__button:hover { opacity: 1; background-color: rgba(0, 0, 0, 0.1); }
+
+.modal__inner-1.modal__inner-1--badge-management { max-width: 520px; }
+
+.modal__inner-1.modal__inner-1--badge-management p { font-size: 1.8rem; fon=
+t-weight: 700; }
+
+.badge-entry { line-height: 1.4; margin: 2rem 0px; font-size: 0.9em; }
+
+.badge-entry .badge-entry { font-size: 0.8em; margin: 0.75rem 0px; }
+
+.badge-entry__icon { width: 1.67em; height: 1.67em; margin-right: 0.25em; o=
+pacity: 0.3; flex: 0 0 auto; }
+
+.badge-entry__icon--some-earned { opacity: 0.5; color: rgb(218, 165, 32); }
+
+.badge-entry__icon--earned { opacity: 1; color: rgb(218, 165, 32); }
+
+.badge-entry__description { opacity: 0.6; }
+
+.badge-entry__name { font-size: 1.2em; font-weight: 700; opacity: 0.4; }
+
+.badge-entry__name--earned { opacity: 1; }
+
+.modal__inner-1.modal__inner-1--sponsor { max-width: 400px; }
+
+.paypal-option { text-align: center; padding: 10px; height: auto; font-size=
+: 2.3em; margin: 0.75rem 0px; line-height: 1.2; text-transform: none; }
+
+.paypal-option span { display: inline-block; font-size: 0.75rem; opacity: 0=
+.6; white-space: normal; line-height: 1.5; }
+
+.paypal-option .paypal-option__offer { float: right; font-size: 0.6rem; fon=
+t-weight: 600; padding: 0.1em 0.2em; background-color: rgb(221, 32, 0); bor=
+der-radius: 3px; color: rgb(255, 255, 255); margin-left: -0.5em; }
+
+.google-photo__tumbnail { height: 160px; background-position: 50% center; b=
+ackground-repeat: no-repeat; background-size: contain; }
+
+.couchdb-workspace__info { font-size: 0.8em; }
+
+.modal { position: absolute; width: 100%; height: 100%; background-color: r=
+gba(161, 161, 161, 0.5); overflow: auto; }
+
+.modal p { line-height: 1.5; }
+
+.modal__sponsor-banner { position: fixed; z-index: 1; width: 100%; color: r=
+gb(221, 32, 0); background-color: rgba(255, 194, 184, 0.925); font-size: 0.=
+9em; line-height: 1.33; text-align: center; padding: 0.25em 1em; }
+
+.modal__inner-1 { margin: 0px auto; width: 100%; min-width: 320px; max-widt=
+h: 480px; }
+
+.modal__inner-2 { margin: 40px 10px 100px; background-color: rgb(248, 248, =
+248); padding: 50px 50px 40px; border-radius: 3px; position: relative; over=
+flow: hidden; }
+
+.modal__inner-2::before { top: 0px; background-image: linear-gradient(270de=
+g, gold, gold 23%, rgb(165, 199, 0) 27%, rgb(165, 199, 0) 48%, rgb(255, 138=
+, 0) 52%, rgb(255, 138, 0) 73%, rgb(102, 174, 253) 77%); }
+
+.modal__inner-2::after, .modal__inner-2::before { content: ""; position: ab=
+solute; left: 0px; height: 3px; width: 100%; }
+
+.modal__inner-2::after { bottom: 0px; background-image: linear-gradient(90d=
+eg, gold, gold 23%, rgb(165, 199, 0) 27%, rgb(165, 199, 0) 48%, rgb(255, 13=
+8, 0) 52%, rgb(255, 138, 0) 73%, rgb(102, 174, 253) 77%); }
+
+.modal__content > .modal__image:first-child + *, .modal__content > :first-c=
+hild { margin-top: 0px; }
+
+.modal__image { float: left; width: 60px; height: 60px; margin: 1.5em 1.2em=
+ 0.5em 0px; }
+
+.modal__image + ::after { content: ""; display: block; clear: both; }
+
+.modal__title { font-weight: 700; font-size: 1.5rem; line-height: 1.4; marg=
+in-top: 2.5rem; }
+
+.modal__sub-title { opacity: 0.6; font-size: 0.75rem; margin-bottom: 1.5rem=
+; }
+
+.modal__error { color: rgb(222, 44, 0); }
+
+.modal__info { background-color: rgba(255, 173, 51, 0.15); border-radius: 3=
+px; margin: 1.2em 0px; padding: 0.75em 1.25em; font-size: 0.95em; line-heig=
+ht: 1.6; }
+
+.modal__info pre { line-height: 1.5; }
+
+.modal__info--multiline { padding-top: 0.1em; padding-bottom: 0.1em; }
+
+.modal__button-bar { margin-top: 2rem; display: flex; flex-direction: row; =
+justify-content: flex-end; }
+
+.form-entry { margin: 1em 0px; }
+
+.form-entry__label { display: block; font-size: 0.9rem; color: gray; }
+
+.form-entry--focused .form-entry__label { color: rgb(9, 116, 180); }
+
+.form-entry--error .form-entry__label { color: rgb(221, 32, 0); }
+
+.form-entry__label-info { font-size: 0.75rem; }
+
+.form-entry__field { border: 1px solid rgb(176, 176, 176); border-radius: 3=
+px; position: relative; overflow: hidden; }
+
+.form-entry--focused .form-entry__field { border-color: rgb(12, 147, 228); =
+box-shadow: rgba(12, 147, 228, 0.33) 0px 0px 0px 2.5px; }
+
+.form-entry--error .form-entry__field { border-color: rgb(255, 51, 17); box=
+-shadow: rgba(255, 51, 17, 0.33) 0px 0px 0px 2.5px; }
+
+.form-entry__actions { text-align: right; margin: 0.25em; }
+
+.form-entry__button { width: 38px; height: 38px; padding: 6px; display: inl=
+ine-block; background-color: transparent; opacity: 0.75; }
+
+.form-entry__button:active, .form-entry__button:focus, .form-entry__button:=
+hover { opacity: 1; background-color: rgba(0, 0, 0, 0.1); }
+
+.form-entry__checkbox, .form-entry__radio { margin: 0.25em 1em; }
+
+.form-entry__checkbox input, .form-entry__radio input { margin-right: 0.25e=
+m; }
+
+.form-entry__info { font-size: 0.75em; opacity: 0.67; line-height: 1.4; mar=
+gin: 0.25em 0px; }
+
+.tabs { border-bottom: 1px solid rgba(128, 128, 128, 0.33); margin: 1em 0px=
+ 2em; }
+
+.tabs::after { content: ""; display: block; clear: both; }
+
+.tabs__tab { width: 50%; float: left; text-align: center; line-height: 1.4;=
+ font-weight: 400; font-size: 1.1em; }
+
+.tabs__tab > a { width: 100%; text-decoration: none; padding: 0.67em 0.33em=
+; cursor: pointer; border-bottom: 2px solid transparent; border-top-left-ra=
+dius: 3px; border-top-right-radius: 3px; color: rgb(12, 147, 228); }
+
+.tabs__tab > a:focus, .tabs__tab > a:hover { background-color: rgba(0, 0, 0=
+, 0.05); }
+
+.tabs__tab--active > a { border-bottom: 2px solid rgb(12, 147, 228); color:=
+ inherit; }
+
+.notification { position: absolute; bottom: 0px; right: 0px; width: 100%; m=
+ax-width: 340px; }
+
+.notification__item { margin: 10px; padding: 10px 15px; line-height: 1.4; b=
+ackground-color: rgb(0, 0, 0); color: rgb(255, 255, 255); font-size: 0.9em;=
+ border-radius: 3px; }
+
+.notification__icon { height: 20px; width: 20px; margin-right: 12px; flex: =
+0 0 auto; }
+
+.notification__button { color: rgb(185, 185, 185); padding: 8px; flex: 0 0 =
+auto; }
+
+.notification__button:active, .notification__button:focus, .notification__b=
+utton:hover { color: rgb(255, 255, 255); background-color: rgba(255, 255, 2=
+55, 0.1); }
+
+.context-menu { position: absolute; width: 100%; height: 100%; font-size: 1=
+4px; line-height: 18px; font-family: -apple-system, BlinkMacSystemFont, "Se=
+goe UI", Helvetica, Arial, sans-serif; user-select: none; }
+
+.context-menu__inner { position: absolute; background-color: rgb(235, 235, =
+235); border-radius: 5px; padding: 5px 0px; box-shadow: rgba(0, 0, 0, 0.16)=
+ 0px 6px 10px, rgba(0, 0, 0, 0.12) 0px 3px 10px 1px; }
+
+.context-menu__item { display: block; color: rgb(51, 51, 51); text-decorati=
+on: none; padding: 0px 25px; }
+
+a.context-menu__item:active, a.context-menu__item:focus, a.context-menu__it=
+em:hover { background-color: rgb(51, 141, 252); color: rgb(255, 255, 255); =
+}
+
+.context-menu__item--disabled { color: rgb(170, 170, 170); }
+
+.context-menu__separator { border-top: 2px solid rgb(220, 220, 221); margin=
+: 5px 0px; }
+
+.splash-screen { position: absolute; top: 0px; left: 0px; width: 100%; heig=
+ht: 100%; padding: 25px; }
+
+.splash-screen__inner { margin: 0px auto; max-width: 600px; height: 100%; }
+------MultipartBoundary--rQdIyDWawgRmvd4wMjfemfhIfm7TXVfVZjqXWJUoxT------
