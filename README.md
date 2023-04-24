@@ -3,7 +3,7 @@ Financial Analysis - Build a ChatGPT Pairs Trading Bot, by Packt Publishing
 
 ### Learn to use ChatGPT for algo-trading, crypto, forex, stock investing, and making money online using Python
 
-This is the code repository for "Financial Analysis: Build a ChatGPT Pairs Trading Bot", published by ##[Packt](--------------)##. It contains all the supporting project files necessary to work through the book from start to finish.
+This is the code repository for "Financial Analysis: Build a ChatGPT Pairs Trading Bot", published by [Packt](https://www.packtpub.com/?utm_source=github). It contains all the supporting project files necessary to work through the book from start to finish.
 
 ## Course Code Bundle
 
