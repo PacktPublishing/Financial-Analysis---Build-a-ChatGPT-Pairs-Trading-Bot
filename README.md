@@ -2,7 +2,7 @@
 Financial Analysis - Build a ChatGPT Pairs Trading Bot, by Packt Publishing
 
 Learn to use ChatGPT for algo-trading, crypto, forex, stock investing, and making money online using Python
-This is the code repository for "Financial Analysis: Build a ChatGPT Pairs Trading Bot", published by [Packt](https://www.packtpub.com/?utm_source=github). It contains all the supporting project files necessary to work through the book from start to finish.
+This is the code repository for “Financial Analysis: Build a ChatGPT Pairs Trading Bot”, published by ##Packt##. It contains all the supporting project files necessary to work through the book from start to finish.
 
 Course Code Bundle
 Enrolled Students can find all the course resources and notebooks by registering at this link.
@@ -10,8 +10,8 @@ Enrolled Students can find all the course resources and notebooks by registering
 Follow these steps to access the course code bundle
 
 Click on the link provided above
-If you're logging in for the first time, create an account by adding your username, email id, and setting a password
-Once you've registered, click on the link again and the course code bundle will start downloading
+If you’re logging in for the first time, create an account by adding your username, email id, and setting a password
+Once you’ve registered, click on the link again and the course code bundle will start downloading
 Once downloaded, unzip the folder to access the course files
 About Course
 Financial analysis with ChatGPT using pairs is a cutting-edge approach that combines the power of artificial intelligence (AI) with the expertise of financial analysts to provide insights into financial data. ChatGPT and human analysts synergistically foster a collaborative environment that facilitates and generates valuable investment decisions, risk assessments, and financial planning recommendations. Financial analysis with ChatGPT using pairs offers a unique approach to insights from complex financial data.
@@ -38,4 +38,3 @@ Author Bio
 The Lazy Programmer is an AI and machine learning engineer with a focus on deep learning, who also has experience in data science, big data engineering, and full-stack software engineering. With a background in computer engineering and specialization in machine learning, he holds two master’s degrees in computer engineering and statistics with applications to financial engineering. His expertise in online advertising and digital media includes work as both a data scientist and big data engineer.
 
 He has created deep learning models for prediction and has experience in recommendation systems using reinforcement learning and collaborative filtering. He is a skilled instructor who has taught at universities including Columbia, NYU, Hunter College, and The New School. He has web programming expertise, with experience in technologies such as Python, Ruby/Rails, PHP, and Angular, and has provided his services to multiple businesses.
-
